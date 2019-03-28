@@ -1,0 +1,48 @@
+Classes:
+	MainGUI
+		Transfers the current search string to the SearchProcessor
+		Receives new search strings from the SearchProcessor following the rules established by the requirements
+		Methods:
+			MainGUI(SearchProcessor) - constructor with processor passed to it
+			String[] sendSearchString(String) - gets suggested search queries from the SearchProcessor
+			void updateResults() - update the gui to the new list of words
+			void searchQuery(String) - passes search string to Google 
+	SearchProcessor
+		Communicates strings to the dictionary to check words
+		Receives lists of strings as words that are corrections,extensions, or following words
+		Methods:
+			SearchProcessor(Dictionary) - constructor, dictionary passsed
+			String[] receiveSearchString(String) - called by MainGUI to get the suggested results
+	Dictionary
+		Gives words to the dictionary data class to check if those words exist
+		Receives dictionary words from the DictionaryData class or boolean checks to check if a word exists
+		Methods:
+			Dictionary(DictionaryData,KeyDistance)
+			boolean isWord(String) - checks if a word is a word
+			String[] correctWord(String) - corrects a word by replacing letters
+				internal String[] getSwapped(String) - check for letter swaps
+				internal String[] getDistanceErrors(String) - checks letter distances to see if there was a typo
+			String[] extendWord(String) - finds words which are longer versions of the current word
+			String[] followWord(String) - checks for words which would commonly follow the given word
+	DictionaryData
+		Contains list of words and following words
+		Returns true/false if contains word and following words for a given word
+		Methods:
+			DictionaryData(String file) - reads in a file and appends data			
+			void readBook(String file) - same as constructor but for additional data
+			boolean isWord(String) - checks if a word is contained
+			String[] followingWords(String) - gets list of words which commonly follow the previous word
+	KeyDistance
+		Contains distance values for keys for the QUERTY keyboard
+		Returns list of closest letters to a given key
+		Methods:
+			KeyDistance(String file) - constructor, passes file which contains layout
+			char[] getClosestCharacters(char c) - gets the closest characters to a character
+	KeyPos
+		Used as storage by KeyDistance
+		Methods
+			getKey()
+			getX()
+			getY()
+			getDistance(KeyPos k)
+		
