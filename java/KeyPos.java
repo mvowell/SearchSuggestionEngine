@@ -1,7 +1,7 @@
 public class KeyPos {
    private int x;
    private int y;
-   private int c;
+   private char c;
    public KeyPos(char c, int x, int y){
       this.x = x;
       this.y = y;
