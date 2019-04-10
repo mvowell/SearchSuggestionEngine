@@ -3,6 +3,7 @@ import java.util.ArrayList;
 public class DictionaryEntry {
    private String key;
    private ArrayList<String> values;
+   private ArrayList<Integer> counts;
    static private ArrayList<DictionaryEntry> entries;
    
    private DictionaryEntry(String key){
@@ -14,6 +15,7 @@ public class DictionaryEntry {
       }
       this.key = key;
       this.values = new ArrayList<>();
+      this.counts = new ArrayList<>();
       if(entries == null) entries = new ArrayList<>();
       entries.add(this);
    }
@@ -37,8 +39,11 @@ public class DictionaryEntry {
    }
    
    public void addValue(String value){
-      if(!values.contains(value))
-      values.add(value);
+      if(!values.contains(value)){
+         values.add(value);
+         counts.add(1);
+      } else
+      counts.set(values.indexOf(value),counts.get(values.indexOf(value))+1);
    }
    
    public void removeValue(String value){
@@ -52,6 +57,33 @@ public class DictionaryEntry {
    public String[] getValues(){
       String[] empty = new String[0];
       return values.toArray(empty);
+   }
+   
+   public String[] getValuesSorted(){
+      String[] output = new String[values.size()];
+      ArrayList<String> valCopy = (ArrayList<String>)values.clone();
+      ArrayList<Integer> numCopy = (ArrayList<Integer>)counts.clone();
+      for(int i = 0; i < counts.size(); i++){
+         int greatest = 0;
+         String greatestStr = "";
+         int greatestInd = 0;
+         for(int j = 0; j < valCopy.size(); j++){
+            if(greatest < numCopy.get(j)){
+               greatest = numCopy.get(j);
+               greatestStr = valCopy.get(j);
+               greatestInd = j;
+            }
+         }
+         output[i] = greatestStr;
+         valCopy.remove(greatestInd);
+         numCopy.remove(greatestInd);
+      }
+      return output;
+   }
+   
+   public int getCount(String value){
+      if(!hasValue(value)) return 0;
+      return counts.get(values.indexOf(value));
    }
    
    @Override

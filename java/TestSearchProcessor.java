@@ -3,8 +3,8 @@ import java.util.Scanner;
 public class TestSearchProcessor {
    public static void main(String[] args){
       DictionaryData dd = new DictionaryData("/home/matthew/SearchSuggestionEngine/bible-kjv.txt");
-      DummyKeyDistance dkd = new DummyKeyDistance();
-      Dictionary d = new Dictionary(dd,dkd);
+      KeyDistance kd = new KeyDistance("/home/matthew/SearchSuggestionEngine/keyboard.txt");
+      Dictionary d = new Dictionary(dd,kd);
       SearchProcessor sp = new SearchProcessor(d);
       Scanner input = new Scanner(System.in);
       String inLine = "";

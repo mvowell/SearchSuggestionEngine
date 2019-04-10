@@ -15,7 +15,7 @@ public class DictionaryData implements IDictionaryData {
          StringBuilder book = new StringBuilder();
          while(line != null){
             line = line.toLowerCase();
-            book.append(line);
+            book.append(" " + line);
             
             
             line = reader.readLine();
@@ -55,7 +55,7 @@ public class DictionaryData implements IDictionaryData {
    
    @Override
    public String[] followingWords(String word){
-      String[] values = DictionaryEntry.getEntry(word).getValues();
+      String[] values = DictionaryEntry.getEntry(word).getValuesSorted();
       return values;
    }
    
