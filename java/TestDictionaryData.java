@@ -3,8 +3,8 @@ import java.util.Arrays;
 
 public class TestDictionaryData {
    public static void main(String[] args){
-      DictionaryData dd = new DictionaryData("/home/matthew/SearchSuggestionEngine/bible-kjv.txt");
-      DummyKeyDistance dkd = new DummyKeyDistance();
+      DictionaryData dd = new DictionaryData("dictionary.txt");
+      KeyDistance dkd = new KeyDistance("keyboard.txt");
       Dictionary d = new Dictionary(dd,dkd);
       Scanner input = new Scanner(System.in);
       String inLine = "";

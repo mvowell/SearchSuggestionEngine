@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.ArrayList;
 
 public class KeyDistance implements IKeyDistance {
-   ArrayList<KeyPos> keyPositions;
+   private ArrayList<KeyPos> keyPositions;
    public KeyDistance(String file){
       keyPositions = new ArrayList<KeyPos>();
       try(BufferedReader r = new BufferedReader(new FileReader(file))){

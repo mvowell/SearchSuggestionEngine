@@ -5,7 +5,6 @@ public class Dictionary implements IDictionary {
    private IKeyDistance kdist;
    
    final int MAXRESPONSE = 5;
-   final int MAXEXTRALETTERS = 5;
    
    public Dictionary(IDictionaryData ddata, IKeyDistance kdist){
       this.ddata = ddata;
@@ -51,7 +50,7 @@ public class Dictionary implements IDictionary {
    
    private String[] getSwapped(String word){
       ArrayList<String> output = new ArrayList<>();
-      for(int i = 0; i < word.length() - 1; i++){
+      for(int i = 0; i < word.length() - 1 && output.size() < MAXRESPONSE; i++){
          char a = word.charAt(i+1);
          char b = word.charAt(i);
          String newWord = word.substring(0,i) + String.valueOf(a) + String.valueOf(b) + word.substring(i+2);
@@ -61,7 +60,6 @@ public class Dictionary implements IDictionary {
       return output.toArray(empty);
    }
    
-   // Returns nothing with the dummykeydistance class
 	private String[] getDistanceErrors(String word){
       ArrayList<String> output = new ArrayList<String>();
       for(int i = 0; i < word.length(); i++){
@@ -86,6 +84,13 @@ public class Dictionary implements IDictionary {
    @Override
    public String[] extendWord(String word){
       String[] extensions = ddata.extendedWords(word);
+      if(extensions.length > MAXRESPONSE){
+         String[] output = new String[MAXRESPONSE];
+         for(int i = 0; i < MAXRESPONSE; i++){
+            output[i] = extensions[i];
+         }
+         return output;
+      }
       return extensions;
    }
    
@@ -99,5 +104,10 @@ public class Dictionary implements IDictionary {
          return output;
       }
       return followingWords;
+   }
+   
+   @Override
+   public String[] filterWords(String first, String[] second){
+      return ddata.filterUnknown(first,second);
    }
 }

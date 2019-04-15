@@ -12,34 +12,30 @@ public class DictionaryData implements IDictionaryData {
    public void readBook(String file){
       try(BufferedReader reader = new BufferedReader(new FileReader(file))){
          String line = reader.readLine();
-         StringBuilder book = new StringBuilder();
          while(line != null){
             line = line.toLowerCase();
-            book.append(" " + line);
-            
-            
-            line = reader.readLine();
-         }
-         String separator = "[^\\p{Alnum}\\s]";
-         String[] sentences = book.toString().split(separator);
-         for(int i = 0; i < sentences.length; i++){
-            String sentence = sentences[i];
-            char[] filter = {'a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z',' '};
-            String filtered = "";
-            for(int j = 0; j < sentence.length(); j++){
-               char c = sentence.charAt(j);
-               for(int k = 0; k < filter.length; k++){
-                  if(c == filter[k]){
-                     filtered += c;
-                     break;
-                  }  
+            String separator = "[^\\p{Alnum}\\s]";
+            String[] sentences = line.split(separator);
+            for(int i = 0; i < sentences.length; i++){
+               String sentence = sentences[i];
+               char[] filter = {'a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z',' '};
+               String filtered = "";
+               for(int j = 0; j < sentence.length(); j++){
+                  char c = sentence.charAt(j);
+                  for(int k = 0; k < filter.length; k++){
+                     if(c == filter[k]){
+                        filtered += c;
+                        break;
+                     }  
+                  }
+               }
+               String[] words = filtered.split("\\s");
+               for(int j = 0; j < words.length - 1; j++){
+                  DictionaryEntry entry = DictionaryEntry.getEntry(words[j]);
+                  entry.addValue(words[j+1]);
                }
             }
-            String[] words = filtered.split("\\s");
-            for(int j = 0; j < words.length - 1; j++){
-               DictionaryEntry entry = DictionaryEntry.getEntry(words[j]);
-               entry.addValue(words[j+1]);
-            }
+            line = reader.readLine();
          }
       } catch (IOException e){
          e.printStackTrace();
@@ -71,7 +67,26 @@ public class DictionaryData implements IDictionaryData {
                output.add(entry.getKey());
                count++;
             }
-         if(count >= 5) break;
+      }
+      String[] empty = new String[0];
+      return output.toArray(empty);
+   }
+   
+   @Override
+   public String[] filterUnknown(String first, String[] seconds){
+      ArrayList<String> output = new ArrayList<>();
+      if(!isWord(first)){
+         String[] empty = new String[0];
+         return empty;
+      }
+      String[] common = DictionaryEntry.getEntry(first).getValues();
+      for(int i = 0; i < common.length; i++){
+         String commonString = common[i];
+         for(int j = 0; j < seconds.length; j++){
+            if(commonString.equals(seconds[j])){
+               output.add(commonString);
+            }
+         }
       }
       String[] empty = new String[0];
       return output.toArray(empty);

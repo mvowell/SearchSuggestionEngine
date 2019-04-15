@@ -3,4 +3,5 @@ public interface IDictionary {
    String[] correctWord(String word);
    String[] extendWord(String word);
    String[] followWord(String word);
+   String[] filterWords(String first, String[] second);
 }
