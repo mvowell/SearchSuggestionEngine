@@ -1,25 +1,27 @@
 import java.util.ArrayList;
 
+// This basically stores all of the dictionary data statically, DData class manages this
 public class DictionaryEntry {
    private String key;
    private ArrayList<String> values;
-   private ArrayList<Integer> counts;
+   private ArrayList<Integer> counts; // Used to keep track of num of occurences of a value
+   // Store all words (keys) statically
    static private ArrayList<DictionaryEntry> entries;
    
    private DictionaryEntry(String key){
-      if(entries != null)
-      for(DictionaryEntry entry : entries){
-         if(entry.key.equals(key)){
-            throw new IllegalArgumentException("Invalid construction of entry, already exists!");
-         }
+      if(entries == null) entries = new ArrayList<>();
+      if(exists(key)){
+         throw new IllegalArgumentException("Invalid construction of entry, already exists!");
       }
       this.key = key;
       this.values = new ArrayList<>();
       this.counts = new ArrayList<>();
-      if(entries == null) entries = new ArrayList<>();
       entries.add(this);
    }
    
+   // Returns the DictEntry associated with a keyword
+   // ONLY USE IF KEY IS KNOWN TO BE CORRECT
+   // OTHERWISE THE KEY IS CREATED
    public static DictionaryEntry getEntry(String key){
       if(entries != null)
       for(DictionaryEntry entry : entries){
@@ -30,6 +32,18 @@ public class DictionaryEntry {
       return new DictionaryEntry(key);
    }
    
+   // Checks if a key exists in the entry list
+   public static boolean exists(String key){
+      if(entries != null)
+      for(DictionaryEntry entry : entries){
+         if(entry.key.equals(key)){
+            return true;
+         }
+      }
+      return false;
+   }
+   
+   // Return a list of entries
    public static ArrayList<DictionaryEntry> getList(){
       return entries;
    }
@@ -59,6 +73,7 @@ public class DictionaryEntry {
       return values.toArray(empty);
    }
    
+   // Returns the list of values sorted by their count
    public String[] getValuesSorted(){
       String[] output = new String[values.size()];
       ArrayList<String> valCopy = (ArrayList<String>)values.clone();
@@ -81,6 +96,7 @@ public class DictionaryEntry {
       return output;
    }
    
+   // number of occurences of a value
    public int getCount(String value){
       if(!hasValue(value)) return 0;
       return counts.get(values.indexOf(value));

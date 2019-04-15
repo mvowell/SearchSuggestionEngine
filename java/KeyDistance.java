@@ -2,7 +2,9 @@ import java.io.*;
 import java.util.ArrayList;
 
 public class KeyDistance implements IKeyDistance {
+   // List of keys
    private ArrayList<KeyPos> keyPositions;
+   // Read in a file passed through constructor
    public KeyDistance(String file){
       keyPositions = new ArrayList<KeyPos>();
       try(BufferedReader r = new BufferedReader(new FileReader(file))){
@@ -23,6 +25,7 @@ public class KeyDistance implements IKeyDistance {
       }
    }
    
+   // Return list of keys exactly one key distance away
    public char[] getClosestCharacters(char c){
       KeyPos charKP = keyPositions.get(0);
       char[] output = new char[0];
