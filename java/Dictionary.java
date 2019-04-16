@@ -6,7 +6,7 @@ public class Dictionary implements IDictionary {
    // KeyDist obj to use
    private IKeyDistance kdist;
    // How many words to respond with
-   final int MAXRESPONSE = 5;
+   final int MAXRESPONSE = 100;
    
    public Dictionary(IDictionaryData ddata, IKeyDistance kdist){
       this.ddata = ddata;
@@ -31,11 +31,9 @@ public class Dictionary implements IDictionary {
       String[] swapped = getSwapped(word);
       // Second, get any distance errors
       String[] disterror = getDistanceErrors(word);
-      // Lastly, get replaced letters
-      String[] lettererror = getLetterErrors(word);
       // Concatenate all three lists above
       // and return the output
-      int length = swapped.length + disterror.length + lettererror.length;
+      int length = swapped.length + disterror.length;
       int i = 0;
       String[] concat = new String[length];
       for(int j = 0; j < swapped.length; j++){
@@ -44,10 +42,6 @@ public class Dictionary implements IDictionary {
       }
       for(int j = 0; j < disterror.length; j++){
          concat[i] = disterror[j];
-         i++;
-      }
-      for(int j = 0; j < lettererror.length; j++){
-         concat[i] = lettererror[j];
          i++;
       }
       return concat;
@@ -83,13 +77,6 @@ public class Dictionary implements IDictionary {
       }
       String[] empty = new String[0];
       return output.toArray(empty);
-   }
-   
-   // Not sure why this is here
-   // Not used, words are corrected through two methods above, only here bc I don't want to rewrite above method
-   private String[] getLetterErrors(String word){
-      String[] empty = new String[0];
-      return empty;
    }
    
    // Gets words which have a given word at the beginning
@@ -128,5 +115,10 @@ public class Dictionary implements IDictionary {
    public String[] filterWords(String first, String[] second){
       // Use the ddata class's method for this
       return ddata.filterUnknown(first,second);
+   }
+   
+   @Override
+   public int wordPopularity(String prev, String next){
+      return ddata.wordPopularity(prev,next);
    }
 }

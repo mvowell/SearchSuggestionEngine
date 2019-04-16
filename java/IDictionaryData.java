@@ -9,4 +9,6 @@ public interface IDictionaryData {
    String[] extendedWords(String word);
    // Returns a list of words from 'seconds' which are known to follow 'first'
    String[] filterUnknown(String first, String[] seconds);
+   //
+   int wordPopularity(String prev, String next);
 }

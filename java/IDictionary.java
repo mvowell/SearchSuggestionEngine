@@ -9,4 +9,6 @@ public interface IDictionary {
    String[] followWord(String word);
    // Filters out any results which do not follow a given word
    String[] filterWords(String first, String[] second);
+   // Return the popularity of a following word, weighted in the DictionaryData class
+   int wordPopularity(String prev, String next);
 }

@@ -5,47 +5,12 @@ public class DictionaryEntry {
    private String key;
    private ArrayList<String> values;
    private ArrayList<Integer> counts; // Used to keep track of num of occurences of a value
-   // Store all words (keys) statically
-   static private ArrayList<DictionaryEntry> entries;
+   private int usageCount = 1;
    
-   private DictionaryEntry(String key){
-      if(entries == null) entries = new ArrayList<>();
-      if(exists(key)){
-         throw new IllegalArgumentException("Invalid construction of entry, already exists!");
-      }
+   public DictionaryEntry(String key){
       this.key = key;
       this.values = new ArrayList<>();
       this.counts = new ArrayList<>();
-      entries.add(this);
-   }
-   
-   // Returns the DictEntry associated with a keyword
-   // ONLY USE IF KEY IS KNOWN TO BE CORRECT
-   // OTHERWISE THE KEY IS CREATED
-   public static DictionaryEntry getEntry(String key){
-      if(entries != null)
-      for(DictionaryEntry entry : entries){
-         if(entry.key.equals(key)){
-            return entry;
-         }
-      }
-      return new DictionaryEntry(key);
-   }
-   
-   // Checks if a key exists in the entry list
-   public static boolean exists(String key){
-      if(entries != null)
-      for(DictionaryEntry entry : entries){
-         if(entry.key.equals(key)){
-            return true;
-         }
-      }
-      return false;
-   }
-   
-   // Return a list of entries
-   public static ArrayList<DictionaryEntry> getList(){
-      return entries;
    }
    
    public String getKey(){
@@ -57,11 +22,15 @@ public class DictionaryEntry {
          values.add(value);
          counts.add(1);
       } else
-      counts.set(values.indexOf(value),counts.get(values.indexOf(value))+1);
+      counts.set(values.indexOf(value),
+         counts.get(values.indexOf(value))+1);
    }
    
    public void removeValue(String value){
-      values.remove(value);
+      int index = values.indexOf(value);
+      if(index == -1) return;
+      values.remove(index);
+      counts.remove(index);
    }
    
    public boolean hasValue(String value){
@@ -69,8 +38,10 @@ public class DictionaryEntry {
    }
    
    public String[] getValues(){
-      String[] empty = new String[0];
-      return values.toArray(empty);
+      //String[] empty = new String[0];
+      //return values.toArray(empty);
+      // Always sort the list
+      return getValuesSorted();
    }
    
    // Returns the list of values sorted by their count
@@ -100,6 +71,14 @@ public class DictionaryEntry {
    public int getCount(String value){
       if(!hasValue(value)) return 0;
       return counts.get(values.indexOf(value));
+   }
+   
+   public int getUsage(){
+      return usageCount;
+   }
+   
+   public void incrementUsage(){
+      usageCount++;
    }
    
    @Override

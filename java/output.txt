@@ -1,0 +1,13887 @@
+
+	 636
+	and 316
+	the 186
+	i 148
+	that 109
+	to 104
+	but 88
+	my 52
+	macbeth 50
+	for 49
+	which 49
+	as 47
+	what 45
+	in 43
+	with 40
+	he 38
+	a 34
+	who 34
+	if 33
+	when 32
+	it 30
+	you 29
+	or 28
+	our 27
+	come 26
+	this 25
+	so 25
+	thou 25
+	is 25
+	all 24
+	let 24
+	by 23
+	your 23
+	of 22
+	shall 22
+	how 22
+	sir 22
+	there 22
+	why 21
+	we 21
+	his 19
+	where 19
+	yet 19
+	enter 17
+	no 16
+	they 16
+	upon 15
+	though 15
+	not 15
+	here 15
+	are 14
+	hath 14
+	do 13
+	till 13
+	thy 13
+	from 13
+	whose 13
+	was 13
+	give 13
+	then 13
+	now 12
+	nor 11
+	would 11
+	than 11
+	will 11
+	good 11
+	worthy 10
+	have 10
+	at 10
+	knock 10
+	like 9
+	look 9
+	speak 9
+	macduff 9
+	be 9
+	their 9
+	malcolm 8
+	go 8
+	her 8
+	those 8
+	o 8
+	more 8
+	lennox 7
+	on 7
+	king 7
+	great 7
+	against 7
+	banquo 7
+	were 7
+	had 7
+	an 6
+	ross 6
+	whom 6
+	before 6
+	may 6
+	must 6
+	within 6
+	god 6
+	hail 5
+	say 5
+	sleep 5
+	things 5
+	nothing 5
+	only 5
+	cannot 5
+	without 5
+	new 5
+	make 5
+	see 5
+	being 5
+	did 5
+	while 5
+	each 5
+	she 5
+	ere 5
+	both 5
+	put 5
+	fly 5
+	doctor 5
+	peace 4
+	can 4
+	thanks 4
+	time 4
+	never 4
+	take 4
+	get 4
+	hear 4
+	hark 4
+	some 4
+	fleance 4
+	should 4
+	mother 4
+	poor 4
+	heaven 4
+	seyton 4
+	siward 4
+	lords 3
+	donalbain 3
+	show 3
+	mark 3
+	arm 3
+	hang 3
+	thus 3
+	tell 3
+	strange 3
+	whether 3
+	glamis 3
+	might 3
+	besides 3
+	enough 3
+	know 3
+	exeunt 3
+	into 3
+	whiles 3
+	these 3
+	lay 3
+	art 3
+	one 3
+	under 3
+	duncan 3
+	angus 3
+	such 3
+	away 3
+	false 3
+	ho 3
+	faith 3
+	anon 3
+	him 3
+	makes 3
+	up 3
+	awake 3
+	ring 3
+	even 3
+	attend 3
+	madam 3
+	love 3
+	since 3
+	hence 3
+	stand 3
+	double 3
+	fire 3
+	well 3
+	out 3
+	oh 3
+	marching 3
+	alarums 3
+	boy 2
+	gentlemen 2
+	murderers 2
+	attendants 2
+	meeting 2
+	began 2
+	hand 2
+	live 2
+	thane 2
+	stands 2
+	whither 2
+	came 2
+	most 2
+	two 2
+	present 2
+	think 2
+	safe 2
+	noble 2
+	me 2
+	wouldst 2
+	hie 2
+	almost 2
+	shake 2
+	hold 2
+	bear 2
+	unto 2
+	does 2
+	fair 2
+	servants 2
+	could 2
+	return 2
+	first 2
+	pale 2
+	towards 2
+	again 2
+	after 2
+	lest 2
+	man 2
+	old 2
+	himself 2
+	second 2
+	nose 2
+	therefore 2
+	much 2
+	horror 2
+	death 2
+	alas 2
+	dear 2
+	courage 2
+	turn 2
+	broke 2
+	adieu 2
+	lady 2
+	according 2
+	better 2
+	gentle 2
+	full 2
+	lives 2
+	already 2
+	sit 2
+	rise 2
+	pray 2
+	keep 2
+	led 2
+	behold 2
+	lo 2
+	ay 2
+	too 2
+	protest 2
+	horrible 2
+	meet 2
+	thither 2
+	gracious 2
+	damned 2
+	black 2
+	answer 2
+	confound 2
+	beware 2
+	bring 2
+	fare 2
+	lord 2
+	scotland 2
+	caithness 2
+	send 2
+	dramatis 1
+	generals 1
+	noblemen 1
+	general 1
+	son 1
+	gentlewoman 1
+	three 1
+	apparitions 1
+	officers 1
+	soldiers 1
+	england 1
+	lightning 1
+	graymalkin 1
+	hover 1
+	brave 1
+	disdaining 1
+	shipwrecking 1
+	discomfort 1
+	compell 1
+	doubly 1
+	except 1
+	attended 1
+	norway 1
+	assisted 1
+	lapp 1
+	confronted 1
+	point 1
+	curbing 1
+	sweno 1
+	craves 1
+	ten 1
+	sister 1
+	quoth 1
+	witch 1
+	master 1
+	weary 1
+	peak 1
+	wreck 1
+	posters 1
+	about 1
+	thrice 1
+	went 1
+	fight 1
+	silenced 1
+	call 1
+	confess 1
+	promised 1
+	win 1
+	cousins 1
+	commencing 1
+	shakes 1
+	chance 1
+	cleave 1
+	kind 1
+	friends 1
+	implored 1
+	pardon 1
+	became 1
+	pays 1
+	part 1
+	wanton 1
+	seek 1
+	sons 1
+	kinsmen 1
+	thanes 1
+	stars 1
+	hide 1
+	reading 1
+	learned 1
+	them 1
+	shalt 1
+	thee 1
+	mightst 1
+	ignorant 1
+	unsex 1
+	stop 1
+	wherever 1
+	thick 1
+	greater 1
+	leave 1
+	nimbly 1
+	smells 1
+	frieze 1
+	buttress 1
+	herein 1
+	sharp 1
+	themselves 1
+	pleasure 1
+	still 1
+	conduct 1
+	hostess 1
+	stage 1
+	bloody 1
+	commends 1
+	strong 1
+	trumpet 1
+	striding 1
+	horsed 1
+	vaulting 1
+	golden 1
+	wherein 1
+	letting 1
+	wait 1
+	whereto 1
+	soundly 1
+	merciful 1
+	restrain 1
+	gives 1
+	sent 1
+	fatal 1
+	sensible 1
+	proceeding 1
+	mine 1
+	nature 1
+	witchcraft 1
+	alarum 1
+	moves 1
+	words 1
+	confounds 1
+	didst 1
+	listening 1
+	stuck 1
+	sore 1
+	balm 1
+	chief 1
+	knocking 1
+	ha 1
+	clean 1
+	making 1
+	retire 1
+	wake 1
+	beelzebub 1
+	name 1
+	swear 1
+	equivocator 1
+	english 1
+	tailor 1
+	roast 1
+	way 1
+	remember 1
+	friend 1
+	provoker 1
+	urine 1
+	lechery 1
+	equivocates 1
+	giving 1
+	leaves 1
+	lamentings 1
+	clamour 1
+	tongue 1
+	murder 1
+	contradict 1
+	renown 1
+	amazed 1
+	temperate 1
+	loyal 1
+	outrun 1
+	reason 1
+	steep 1
+	unmannerly 1
+	hid 1
+	fears 1
+	hours 1
+	threaten 1
+	towering 1
+	beauteous 1
+	flung 1
+	contending 1
+	war 1
+	suspicion 1
+	thriftless 1
+	thine 1
+	cousin 1
+	father 1
+	cawdor 1
+	ladies 1
+	command 1
+	ride 1
+	filling 1
+	craving 1
+	goes 1
+	farewell 1
+	sirrah 1
+	stick 1
+	reigns 1
+	thence 1
+	given 1
+	rather 1
+	pass 1
+	mongrels 1
+	spaniels 1
+	curs 1
+	shoughs 1
+	water 1
+	distinguishes 1
+	every 1
+	whereby 1
+	particular 1
+	grapples 1
+	tugg 1
+	masking 1
+	perform 1
+	acquaint 1
+	always 1
+	resolve 1
+	abide 1
+	using 1
+	whilst 1
+	remains 1
+	worlds 1
+	treason 1
+	malice 1
+	foreign 1
+	sleek 1
+	unsafe 1
+	disguising 1
+	dearest 1
+	seeling 1
+	scarf 1
+	cancel 1
+	light 1
+	prithee 1
+	treachery 1
+	best 1
+	hall 1
+	whole 1
+	founded 1
+	cribb 1
+	confined 1
+	bound 1
+	ourselves 1
+	lays 1
+	please 1
+	feed 1
+	impostors 1
+	authorized 1
+	shame 1
+	quite 1
+	murders 1
+	fill 1
+	approach 1
+	unreal 1
+	question 1
+	blood 1
+	stones 1
+	augurs 1
+	stepp 1
+	returning 1
+	hecate 1
+	beldams 1
+	saucy 1
+	spiteful 1
+	loves 1
+	scorn 1
+	grace 1
+	security 1
+	chiefest 1
+	sits 1
+	marry 1
+	men 1
+	takes 1
+	free 1
+	prepares 1
+	advise 1
+	toad 1
+	days 1
+	swelter 1
+	boil 1
+	eye 1
+	wool 1
+	adder 1
+	lizard 1
+	tooth 1
+	witches 1
+	mummy 1
+	maw 1
+	root 1
+	liver 1
+	gall 1
+	silver 1
+	finger 1
+	ditch 1
+	add 1
+	enchanting 1
+	something 1
+	open 1
+	locks 1
+	whoever 1
+	howe 1
+	heads 1
+	grease 1
+	high 1
+	thyself 1
+	dismiss 1
+	word 1
+	bold 1
+	laugh 1
+	third 1
+	proud 1
+	bid 1
+	unfix 1
+	sweet 1
+	rebellion 1
+	pay 1
+	throbs 1
+	reign 1
+	deny 1
+	ghost 1
+	down 1
+	filthy 1
+	start 1
+	eyes 1
+	another 1
+	sisters 1
+	cheer 1
+	gone 1
+	indeed 1
+	unless 1
+	seize 1
+	school 1
+	wise 1
+	judicious 1
+	blessing 1
+	methinks 1
+	accounted 1
+	young 1
+	run 1
+	crying 1
+	following 1
+	weep 1
+	bestride 1
+	strike 1
+	angels 1
+	whatever 1
+	bleed 1
+	wear 1
+	esteem 1
+	luxurious 1
+	avaricious 1
+	deceitful 1
+	sudden 1
+	malicious 1
+	smacking 1
+	none 1
+	convey 1
+	finding 1
+	desire 1
+	quarrels 1
+	destroying 1
+	sticks 1
+	grows 1
+	verity 1
+	temperance 1
+	stableness 1
+	bounty 1
+	perseverance 1
+	mercy 1
+	lowliness 1
+	devotion 1
+	patience 1
+	fortitude 1
+	acting 1
+	nay 1
+	pour 1
+	uproar 1
+	oftener 1
+	died 1
+	child 1
+	wiped 1
+	reconciled 1
+	devilish 1
+	deal 1
+	unspeak 1
+	unknown 1
+	scarcely 1
+	pitiful 1
+	hanging 1
+	welcome 1
+	betimes 1
+	amen 1
+	expire 1
+	dying 1
+	relation 1
+	lent 1
+	due 1
+	pertains 1
+	quickly 1
+	savagely 1
+	ne 1
+	whispers 1
+	wife 1
+	children 1
+	sinful 1
+	naught 1
+	fell 1
+	convert 1
+	blunt 1
+	enrage 1
+	cut 1
+	front 1
+	receive 1
+	ante 1
+	throw 1
+	unlock 1
+	fold 1
+	write 1
+	read 1
+	afterwards 1
+	watching 1
+	walking 1
+	having 1
+	confirm 1
+	fast 1
+	observe 1
+	continually 1
+	washing 1
+	fie 1
+	fear 1
+	account 1
+	perfumes 1
+	dignity 1
+	holily 1
+	done 1
+	unnatural 1
+	infected 1
+	remove 1
+	revenges 1
+	excite 1
+	others 1
+	itself 1
+	march 1
+	villain 1
+	patch 1
+	whey 1
+	obedience 1
+	troops 1
+	curses 1
+	mouth 1
+	breath 1
+	skirr 1
+	canst 1
+	pluck 1
+	raze 1
+	cleanse 1
+	dispatch 1
+	cast 1
+	find 1
+	cyme 1
+	profit 1
+	menteith 1
+	thereby 1
+	err 1
+	keeps 1
+	industrious 1
+	thoughts 1
+	beard 1
+	direness 1
+	familiar 1
+	wherefore 1
+	creeps 1
+	brief 1
+	life 1
+	told 1
+	signifying 1
+	methought 1
+	comes 1
+	blow 1
+	wind 1
+	wrack 1
+	lead 1
+	am 1
+	abhorred 1
+	weapons 1
+	brandish 1
+	tyrant 1
+	either 1
+	seems 1
+	fortune 1
+	hell 1
+	untimely 1
+	coward 1
+	painted 1
+	fighting 1
+	flourish 1
+	has 1
+	henceforth 1
+	producing 1
+	took 1
+macbeth
+	i 17
+	and 9
+	 8
+	what 8
+	the 6
+	thou 6
+	we 6
+	my 5
+	if 5
+	to 4
+	o 4
+	bring 4
+	you 4
+	hath 3
+	so 3
+	your 3
+	who 3
+	a 3
+	ay 3
+	is 3
+	here 3
+	give 2
+	he 2
+	prithee 2
+	good 2
+	go 2
+	that 2
+	there 2
+	but 2
+	shall 2
+	had 2
+	well 2
+	come 2
+	then 2
+	where 2
+	how 2
+	doth 1
+	stay 1
+	into 1
+	till 1
+	only 1
+	all 1
+	know 1
+	was 1
+	being 1
+	alack 1
+	now 1
+	as 1
+	hark 1
+	donalbain 1
+	this 1
+	one 1
+	consider 1
+	these 1
+	methought 1
+	does 1
+	still 1
+	infirm 1
+	whence 1
+	not 1
+	woe 1
+	help 1
+	let 1
+	fail 1
+	both 1
+	say 1
+	nought 1
+	be 1
+	ourself 1
+	pronounce 1
+	see 1
+	thanks 1
+	sweet 1
+	which 1
+	sit 1
+	fie 1
+	blood 1
+	avaunt 1
+	think 1
+	can 1
+	it 1
+	almost 1
+	did 1
+	call 1
+	tell 1
+	whate 1
+	thus 1
+	saw 1
+	came 1
+	infected 1
+	fled 1
+	time 1
+	yet 1
+	out 1
+	wash 1
+	geese 1
+	take 1
+	cure 1
+	throw 1
+	hang 1
+	she 1
+	liar 1
+	they 1
+	no 1
+	why 1
+	of 1
+	accursed 1
+dramatis
+	personae 1
+personae
+duncan
+	is 3
+	what 2
+	my 2
+	king 1
+	o 1
+	dismay 1
+	so 1
+	whence 1
+	great 1
+	no 1
+	there 1
+	welcome 1
+	true 1
+	comes 1
+	this 1
+	see 1
+	where 1
+	give 1
+	with 1
+	have 1
+king
+	of 4
+	that 2
+	the 1
+	hereafter 1
+	hath 1
+	comes 1
+	stirring 1
+	hence 1
+	upon 1
+	may 1
+	forth 1
+of
+	the 31
+	cawdor 14
+	my 14
+	our 11
+	your 9
+	his 8
+	banquo 7
+	scotland 6
+	nature 6
+	all 6
+	woman 6
+	them 5
+	a 5
+	you 5
+	time 4
+	death 4
+	man 4
+	life 4
+	their 4
+	that 4
+	these 4
+	thy 3
+	it 3
+	blood 3
+	this 3
+	mine 3
+	many 3
+	us 3
+	grace 3
+	men 2
+	honour 2
+	glamis 2
+	what 2
+	success 2
+	sorrow 2
+	cumberland 2
+	him 2
+	duncan 2
+	hell 2
+	macbeth 2
+	each 2
+	things 2
+	manhood 2
+	day 2
+	sleep 2
+	birth 2
+	fife 2
+	birnam 2
+	an 2
+	thine 2
+	women 2
+	northumberland 1
+	sun 1
+	kerns 1
+	ross 1
+	truth 1
+	noble 1
+	royal 1
+	belief 1
+	norway 1
+	darkness 1
+	use 1
+	recompense 1
+	thanks 1
+	growing 1
+	nobleness 1
+	greatness 1
+	rejoicing 1
+	human 1
+	direst 1
+	summer 1
+	vantage 1
+	old 1
+	late 1
+	people 1
+	reason 1
+	most 1
+	deeds 1
+	blessing 1
+	care 1
+	hurt 1
+	purpose 1
+	childhood 1
+	plenty 1
+	three 1
+	dire 1
+	motion 1
+	work 1
+	god 1
+	treasonous 1
+	leave 1
+	which 1
+	earth 1
+	place 1
+	bad 1
+	foes 1
+	state 1
+	foot 1
+	king 1
+	kings 1
+	second 1
+	dogs 1
+	sorriest 1
+	her 1
+	scorpions 1
+	dreadful 1
+	pitiful 1
+	expectation 1
+	kites 1
+	custom 1
+	acheron 1
+	drink 1
+	fortune 1
+	war 1
+	england 1
+	newt 1
+	frog 1
+	bat 1
+	dog 1
+	powerful 1
+	dragon 1
+	wolf 1
+	hemlock 1
+	blaspheming 1
+	goat 1
+	yew 1
+	turk 1
+	thee 1
+	fate 1
+	thunder 1
+	sovereignty 1
+	eight 1
+	doom 1
+	horse 1
+	macduff 1
+	birds 1
+	treachery 1
+	dolour 1
+	love 1
+	goodly 1
+	vice 1
+	horrid 1
+	every 1
+	concord 1
+	integrity 1
+	goodness 1
+	wretched 1
+	art 1
+	surgery 1
+	prophecy 1
+	help 1
+	physic 1
+	arabia 1
+	rule 1
+	friends 1
+	fear 1
+	fears 1
+	hair 1
+	recorded 1
+	sound 1
+	greatest 1
+	promise 1
+	no 1
+	watchful 1
+scotland
+	and 2
+	hath 1
+	where 1
+malcolm
+	and 6
+	be 4
+	i 4
+	 3
+	what 3
+	my 2
+	let 2
+	but 2
+	macduff 2
+	we 2
+	o 1
+	perchance 1
+	it 1
+	with 1
+	if 1
+	well 1
+	merciful 1
+	dispute 1
+	this 1
+	cousins 1
+	now 1
+	he 1
+his
+	death 3
+	own 3
+	majesty 3
+	hand 3
+	son 2
+	head 2
+	eyes 2
+	life 2
+	message 2
+	great 2
+	hands 2
+	wisdom 2
+	wife 2
+	babes 2
+	sons 1
+	plight 1
+	damned 1
+	brandish 1
+	passage 1
+	reflection 1
+	lavish 1
+	men 1
+	present 1
+	former 1
+	pent 1
+	bark 1
+	wonders 1
+	praises 1
+	kingdom 1
+	sight 1
+	country 1
+	treasons 1
+	commendations 1
+	loved 1
+	pendent 1
+	purveyor 1
+	spur 1
+	home 1
+	surcease 1
+	kinsman 1
+	subject 1
+	host 1
+	murderer 1
+	faculties 1
+	virtues 1
+	taking 1
+	boneless 1
+	day 1
+	two 1
+	spongy 1
+	sentinel 1
+	watch 1
+	stealthy 1
+	design 1
+	lie 1
+	masterpiece 1
+	chamber 1
+	silver 1
+	golden 1
+	gash 1
+	bloody 1
+	predecessors 1
+	time 1
+	royalty 1
+	mind 1
+	valour 1
+	issue 1
+	being 1
+	and 1
+	fall 1
+	father 1
+	leisure 1
+	grave 1
+	worst 1
+	fleance 1
+	cloister 1
+	drowsy 1
+	horses 1
+	throat 1
+	absence 1
+	promise 1
+	highness 1
+	youth 1
+	passion 1
+	person 1
+	house 1
+	destiny 1
+	confusion 1
+	key 1
+	presence 1
+	high 1
+	aid 1
+	back 1
+	speech 1
+	baby 1
+	earth 1
+	breath 1
+	heart 1
+	sprites 1
+	welcome 1
+	line 1
+	flight 1
+	fear 1
+	mansion 1
+	titles 1
+	jewels 1
+	breed 1
+	power 1
+	fellow 1
+	cure 1
+	touch 1
+	throne 1
+	uncle 1
+	brother 1
+	distemper 1
+	secret 1
+	faith 1
+	title 1
+	pester 1
+	main 1
+	hour 1
+	mother 1
+	prowess 1
+	worth 1
+	hurts 1
+	knell 1
+	score 1
+	fiend 1
+sons
+	under 1
+	as 1
+donalbain
+	what 1
+	to 1
+	be 1
+generals
+	of 1
+the
+	king 17
+	time 17
+	air 10
+	thane 9
+	palace 9
+	tyrant 9
+	other 7
+	deed 7
+	castle 7
+	very 6
+	english 5
+	name 5
+	rest 5
+	devil 5
+	day 5
+	door 5
+	night 5
+	heart 5
+	three 4
+	weird 4
+	earth 4
+	mind 4
+	eye 4
+	same 4
+	poor 4
+	way 4
+	good 4
+	world 4
+	worst 4
+	field 4
+	face 3
+	life 3
+	moon 3
+	like 3
+	bell 3
+	owl 3
+	dead 3
+	lie 3
+	great 3
+	times 3
+	whole 3
+	cauldron 3
+	first 3
+	wood 3
+	last 3
+	place 2
+	revolt 2
+	newest 2
+	knowledge 2
+	sun 2
+	norweyan 2
+	charm 2
+	water 2
+	wind 2
+	selfsame 2
+	crown 2
+	instruments 2
+	hour 2
+	nearest 2
+	prince 2
+	fatal 2
+	dark 2
+	innocent 2
+	love 2
+	ingredients 2
+	chamber 2
+	man 2
+	brains 2
+	rather 2
+	brain 2
+	false 2
+	clock 2
+	while 2
+	heat 2
+	present 2
+	death 2
+	house 2
+	gate 2
+	alarum 2
+	business 2
+	mere 2
+	lady 2
+	which 2
+	common 2
+	work 2
+	court 2
+	son 2
+	table 2
+	best 2
+	general 2
+	desert 2
+	natural 2
+	season 2
+	most 2
+	blood 2
+	sword 2
+	honest 2
+	queen 2
+	means 2
+	country 2
+	war 2
+	cry 2
+	hurlyburly 1
+	battle 1
+	set 1
+	heath 1
+	fog 1
+	sergeant 1
+	broil 1
+	merciless 1
+	multiplying 1
+	western 1
+	slave 1
+	nave 1
+	chaps 1
+	hare 1
+	lion 1
+	foe 1
+	worthy 1
+	sky 1
+	victory 1
+	norways 1
+	rump 1
+	tiger 1
+	quarters 1
+	shipman 1
+	sea 1
+	inhabitants 1
+	seeds 1
+	prospect 1
+	insane 1
+	reason 1
+	news 1
+	rebels 1
+	stout 1
+	rebel 1
+	greatest 1
+	swelling 1
+	imperial 1
+	use 1
+	aid 1
+	roughest 1
+	leaf 1
+	interim 1
+	leaving 1
+	dearest 1
+	sin 1
+	proportion 1
+	service 1
+	loyalty 1
+	harvest 1
+	harbinger 1
+	hearing 1
+	hand 1
+	perfectest 1
+	wonder 1
+	coming 1
+	dues 1
+	milk 1
+	illness 1
+	valour 1
+	golden 1
+	speed 1
+	raven 1
+	toe 1
+	access 1
+	effect 1
+	dunnest 1
+	wound 1
+	blanket 1
+	all 1
+	future 1
+	instant 1
+	serpent 1
+	temple 1
+	heaven 1
+	late 1
+	heels 1
+	assassination 1
+	consequence 1
+	be 1
+	end 1
+	inventor 1
+	knife 1
+	deep 1
+	blast 1
+	sightless 1
+	horrid 1
+	sides 1
+	hope 1
+	ornament 1
+	adage 1
+	babe 1
+	sticking 1
+	warder 1
+	receipt 1
+	unguarded 1
+	guilt 1
+	cursed 1
+	servant 1
+	handle 1
+	fools 1
+	bloody 1
+	one 1
+	curtain 1
+	wolf 1
+	stern 1
+	doors 1
+	surfeited 1
+	attempt 1
+	crickets 1
+	second 1
+	ravell 1
+	sleepy 1
+	daggers 1
+	sleeping 1
+	faces 1
+	grooms 1
+	multitudinous 1
+	green 1
+	south 1
+	key 1
+	expectation 1
+	scales 1
+	primrose 1
+	everlasting 1
+	porter 1
+	desire 1
+	performance 1
+	labour 1
+	woeful 1
+	obscure 1
+	livelong 1
+	matter 1
+	lord 1
+	building 1
+	sleepers 1
+	repetition 1
+	wine 1
+	spring 1
+	head 1
+	fountain 1
+	expedition 1
+	pauser 1
+	murderers 1
+	colours 1
+	foot 1
+	undivulged 1
+	hall 1
+	safer 1
+	near 1
+	nearer 1
+	aim 1
+	volume 1
+	heavens 1
+	travelling 1
+	minions 1
+	amazement 1
+	sovereignty 1
+	sacred 1
+	root 1
+	verities 1
+	better 1
+	sweeter 1
+	sisters 1
+	gracious 1
+	vessel 1
+	seed 1
+	list 1
+	utterance 1
+	grave 1
+	catalogue 1
+	valued 1
+	swift 1
+	slow 1
+	subtle 1
+	housekeeper 1
+	hunter 1
+	gift 1
+	bill 1
+	file 1
+	vile 1
+	perfect 1
+	moment 1
+	fate 1
+	snake 1
+	frame 1
+	affliction 1
+	torture 1
+	bat 1
+	shard 1
+	tender 1
+	crow 1
+	rooky 1
+	direction 1
+	west 1
+	lated 1
+	timely 1
+	subject 1
+	note 1
+	light 1
+	hearty 1
+	humble 1
+	midst 1
+	cut 1
+	nonpareil 1
+	marble 1
+	rock 1
+	casing 1
+	least 1
+	grown 1
+	worm 1
+	cheer 1
+	feast 1
+	sauce 1
+	ghost 1
+	graced 1
+	fit 1
+	maws 1
+	olden 1
+	gentle 1
+	ear 1
+	pledge 1
+	pleasure 1
+	rugged 1
+	arm 1
+	hyrcan 1
+	baby 1
+	mirth 1
+	disposition 1
+	order 1
+	secret 1
+	initiate 1
+	mistress 1
+	close 1
+	glory 1
+	pit 1
+	morning 1
+	corner 1
+	strength 1
+	right 1
+	thought 1
+	two 1
+	slaves 1
+	men 1
+	due 1
+	malevolence 1
+	holy 1
+	help 1
+	cloudy 1
+	middle 1
+	brinded 1
+	hedge 1
+	poison 1
+	charmed 1
+	ravin 1
+	gruel 1
+	gains 1
+	pricking 1
+	winds 1
+	churches 1
+	yesty 1
+	treasure 1
+	murderer 1
+	flame 1
+	power 1
+	issue 1
+	round 1
+	forest 1
+	tree 1
+	lease 1
+	spirit 1
+	former 1
+	line 1
+	crack 1
+	eighth 1
+	witches 1
+	calendar 1
+	galloping 1
+	flighty 1
+	firstlings 1
+	edge 1
+	land 1
+	fear 1
+	wisdom 1
+	flight 1
+	fits 1
+	net 1
+	pitfall 1
+	gin 1
+	liars 1
+	mortal 1
+	brightest 1
+	brows 1
+	title 1
+	villain 1
+	rich 1
+	yoke 1
+	particulars 1
+	legions 1
+	cistern 1
+	untimely 1
+	happy 1
+	nobles 1
+	division 1
+	sweet 1
+	universal 1
+	truest 1
+	black 1
+	taints 1
+	chance 1
+	disease 1
+	evil 1
+	succeeding 1
+	healing 1
+	flowers 1
+	speaker 1
+	tidings 1
+	main 1
+	heaviest 1
+	manner 1
+	quarry 1
+	grief 1
+	o 1
+	whetstone 1
+	woman 1
+	powers 1
+	benefit 1
+	effects 1
+	more 1
+	old 1
+	smell 1
+	divine 1
+	physician 1
+	bleeding 1
+	grim 1
+	mortified 1
+	gentry 1
+	belt 1
+	medicine 1
+	sickly 1
+	sovereign 1
+	weeds 1
+	boy 1
+	spirits 1
+	sear 1
+	yellow 1
+	memory 1
+	written 1
+	stuff 1
+	patient 1
+	dogs 1
+	thanes 1
+	days 1
+	numbers 1
+	confident 1
+	true 1
+	outward 1
+	ague 1
+	taste 1
+	stage 1
+	hill 1
+	next 1
+	equivocation 1
+	fiend 1
+	estate 1
+	course 1
+	noise 1
+	noble 1
+	roman 1
+	gashes 1
+	intrenchant 1
+	angel 1
+	word 1
+	show 1
+	ground 1
+	rabble 1
+	friends 1
+	unshrinking 1
+	front 1
+	usurper 1
+	snares 1
+	cruel 1
+	grace 1
+s
+	the 7
+	castle 6
+	there 6
+	a 5
+	done 4
+	no 4
+	to 3
+	not 3
+	blood 3
+	head 3
+	here 2
+	great 2
+	life 2
+	feast 2
+	an 2
+	murder 2
+	away 2
+	issue 2
+	but 2
+	make 2
+	power 2
+	worth 2
+	army 1
+	lost 1
+	whore 1
+	too 1
+	minion 1
+	bridegroom 1
+	inch 1
+	wife 1
+	card 1
+	thumb 1
+	wound 1
+	death 1
+	wreck 1
+	rapt 1
+	construction 1
+	after 1
+	breasts 1
+	mischief 1
+	coming 1
+	breath 1
+	cherubim 1
+	hard 1
+	husbandry 1
+	well 1
+	offerings 1
+	his 1
+	ravishing 1
+	one 1
+	sleep 1
+	hands 1
+	bath 1
+	second 1
+	ocean 1
+	sake 1
+	anointed 1
+	counterfeit 1
+	image 1
+	ear 1
+	nothing 1
+	wasteful 1
+	love 1
+	briefly 1
+	daggers 1
+	smiles 1
+	shot 1
+	warrant 1
+	act 1
+	predominance 1
+	shame 1
+	horses 1
+	two 1
+	means 1
+	body 1
+	benison 1
+	our 1
+	council 1
+	was 1
+	flight 1
+	had 1
+	spent 1
+	fitful 1
+	copy 1
+	comfort 1
+	summons 1
+	yawning 1
+	black 1
+	then 1
+	good 1
+	safe 1
+	fled 1
+	place 1
+	honour 1
+	full 1
+	story 1
+	fire 1
+	cloud 1
+	sons 1
+	fork 1
+	sting 1
+	leg 1
+	wing 1
+	eclipse 1
+	lips 1
+	chaudron 1
+	germens 1
+	sweaten 1
+	gibbet 1
+	another 1
+	your 1
+	will 1
+	fatherless 1
+	dead 1
+	advice 1
+	palace 1
+	in 1
+	grasp 1
+	house 1
+	knell 1
+	lives 1
+	age 1
+	honest 1
+	length 1
+	buried 1
+	grave 1
+	knocking 1
+	son 1
+	mad 1
+	robe 1
+	purge 1
+	born 1
+	strength 1
+	what 1
+	he 1
+	macbeth 1
+	of 1
+	ghosts 1
+	gently 1
+	people 1
+	womb 1
+	feet 1
+	curse 1
+	debt 1
+	soldier 1
+	cursed 1
+	pearl 1
+	more 1
+army
+banquo
+	and 4
+	 3
+	how 2
+	ay 2
+	vanishes 2
+	good 1
+	the 1
+	were 1
+	you 1
+	to 1
+	that 1
+	worthy 1
+	very 1
+	there 1
+	this 1
+	hold 1
+	what 1
+	all 1
+	at 1
+	so 1
+	thanks 1
+	too 1
+	look 1
+	thou 1
+	let 1
+	as 1
+	my 1
+	kings 1
+	was 1
+	gone 1
+	it 1
+	o 1
+	enters 1
+	present 1
+	walk 1
+	following 1
+	smiles 1
+macduff
+	i 8
+	what 6
+	o 5
+	and 4
+	is 4
+	he 4
+	why 4
+	was 2
+	 2
+	poor 2
+	every 2
+	let 2
+	my 2
+	confusion 1
+	approach 1
+	your 1
+	wherefore 1
+	look 1
+	those 1
+	they 1
+	carried 1
+	no 1
+	well 1
+	denies 1
+	lives 1
+	wisdom 1
+	father 1
+	sirrah 1
+	yes 1
+	thou 1
+	ay 1
+	now 1
+	whither 1
+	bleed 1
+	not 1
+	boundless 1
+	this 1
+	fit 1
+	such 1
+	see 1
+	stands 1
+	how 1
+	the 1
+	but 1
+	if 1
+	hum 1
+	make 1
+	that 1
+	turn 1
+	despair 1
+	then 1
+	hail 1
+lennox
+	 3
+	what 2
+	my 2
+	and 2
+	no 2
+	good 1
+	goes 1
+	the 1
+	mean 1
+	those 1
+	may 1
+	here 1
+	sent 1
+	ay 1
+	for 1
+ross
+	and 5
+	i 3
+	that 2
+	alas 2
+	 2
+	well 2
+	you 2
+	no 2
+	your 2
+	ay 2
+	god 1
+	from 1
+	the 1
+	ah 1
+	they 1
+	is 1
+	will 1
+	farewell 1
+	his 1
+	gentlemen 1
+	what 1
+	my 1
+	sir 1
+	why 1
+	when 1
+	would 1
+	let 1
+noblemen
+	of 1
+menteith
+	the 2
+	what 1
+	who 1
+	we 1
+angus
+	we 1
+	 1
+	near 1
+	now 1
+caithness
+	who 1
+	great 1
+	well 1
+fleance
+	with 2
+	son 1
+	bearing 1
+	the 1
+	i 1
+	his 1
+	escapes 1
+	is 1
+	kill 1
+	fled 1
+son
+	to 2
+	of 2
+	then 2
+	and 2
+	is 1
+	as 1
+	with 1
+	why 1
+	nay 1
+	was 1
+	what 1
+	who 1
+	if 1
+	thou 1
+	he 1
+to
+	the 39
+	be 19
+	our 11
+	you 10
+	do 10
+	me 9
+	bed 9
+	make 8
+	all 8
+	know 8
+	a 7
+	my 6
+	their 5
+	have 5
+	him 4
+	mine 4
+	fear 4
+	say 4
+	your 4
+	hear 4
+	dunsinane 4
+	banquo 3
+	that 3
+	come 3
+	give 3
+	thy 3
+	his 3
+	this 3
+	england 3
+	leave 3
+	scorn 3
+	macduff 2
+	speak 2
+	thee 2
+	them 2
+	win 2
+	receive 2
+	plant 2
+	see 2
+	love 2
+	use 2
+	heaven 2
+	sleep 2
+	think 2
+	call 2
+	donalbain 2
+	horse 2
+	scone 2
+	pray 2
+	gain 2
+	move 2
+	bear 2
+	kill 2
+	what 2
+	govern 2
+	meet 1
+	trust 1
+	bathe 1
+	conclude 1
+	aleppo 1
+	thine 1
+	forres 1
+	understand 1
+	interpret 1
+	herald 1
+	lose 1
+	ross 1
+	betray 1
+	read 1
+	other 1
+	throw 1
+	find 1
+	overtake 1
+	hide 1
+	inverness 1
+	bid 1
+	question 1
+	deliver 1
+	catch 1
+	remorse 1
+	cry 1
+	beguile 1
+	alter 1
+	contend 1
+	return 1
+	plague 1
+	prick 1
+	look 1
+	in 1
+	defect 1
+	serve 1
+	augment 1
+	feeling 1
+	sight 1
+	hell 1
+	wear 1
+	cast 1
+	it 1
+	countenance 1
+	parley 1
+	brag 1
+	malcolm 1
+	show 1
+	ireland 1
+	avoid 1
+	colmekill 1
+	fife 1
+	act 1
+	half 1
+	us 1
+	spite 1
+	mend 1
+	peace 1
+	lie 1
+	black 1
+	pieces 1
+	droop 1
+	saucy 1
+	nature 1
+	feed 1
+	meat 1
+	grace 1
+	duncan 1
+	true 1
+	those 1
+	hand 1
+	trade 1
+	ground 1
+	wake 1
+	ratify 1
+	hold 1
+	high 1
+	time 1
+	crown 1
+	sell 1
+	beat 1
+	fright 1
+	friend 1
+	offer 1
+	appease 1
+	boot 1
+	her 1
+	top 1
+	reign 1
+	take 1
+	devour 1
+	greatness 1
+	fill 1
+	live 1
+	woman 1
+	command 1
+	reconcile 1
+	smile 1
+	transport 1
+	doff 1
+	some 1
+	relate 1
+	add 1
+	cure 1
+	anger 1
+	front 1
+	seem 1
+	satisfy 1
+	recoil 1
+	dew 1
+	himself 1
+	beard 1
+	day 1
+	dusty 1
+	doubt 1
+	one 1
+	kiss 1
+	each 1
+siward
+	and 3
+	what 2
+	the 2
+	 2
+	earl 1
+	his 1
+	we 1
+	fare 1
+	no 1
+	thou 1
+	is 1
+	this 1
+	enter 1
+	some 1
+	then 1
+	he 1
+earl
+	of 1
+northumberland
+	and 1
+general
+	of 1
+	use 1
+	as 1
+	joy 1
+	cause 1
+english
+	forces 1
+	doctor 1
+	tailor 1
+	court 1
+	power 1
+	epicures 1
+	force 1
+	hence 1
+forces
+young
+	siward 7
+	remembrance 1
+	in 1
+	ones 1
+	fry 1
+	malcolm 1
+seyton
+	an 1
+	what 1
+	all 1
+	it 1
+	the 1
+an
+	hour 4
+	old 2
+	absolute 2
+	equivocator 2
+	officer 1
+	english 1
+	earnest 1
+	instrument 1
+	badged 1
+	auger 1
+	unfelt 1
+	office 1
+	attendant 1
+	unlineal 1
+	end 1
+	armed 1
+	eternal 1
+	angry 1
+	imperial 1
+	one 1
+	untitled 1
+	older 1
+	accustomed 1
+	idiot 1
+	unbatter 1
+	honour 1
+officer
+	attending 1
+attending
+	on 2
+on
+	the 8
+	his 4
+	their 4
+	thy 2
+	your 2
+	both 2
+	a 2
+	macbeth 1
+	lady 1
+	us 1
+	cawdor 1
+	whom 1
+	me 1
+	all 1
+	which 1
+	of 1
+	mortal 1
+	nature 1
+	him 1
+	death 1
+	manly 1
+	tuesday 1
+	thee 1
+	any 1
+	appetite 1
+	that 1
+	to 1
+	you 1
+	my 1
+	earth 1
+	her 1
+	with 1
+	by 1
+	our 1
+	mine 1
+	vulnerable 1
+boy
+	malcolm 1
+doctor
+	ay 2
+	you 2
+	what 2
+	of 1
+	i 1
+	a 1
+	how 1
+	hark 1
+	do 1
+	go 1
+	well 1
+	this 1
+	even 1
+	will 1
+	foul 1
+	not 1
+	therein 1
+a
+	man 9
+	servant 4
+	most 4
+	traitor 4
+	soldier 3
+	good 3
+	dismal 3
+	word 3
+	messenger 3
+	torch 3
+	heart 3
+	new 3
+	woman 3
+	light 3
+	one 3
+	father 3
+	porter 2
+	rebel 2
+	heath 2
+	drum 2
+	day 2
+	banquet 2
+	death 2
+	dagger 2
+	sorry 2
+	knocking 2
+	great 2
+	thing 2
+	deed 2
+	place 2
+	song 2
+	name 2
+	glass 2
+	sound 2
+	fool 2
+	doctor 2
+	scotch 1
+	desert 1
+	camp 1
+	bleeding 1
+	fresh 1
+	haste 1
+	sailor 1
+	sieve 1
+	rat 1
+	tail 1
+	wind 1
+	pilot 1
+	prosperous 1
+	greater 1
+	truth 1
+	deep 1
+	careless 1
+	gentleman 1
+	step 1
+	peerless 1
+	letter 1
+	book 1
+	pleasant 1
+	purpose 1
+	sewer 1
+	naked 1
+	coward 1
+	fume 1
+	limbeck 1
+	heavy 1
+	friend 1
+	false 1
+	ghost 1
+	bell 1
+	knell 1
+	noise 1
+	foolish 1
+	voice 1
+	painted 1
+	little 1
+	farmer 1
+	french 1
+	sleep 1
+	shift 1
+	joyful 1
+	rough 1
+	fellow 1
+	hideous 1
+	blessed 1
+	moment 1
+	breach 1
+	falcon 1
+	mousing 1
+	gap 1
+	solemn 1
+	borrower 1
+	dark 1
+	wisdom 1
+	line 1
+	fruitless 1
+	barren 1
+	soul 1
+	notion 1
+	station 1
+	clearness 1
+	few 1
+	park 1
+	mile 1
+	measure 1
+	ditch 1
+	thought 1
+	bold 1
+	winter 1
+	stool 1
+	murder 1
+	strange 1
+	girl 1
+	summer 1
+	kind 1
+	wayward 1
+	fatal 1
+	vaporous 1
+	foggy 1
+	caution 1
+	swift 1
+	hand 1
+	cavern 1
+	boiling 1
+	fenny 1
+	charm 1
+	hell 1
+	drab 1
+	tiger 1
+	baboon 1
+	ring 1
+	bloody 1
+	bond 1
+	child 1
+	tree 1
+	king 1
+	show 1
+	third 1
+	fourth 1
+	seventh 1
+	wild 1
+	husband 1
+	homely 1
+	weak 1
+	gash 1
+	lamb 1
+	devil 1
+	tyranny 1
+	spacious 1
+	stanchless 1
+	sauce 1
+	point 1
+	crew 1
+	golden 1
+	heavenly 1
+	modern 1
+	niggard 1
+	rumour 1
+	better 1
+	fee 1
+	waiting 1
+	taper 1
+	quarter 1
+	spot 1
+	wife 1
+	sigh 1
+	file 1
+	giant 1
+	dwarfish 1
+	room 1
+	mind 1
+	rooted 1
+	bough 1
+	siege 1
+	cry 1
+	night 1
+	time 1
+	walking 1
+	poor 1
+	tale 1
+	moving 1
+	wood 1
+	stake 1
+	hotter 1
+	title 1
+	charmed 1
+	double 1
+	pole 1
+	fairer 1
+	large 1
+scotch
+	doctor 1
+soldier
+	fought 1
+	none 1
+	hew 1
+	be 1
+porter
+	here 1
+	of 1
+	marry 1
+	that 1
+old
+	man 7
+	turning 1
+	robes 1
+	siward 1
+	age 1
+man
+	that 3
+	is 1
+	forbid 1
+	may 1
+	were 1
+	does 1
+	threescore 1
+	god 1
+	be 1
+	and 1
+	would 1
+	dare 1
+	again 1
+	of 1
+	he 1
+lady
+	macbeth 72
+	macduff 22
+gentlewoman
+	attending 1
+	since 1
+	that 1
+	neither 1
+	why 1
+	ay 1
+	it 1
+	she 1
+	i 1
+	pray 1
+	directly 1
+	good 1
+hecate
+	have 1
+	to 1
+	o 1
+	retires 1
+three
+	witches 6
+	things 2
+	meet 1
+	weird 1
+	murderers 1
+	ears 1
+	mile 1
+witches
+	vanish 1
+	meeting 1
+	dance 1
+first
+	witch 24
+	murderer 21
+	apparition 3
+	they 1
+	i 1
+	false 1
+	of 1
+	battle 1
+	cries 1
+	that 1
+witch
+	show 4
+	i 3
+	all 3
+	hail 3
+	when 2
+	where 2
+	 2
+	a 2
+	thou 2
+	thrice 2
+	he 2
+	that 1
+	there 1
+	paddock 1
+	anon 1
+	killing 1
+	sister 1
+	and 1
+	here 1
+	lesser 1
+	not 1
+	banquo 1
+	why 1
+	come 1
+	harpier 1
+	round 1
+	fillet 1
+	scale 1
+	cool 1
+	by 1
+	demand 1
+	we 1
+	say 1
+	pour 1
+	ay 1
+second
+	witch 16
+	murderer 7
+	apparition 4
+	chamber 1
+	course 1
+	cock 1
+	meeting 1
+third
+	witch 14
+	murderer 7
+	apparition 3
+	is 1
+apparitions
+	vanish 1
+apparition
+	macbeth 2
+	be 2
+lords
+	thanks 1
+	what 1
+	 1
+gentlemen
+officers
+soldiers
+	it 1
+murderers
+	true 1
+	we 1
+attendants
+and
+	the 21
+	yet 13
+	i 12
+	with 8
+	so 8
+	what 8
+	a 8
+	to 7
+	his 7
+	that 6
+	all 6
+	make 5
+	in 5
+	it 5
+	my 5
+	colours 5
+	attendants 4
+	our 4
+	take 4
+	then 4
+	donalbain 4
+	your 4
+	soldiers 4
+	banquo 3
+	munch 3
+	say 3
+	angus 3
+	when 3
+	every 3
+	you 3
+	fleance 3
+	show 3
+	lennox 3
+	do 3
+	let 3
+	an 3
+	be 3
+	trouble 3
+	cauldron 3
+	thrice 2
+	thane 2
+	nothing 2
+	set 2
+	honour 2
+	will 2
+	torches 2
+	live 2
+	we 2
+	thence 2
+	ten 2
+	put 2
+	mine 2
+	for 2
+	sleep 2
+	tongue 2
+	health 2
+	there 2
+	dare 2
+	trees 2
+	bear 2
+	this 2
+	good 2
+	now 2
+	damn 2
+	violent 2
+	must 2
+	swearers 2
+	more 2
+	their 2
+	young 2
+	messengers 1
+	lightning 1
+	won 1
+	foul 1
+	filthy 1
+	hardy 1
+	choke 1
+	gallowglasses 1
+	fortune 1
+	fix 1
+	direful 1
+	new 1
+	fan 1
+	pine 1
+	land 1
+	fair 1
+	seem 1
+	great 1
+	of 1
+	which 1
+	greater 1
+	macbeth 1
+	these 1
+	words 1
+	pour 1
+	vantage 1
+	proved 1
+	oftentimes 1
+	payment 1
+	state 1
+	servants 1
+	hold 1
+	bind 1
+	deep 1
+	referred 1
+	farewell 1
+	cawdor 1
+	shalt 1
+	chastise 1
+	metaphysical 1
+	fill 1
+	passage 1
+	pall 1
+	days 1
+	masterdom 1
+	sweetly 1
+	procreant 1
+	haunt 1
+	thank 1
+	single 1
+	broad 1
+	had 1
+	noble 1
+	shall 1
+	divers 1
+	service 1
+	pass 1
+	catch 1
+	shoal 1
+	pity 1
+	falls 1
+	wakes 1
+	pale 1
+	valour 1
+	know 1
+	dash 1
+	wassail 1
+	used 1
+	clamour 1
+	bend 1
+	mock 1
+	she 1
+	shut 1
+	allegiance 1
+	such 1
+	on 1
+	dudgeon 1
+	wicked 1
+	wither 1
+	firm 1
+	nature 1
+	not 1
+	one 1
+	heard 1
+	address 1
+	therefore 1
+	wash 1
+	smear 1
+	drink 1
+	unprovokes 1
+	disheartens 1
+	prophesying 1
+	confused 1
+	did 1
+	stole 1
+	destroy 1
+	treason 1
+	look 1
+	see 1
+	walk 1
+	grace 1
+	faces 1
+	were 1
+	furious 1
+	neutral 1
+	seize 1
+	question 1
+	scruples 1
+	meet 1
+	things 1
+	kill 1
+	duncan 1
+	certain 1
+	swift 1
+	fled 1
+	gone 1
+	guardian 1
+	friends 1
+	father 1
+	prosperous 1
+	supper 1
+	sure 1
+	bade 1
+	champion 1
+	stay 1
+	went 1
+	beggar 1
+	greyhounds 1
+	demi 1
+	love 1
+	buffets 1
+	though 1
+	bid 1
+	something 1
+	jovial 1
+	invisible 1
+	tear 1
+	drowse 1
+	near 1
+	last 1
+	play 1
+	general 1
+	fears 1
+	sits 1
+	hath 1
+	extend 1
+	regard 1
+	starts 1
+	since 1
+	push 1
+	him 1
+	quit 1
+	overcome 1
+	keep 1
+	worse 1
+	better 1
+	lady 1
+	understood 1
+	choughs 1
+	rooks 1
+	betimes 1
+	self 1
+	overbold 1
+	traffic 1
+	affairs 1
+	wrathful 1
+	at 1
+	fear 1
+	stays 1
+	another 1
+	thralls 1
+	wisely 1
+	is 1
+	warlike 1
+	banquets 1
+	receive 1
+	hums 1
+	unfold 1
+	once 1
+	nights 1
+	bake 1
+	toe 1
+	blind 1
+	owlet 1
+	bubble 1
+	gulf 1
+	slips 1
+	tartar 1
+	slab 1
+	fairies 1
+	midnight 1
+	swallow 1
+	pyramids 1
+	office 1
+	resolute 1
+	wears 1
+	top 1
+	mortal 1
+	grieve 1
+	thy 1
+	some 1
+	treble 1
+	points 1
+	even 1
+	done 1
+	ross 1
+	best 1
+	move 1
+	flies 1
+	lies 1
+	lie 1
+	hang 1
+	macduff 1
+	like 1
+	yell 1
+	wisdom 1
+	virtuous 1
+	child 1
+	each 1
+	here 1
+	fall 1
+	loyal 1
+	does 1
+	modest 1
+	me 1
+	blames 1
+	delight 1
+	unwelcome 1
+	ulcerous 1
+	sundry 1
+	groans 1
+	shrieks 1
+	babes 1
+	bids 1
+	would 1
+	braggart 1
+	myself 1
+	again 1
+	other 1
+	afeard 1
+	still 1
+	amazed 1
+	many 1
+	start 1
+	drown 1
+	mingle 1
+	over 1
+	purge 1
+	pristine 1
+	bane 1
+	clear 1
+	less 1
+	none 1
+	beat 1
+	stir 1
+	frets 1
+	fury 1
+	anon 1
+	slave 1
+	begin 1
+	out 1
+	wish 1
+	death 1
+	children 1
+	siward 1
+	little 1
+	die 1
+	break 1
+	gaze 1
+	underwrit 1
+	thou 1
+	brought 1
+	paid 1
+	kinsmen 1
+	place 1
+messengers
+lord
+	surveying 1
+	is 1
+	the 1
+	he 1
+	i 1
+sergeant
+	doubtful 1
+	as 1
+	yes 1
+servant
+	with 1
+	to 1
+	ay 1
+	 1
+	fee 1
+	there 1
+	soldiers 1
+	the 1
+murderer
+	we 3
+	he 2
+	then 2
+	shut 1
+	it 1
+	you 1
+	i 1
+	and 1
+	though 1
+	but 1
+	macbeth 1
+	hark 1
+	his 1
+	almost 1
+	a 1
+	stand 1
+	let 1
+	who 1
+	wast 1
+	there 1
+	well 1
+	appears 1
+	my 1
+	most 1
+	ay 1
+	where 1
+	what 1
+messenger
+	the 1
+	so 1
+	turns 1
+	bless 1
+	gracious 1
+	as 1
+	let 1
+scene
+	i 5
+	ii 5
+	iii 5
+	iv 4
+	v 3
+	vi 3
+	vii 2
+	scotland 1
+	viii 1
+england
+	and 2
+	have 1
+	hath 1
+act
+	v 8
+	i 7
+	iii 6
+	ii 4
+	iv 3
+	and 1
+	in 1
+i
+	have 41
+	am 29
+	will 17
+	would 11
+	see 9
+	say 8
+	must 8
+	pray 8
+	did 8
+	know 6
+	dare 6
+	shall 6
+	do 6
+	cannot 5
+	think 5
+	had 5
+	should 5
+	could 4
+	hear 4
+	can 4
+	fear 3
+	may 3
+	take 3
+	saw 3
+	a 2
+	another 2
+	myself 2
+	thank 2
+	owe 2
+	stood 2
+	was 2
+	laid 2
+	heard 2
+	believe 2
+	made 2
+	stand 2
+	to 2
+	mean 2
+	put 2
+	hope 2
+	bear 2
+	come 1
+	charge 1
+	yield 1
+	turn 1
+	built 1
+	grow 1
+	burned 1
+	thought 1
+	feel 1
+	teach 1
+	account 1
+	so 1
+	with 1
+	perform 1
+	court 1
+	dreamt 1
+	lose 1
+	draw 1
+	threat 1
+	go 1
+	descended 1
+	pronounce 1
+	shame 1
+	requited 1
+	prithee 1
+	but 1
+	fight 1
+	forres 1
+	wish 1
+	filed 1
+	murder 1
+	require 1
+	rather 1
+	drink 1
+	inhabit 1
+	keep 1
+	wade 1
+	not 1
+	commend 1
+	conjure 1
+	ask 1
+	three 1
+	stay 1
+	get 1
+	doubt 1
+	fly 1
+	remember 1
+	speak 1
+	offer 1
+	grant 1
+	king 1
+	power 1
+	came 1
+	guess 1
+	dunsinane 1
+	tell 1
+	sway 1
+	behold 1
+	from 1
+	look 1
+	care 1
+	pull 1
+	gin 1
+	smile 1
+	sheathe 1
+	beg 1
+	play 1
+	throw 1
+	as 1
+	desire 1
+desert
+	place 1
+	with 1
+	air 1
+place
+	is 1
+	reserved 1
+	so 1
+thunder
+	and 1
+lightning
+enter
+	macbeth 16
+	lady 9
+	a 8
+	macduff 6
+	malcolm 5
+	ross 4
+	banquo 4
+	duncan 3
+	the 3
+	three 2
+	lennox 2
+	seyton 2
+	attendant 1
+	ghost 1
+	hecate 1
+	murderers 1
+	menteith 1
+	young 1
+when
+	i 5
+	we 5
+	the 3
+	they 2
+	all 2
+	shall 1
+	he 1
+	those 1
+	it 1
+	goes 1
+	you 1
+	duncan 1
+	in 1
+	my 1
+	every 1
+	there 1
+	living 1
+	therewithal 1
+	first 1
+	now 1
+	mine 1
+	our 1
+	shalt 1
+	was 1
+	none 1
+shall
+	be 11
+	we 3
+	never 3
+	not 3
+	live 2
+	make 2
+	sleep 2
+	have 2
+	deceive 1
+	neither 1
+	he 1
+	shine 1
+	sun 1
+	put 1
+	to 1
+	bid 1
+	continue 1
+	blow 1
+	drown 1
+	his 1
+	bear 1
+	cleave 1
+	keep 1
+	i 1
+	offend 1
+	they 1
+	give 1
+	raise 1
+	draw 1
+	spurn 1
+	share 1
+	harm 1
+	come 1
+	banquo 1
+	find 1
+	crave 1
+	think 1
+	tread 1
+	succeed 1
+	possess 1
+	do 1
+	blame 1
+	e 1
+	say 1
+	take 1
+we
+	are 8
+	have 8
+	will 7
+	shall 5
+	hold 3
+	but 2
+	should 2
+	to 2
+	miss 2
+	fear 2
+	on 2
+	three 1
+	deign 1
+	do 1
+	eaten 1
+	stay 1
+	name 1
+	thank 1
+	rest 1
+	coursed 1
+	love 1
+	still 1
+	fail 1
+	can 1
+	would 1
+	were 1
+	delight 1
+	lay 1
+	found 1
+	hear 1
+	call 1
+	spoke 1
+	destroy 1
+	now 1
+	bury 1
+	thirst 1
+	may 1
+	pine 1
+	up 1
+	well 1
+	the 1
+	in 1
+	our 1
+	doubt 1
+	shadow 1
+	learn 1
+	owe 1
+	might 1
+	cannot 1
+	reckon 1
+	invite 1
+meet
+	again 1
+	with 1
+	i 1
+	me 1
+	you 1
+	them 1
+	we 1
+again
+	to 2
+	i 1
+	be 1
+	should 1
+	undeeded 1
+in
+	the 30
+	a 13
+	his 13
+	my 9
+	their 7
+	your 7
+	this 7
+	our 4
+	nature 4
+	her 3
+	thine 3
+	that 3
+	hand 2
+	desire 2
+	every 2
+	these 2
+	an 2
+	blood 2
+	england 2
+	him 2
+	such 2
+	them 2
+	thunder 1
+	rain 1
+	reeking 1
+	proof 1
+	viewing 1
+	which 1
+	borrow 1
+	deepest 1
+	surmise 1
+	commission 1
+	doing 1
+	fulness 1
+	drops 1
+	compt 1
+	double 1
+	swinish 1
+	heaven 1
+	me 1
+	repose 1
+	unusual 1
+	measureless 1
+	some 1
+	seeking 1
+	form 1
+	life 1
+	incarnadine 1
+	both 1
+	conclusion 1
+	physics 1
+	mortality 1
+	exposure 1
+	men 1
+	thy 1
+	hope 1
+	ireland 1
+	banquo 1
+	safety 1
+	probation 1
+	doubtful 1
+	danger 1
+	fear 1
+	restless 1
+	best 1
+	mirth 1
+	time 1
+	folly 1
+	those 1
+	so 1
+	head 1
+	deed 1
+	riddles 1
+	pious 1
+	disgrace 1
+	sow 1
+	spite 1
+	no 1
+	absolute 1
+	whom 1
+	evils 1
+	you 1
+	truth 1
+	scotland 1
+	it 1
+	command 1
+	love 1
+	report 1
+	dunsinane 1
+	resolution 1
+	hell 1
+	measure 1
+or
+	else 4
+	the 3
+	that 2
+	his 2
+	be 2
+	in 1
+	memorise 1
+	are 1
+	why 1
+	have 1
+	did 1
+	heaven 1
+	art 1
+	to 1
+	die 1
+	twain 1
+	show 1
+	from 1
+	low 1
+	where 1
+	three 1
+	wear 1
+	ere 1
+	is 1
+	so 1
+	disseat 1
+	what 1
+	none 1
+rain
+	to 1
+hurlyburly
+done
+	to 2
+	no 2
+	on 1
+	so 1
+	and 1
+	double 1
+	when 1
+	quickly 1
+	the 1
+	there 1
+	is 1
+	his 1
+	this 1
+	cannot 1
+battle
+lost
+	and 1
+	noble 1
+	my 1
+won
+that
+	i 15
+	which 9
+	will 4
+	you 4
+	the 4
+	do 3
+	they 3
+	he 3
+	had 3
+	is 3
+	we 3
+	it 3
+	were 3
+	most 2
+	look 2
+	thou 2
+	business 2
+	could 2
+	would 2
+	are 2
+	did 2
+	know 2
+	does 2
+	speak 2
+	ever 2
+	way 2
+	keep 2
+	should 2
+	name 1
+	spring 1
+	seems 1
+	bellona 1
+	now 1
+	thane 1
+	man 1
+	indeed 1
+	takes 1
+	life 1
+	with 1
+	gave 1
+	trusted 1
+	suggestion 1
+	function 1
+	saw 1
+	very 1
+	swiftest 1
+	hast 1
+	be 1
+	wouldst 1
+	impedes 1
+	croaks 1
+	tend 1
+	no 1
+	my 1
+	morrow 1
+	follows 1
+	but 1
+	his 1
+	tears 1
+	may 1
+	made 1
+	their 1
+	milks 1
+	memory 1
+	too 1
+	nature 1
+	summons 1
+	shriek 1
+	death 1
+	knits 1
+	thus 1
+	fears 1
+	knocking 1
+	hanged 1
+	go 1
+	such 1
+	heart 1
+	suffer 1
+	theft 1
+	darkness 1
+	macbeth 1
+	wilt 1
+	myself 1
+	to 1
+	dauntless 1
+	doth 1
+	might 1
+	writes 1
+	every 1
+	keeps 1
+	dark 1
+	shake 1
+	banquo 1
+	great 1
+	in 1
+	moves 1
+	dare 1
+	macduff 1
+	wants 1
+	distill 1
+	nobly 1
+	clogs 1
+	well 1
+	a 1
+	under 1
+	hath 1
+	rises 1
+	cauldron 1
+	two 1
+	this 1
+	trust 1
+	bring 1
+	trace 1
+	swears 1
+	swear 1
+	womanly 1
+	rawness 1
+	shall 1
+	has 1
+	vulture 1
+	bore 1
+	stay 1
+	makes 1
+	rend 1
+	of 1
+	christendom 1
+	never 1
+	light 1
+	even 1
+	lesser 1
+	goose 1
+	talk 1
+	perilous 1
+	chambers 1
+	noise 1
+	cry 1
+	struts 1
+	lies 1
+	was 1
+	strike 1
+	tongue 1
+	tells 1
+	palter 1
+	first 1
+	fled 1
+	calls 1
+will
+	not 7
+	you 5
+	be 4
+	have 3
+	to 3
+	drain 1
+	grow 1
+	labour 1
+	establish 1
+	speak 1
+	plead 1
+	proceed 1
+	i 1
+	it 1
+	became 1
+	make 1
+	all 1
+	rather 1
+	fall 1
+	thither 1
+	fill 1
+	keep 1
+	put 1
+	avouch 1
+	advise 1
+	eat 1
+	mingle 1
+	require 1
+	venom 1
+	again 1
+	send 1
+	come 1
+	never 1
+	the 1
+	surprise 1
+	fight 1
+	cease 1
+	take 1
+	seem 1
+	set 1
+	these 1
+	she 1
+	discharge 1
+	cheer 1
+	endure 1
+	with 1
+	laugh 1
+	haunt 1
+	try 1
+	perform 1
+be
+	the 8
+	not 4
+	with 4
+	done 4
+	king 3
+	so 3
+	a 2
+	kings 2
+	undone 2
+	my 2
+	that 2
+	hanged 2
+	afraid 2
+	ere 1
+	lost 1
+	tempest 1
+	women 1
+	none 1
+	cawdor 1
+	thine 1
+	ill 1
+	good 1
+	known 1
+	myself 1
+	great 1
+	provided 1
+	his 1
+	worn 1
+	more 1
+	received 1
+	counsell 1
+	thought 1
+	watchers 1
+	said 1
+	an 1
+	trusted 1
+	wise 1
+	spoken 1
+	dainty 1
+	invested 1
+	master 1
+	thus 1
+	safely 1
+	fear 1
+	wrench 1
+	rid 1
+	without 1
+	herself 1
+	bright 1
+	you 1
+	thou 1
+	innocent 1
+	rain 1
+	large 1
+	well 1
+	alive 1
+	acted 1
+	scann 1
+	wrought 1
+	back 1
+	lodged 1
+	commanded 1
+	bloody 1
+	lion 1
+	until 1
+	satisfied 1
+	it 1
+	long 1
+	here 1
+	all 1
+	your 1
+	rightly 1
+	hands 1
+	open 1
+	as 1
+	fit 1
+	like 1
+	call 1
+	howl 1
+	mine 1
+	found 1
+	from 1
+	comforted 1
+	this 1
+	clean 1
+	hack 1
+	safe 1
+	given 1
+	ours 1
+	sooth 1
+	aweary 1
+	beaten 1
+	these 1
+	baited 1
+	come 1
+	him 1
+	measured 1
+	he 1
+	earls 1
+	planted 1
+ere
+	the 2
+	they 2
+	you 1
+	we 1
+	to 1
+	now 1
+	human 1
+	noon 1
+	it 1
+	he 1
+set
+	of 1
+	forth 1
+	earth 1
+	me 1
+	my 1
+	upon 1
+	for 1
+	him 1
+	down 1
+sun
+	that 1
+where
+	the 3
+	is 3
+	they 2
+	we 2
+	our 2
+	to 2
+	he 2
+	are 2
+	hast 1
+	thou 1
+	every 1
+	men 1
+	conspirers 1
+	such 1
+	i 1
+	it 1
+	nothing 1
+	sighs 1
+	violent 1
+	hearing 1
+	got 1
+	there 1
+	stands 1
+upon
+	the 12
+	his 5
+	me 4
+	her 3
+	you 3
+	a 3
+	him 2
+	this 2
+	your 2
+	them 2
+	thee 2
+	my 2
+	myself 2
+	our 1
+	what 1
+	that 1
+	their 1
+	macbeth 1
+	banquo 1
+	fife 1
+	thyself 1
+	us 1
+heath
+	near 1
+	you 1
+there
+	is 5
+	are 3
+	would 2
+	to 1
+	if 1
+	come 1
+	till 1
+	shall 1
+	the 1
+	an 1
+	hangs 1
+	where 1
+	cannot 1
+	grows 1
+	scarce 1
+	ran 1
+	thou 1
+with
+	the 9
+	a 8
+	his 7
+	him 7
+	you 7
+	thy 5
+	your 4
+	blood 4
+	them 4
+	an 4
+	my 4
+	macbeth 3
+	those 3
+	us 3
+	fear 3
+	this 3
+	such 2
+	it 2
+	me 2
+	some 2
+	twenty 2
+	mine 2
+	drum 2
+	attendants 1
+	bloody 1
+	valour 1
+	furbish 1
+	double 1
+	terrible 1
+	self 1
+	present 1
+	that 1
+	post 1
+	hidden 1
+	both 1
+	honest 1
+	things 1
+	one 1
+	dishes 1
+	wine 1
+	fairest 1
+	tarquin 1
+	snores 1
+	these 1
+	lechery 1
+	accents 1
+	ross 1
+	gore 1
+	man 1
+	mankind 1
+	strange 1
+	two 1
+	disasters 1
+	fortune 1
+	barefaced 1
+	eye 1
+	society 1
+	their 1
+	welcome 1
+	most 1
+	morning 1
+	hecate 1
+	acts 1
+	worms 1
+	what 1
+	all 1
+	wit 1
+	scotland 1
+	more 1
+	other 1
+	ten 1
+	holy 1
+	her 1
+	doubt 1
+	thick 1
+	due 1
+	horrors 1
+	harness 1
+	boughs 1
+	no 1
+	foes 1
+	thee 1
+come
+	to 8
+	in 3
+	upon 1
+	what 1
+	may 1
+	back 1
+	hither 1
+	truth 1
+	fate 1
+	on 1
+	down 1
+	away 1
+	against 1
+	like 1
+	a 1
+	out 1
+graymalkin
+paddock
+	calls 1
+calls
+	to 1
+	upon 1
+anon
+	we 1
+all
+	the 9
+	hail 6
+	our 5
+	that 4
+	is 3
+	but 3
+	things 3
+	double 3
+	this 3
+	my 3
+	men 2
+	 2
+	fair 1
+	can 1
+	deservers 1
+	and 1
+	here 1
+	sorts 1
+	out 1
+	great 1
+	professions 1
+	so 1
+	well 1
+	by 1
+	alike 1
+	remedy 1
+	to 1
+	causes 1
+	natures 1
+	harms 1
+	you 1
+	know 1
+	which 1
+	together 1
+	listen 1
+	seek 1
+	show 1
+	those 1
+	unfortunate 1
+	reason 1
+	your 1
+	thy 1
+	traitors 1
+	be 1
+	continent 1
+	these 1
+	unity 1
+	swoln 1
+	struck 1
+	intermission 1
+	with 1
+	annoyance 1
+	mortal 1
+	breath 1
+	at 1
+fair
+	is 1
+	a 1
+	and 1
+	dame 1
+is
+	the 13
+	a 12
+	not 8
+	this 5
+	to 4
+	your 4
+	done 4
+	too 4
+	dead 4
+	that 3
+	thy 3
+	it 3
+	nothing 3
+	in 3
+	thine 2
+	but 2
+	gone 2
+	none 2
+	ready 2
+	stopp 2
+	an 2
+	he 2
+	fled 2
+	often 2
+	like 2
+	there 2
+	foul 1
+	fair 1
+	supplied 1
+	behind 1
+	smother 1
+	execution 1
+	slow 1
+	labour 1
+	full 1
+	promised 1
+	true 1
+	coming 1
+	hoarse 1
+	as 1
+	delicate 1
+	our 1
+	theirs 1
+	asleep 1
+	down 1
+	about 1
+	drawn 1
+	left 1
+	amiss 1
+	carried 1
+	already 1
+	duncan 1
+	rebuked 1
+	said 1
+	now 1
+	no 1
+	his 1
+	concluded 1
+	banquo 1
+	got 1
+	my 1
+	cut 1
+	sold 1
+	ceremony 1
+	momentary 1
+	more 1
+	cold 1
+	blanched 1
+	which 1
+	worse 1
+	mortals 1
+	received 1
+	firm 1
+	so 1
+	o 1
+	noble 1
+	affeer 1
+	added 1
+	myself 1
+	yours 1
+	once 1
+	surprised 1
+	ripe 1
+	long 1
+	her 1
+	shut 1
+	murky 1
+	she 1
+	sorely 1
+	beyond 1
+	near 1
+	siward 1
+	within 1
+	ten 1
+	fall 1
+	confirm 1
+	troubled 1
+	advantage 1
+	still 1
+	heard 1
+	nor 1
+	slain 1
+	cheaply 1
+	missing 1
+	knoll 1
+	free 1
+foul
+	is 1
+	and 1
+	would 1
+	whisperings 1
+hover
+	through 1
+through
+	the 3
+	his 1
+	you 1
+	me 1
+fog
+	and 1
+filthy
+	air 1
+	witness 1
+	hags 1
+air
+	is 1
+	to 1
+	whereon 1
+exeunt
+	all 3
+	banquo 1
+	macbeth 1
+	murderers 1
+ii
+	the 3
+	a 1
+	fife 1
+camp
+	near 1
+near
+	forres 2
+	birnam 2
+	in 1
+	the 1
+	approaches 1
+	dunsinane 1
+	at 1
+	enough 1
+forres
+alarum
+	within 1
+within
+	the 5
+	this 2
+	my 1
+	him 1
+meeting
+	a 1
+	were 1
+	hecate 1
+bleeding
+	sergeant 1
+	and 1
+what
+	is 15
+	i 8
+	we 5
+	are 4
+	you 4
+	they 3
+	a 2
+	hath 2
+	thou 2
+	news 2
+	should 2
+	will 2
+	need 2
+	she 2
+	soldiers 2
+	bloody 1
+	he 1
+	seem 1
+	thyself 1
+	come 1
+	greatness 1
+	it 1
+	beast 1
+	cannot 1
+	not 1
+	the 1
+	do 1
+	hands 1
+	three 1
+	good 1
+	care 1
+	man 1
+	sights 1
+	distance 1
+	noise 1
+	had 1
+	know 1
+	was 1
+	concern 1
+	cheer 1
+	comes 1
+	does 1
+	rhubarb 1
+	purgative 1
+	wood 1
+	else 1
+	needful 1
+bloody
+	man 1
+	execution 1
+	instructions 1
+	business 1
+	piece 1
+	stage 1
+	deed 1
+	cousins 1
+	distance 1
+	and 1
+	knives 1
+	child 1
+he
+	is 8
+	hath 6
+	was 5
+	has 5
+	did 4
+	shall 3
+	not 3
+	does 3
+	deserves 2
+	died 2
+	had 2
+	will 2
+	were 2
+	feel 2
+	can 1
+	faced 1
+	unseam 1
+	look 1
+	disbursed 1
+	dwindle 1
+	seems 1
+	reads 1
+	finds 1
+	bade 1
+	labour 1
+	confess 1
+	owed 1
+	brings 1
+	purposes 1
+	that 1
+	rides 1
+	ask 1
+	greets 1
+	lives 1
+	could 1
+	slept 1
+	do 1
+	should 1
+	took 1
+	comes 1
+	dares 1
+	chid 1
+	in 1
+	mine 1
+	sleeps 1
+	needs 1
+	delivers 1
+	within 1
+	dispatch 1
+	bides 1
+	grows 1
+	hopes 1
+	duncan 1
+	fail 1
+	bestows 1
+	to 1
+	come 1
+	knows 1
+	done 1
+	loves 1
+	wants 1
+	be 1
+	means 1
+	solicits 1
+	cures 1
+	leaves 1
+	strongly 1
+	cannot 1
+	commands 1
+	avouches 1
+	only 1
+	fought 1
+	his 1
+	parted 1
+can
+	report 1
+	look 1
+	the 1
+	pay 1
+	entreat 1
+	speak 1
+	be 1
+	remember 1
+	let 1
+	touch 1
+	such 1
+	behold 1
+	interpret 1
+	you 1
+	provide 1
+	impress 1
+	tell 1
+	buy 1
+	redress 1
+	come 1
+	perceive 1
+	call 1
+	give 1
+report
+	they 1
+	after 1
+	of 1
+	that 1
+as
+	a 6
+	i 6
+	the 5
+	thou 3
+	they 3
+	it 3
+	we 2
+	he 2
+	his 2
+	you 2
+	in 2
+	this 2
+	will 2
+	seemeth 1
+	two 1
+	whence 1
+	sparrows 1
+	cannons 1
+	thy 1
+	hay 1
+	homeward 1
+	breath 1
+	thick 1
+	hail 1
+	happy 1
+	one 1
+	love 1
+	to 1
+	palpable 1
+	pictures 1
+	from 1
+	troubled 1
+	upon 1
+	well 1
+	king 1
+	queen 1
+	far 1
+	hounds 1
+	broad 1
+	tedious 1
+	go 1
+	others 1
+	by 1
+	who 1
+	little 1
+	birds 1
+	if 1
+	pure 1
+	snow 1
+	justice 1
+	honour 1
+	she 1
+	life 1
+	much 1
+	easy 1
+	make 1
+	our 1
+	many 1
+	calling 1
+seemeth
+	by 1
+by
+	the 12
+	his 5
+	that 3
+	her 3
+	a 2
+	each 1
+	sinel 1
+	doing 1
+	which 1
+	being 1
+	your 1
+	whom 1
+	caesar 1
+	destruction 1
+	ill 1
+	magot 1
+	magic 1
+	you 1
+	him 1
+	many 1
+	malcolm 1
+	and 1
+	an 1
+	man 1
+	this 1
+	these 1
+	self 1
+plight
+revolt
+newest
+	state 1
+	gloss 1
+	grief 1
+state
+	of 2
+	children 1
+this
+	is 10
+	strange 2
+	night 2
+	a 2
+	which 2
+	deed 2
+	good 2
+	tyrant 2
+	way 2
+	great 2
+	blasted 1
+	supernatural 1
+	have 1
+	ignorant 1
+	castle 1
+	guest 1
+	bird 1
+	blow 1
+	bank 1
+	even 1
+	duncan 1
+	business 1
+	time 1
+	enterprise 1
+	terrible 1
+	diamond 1
+	filthy 1
+	blood 1
+	my 1
+	place 1
+	downy 1
+	horror 1
+	chance 1
+	instant 1
+	vault 1
+	argument 1
+	most 1
+	murderous 1
+	sore 1
+	more 1
+	afternoon 1
+	day 1
+	and 1
+	i 1
+	go 1
+	hour 1
+	report 1
+	answer 1
+	our 1
+	kingdom 1
+	so 1
+	pernicious 1
+	moment 1
+	purpose 1
+	earthly 1
+	there 1
+	other 1
+	avarice 1
+	noble 1
+	upon 1
+	comfort 1
+	deadly 1
+	the 1
+	fiend 1
+	tune 1
+	while 1
+	slumbery 1
+	starting 1
+	little 1
+	disease 1
+	push 1
+	before 1
+	petty 1
+	three 1
+	dead 1
+who
+	did 4
+	was 3
+	knows 3
+	comes 2
+	should 2
+	dares 2
+	can 2
+	like 1
+	neither 1
+	shall 1
+	lies 1
+	committed 1
+	could 1
+	wrought 1
+	wear 1
+	i 1
+	may 1
+	cannot 1
+	chafes 1
+	frets 1
+	bears 1
+	must 1
+	would 1
+	have 1
+	then 1
+like
+	a 12
+	the 11
+	our 2
+	valour 1
+	stars 1
+	angels 1
+	lead 1
+	to 1
+	sprites 1
+	for 1
+	shadows 1
+	good 1
+	syllable 1
+	truth 1
+	those 1
+	queen 1
+good
+	lord 8
+	night 5
+	and 3
+	to 2
+	morrow 2
+	macduff 2
+	men 2
+	sir 1
+	repose 1
+	father 1
+	could 1
+	of 1
+	advice 1
+	man 1
+	things 1
+	fleance 1
+	digestion 1
+	peers 1
+	meeting 1
+	caution 1
+	sign 1
+	sometime 1
+	truth 1
+	king 1
+	god 1
+	siward 1
+	doctor 1
+hardy
+	soldier 1
+fought
+gainst
+	my 1
+	arm 1
+	obedience 1
+	nature 1
+my
+	lord 21
+	good 8
+	sword 7
+	heart 4
+	wife 4
+	hand 4
+	liege 3
+	leave 3
+	dearest 3
+	tongue 3
+	father 3
+	mind 3
+	sight 3
+	thoughts 3
+	pretty 3
+	worthy 2
+	way 2
+	fell 2
+	bosom 2
+	will 2
+	most 2
+	poor 2
+	soul 2
+	children 2
+	captivity 1
+	gashes 1
+	noble 1
+	hair 1
+	seated 1
+	ribs 1
+	thought 1
+	single 1
+	stir 1
+	dull 1
+	ingratitude 1
+	plenteous 1
+	black 1
+	spirits 1
+	fellows 1
+	battlements 1
+	blood 1
+	woman 1
+	milk 1
+	keen 1
+	thane 1
+	dispatch 1
+	intent 1
+	face 1
+	nipple 1
+	consent 1
+	drink 1
+	steps 1
+	whereabout 1
+	husband 1
+	throat 1
+	hands 1
+	deed 1
+	legs 1
+	limited 1
+	young 1
+	fury 1
+	violent 1
+	oracles 1
+	duties 1
+	horse 1
+	genius 1
+	head 1
+	gripe 1
+	peace 1
+	speeches 1
+	lie 1
+	near 1
+	words 1
+	fit 1
+	royal 1
+	firm 1
+	strange 1
+	part 1
+	little 1
+	former 1
+	prayers 1
+	thumbs 1
+	fear 1
+	dread 1
+	disgrace 1
+	hopes 1
+	doubts 1
+	jealousies 1
+	right 1
+	confineless 1
+	voluptuousness 1
+	lust 1
+	desire 1
+	more 1
+	breast 1
+	nature 1
+	faith 1
+	first 1
+	here 1
+	countryman 1
+	ever 1
+	belief 1
+	speech 1
+	life 1
+	remembrance 1
+	practise 1
+	bones 1
+	flesh 1
+	armour 1
+	staff 1
+	land 1
+	senses 1
+	slaughterous 1
+	watch 1
+	cousin 1
+	name 1
+	voice 1
+	better 1
+	body 1
+	warlike 1
+	salutation 1
+	thanes 1
+captivity
+hail
+	to 2
+	hereafter 1
+brave
+	friend 1
+	macbeth 1
+friend
+	banquo 1
+say
+	i 3
+	to 2
+	it 2
+	he 2
+	sooth 1
+	which 1
+	from 1
+	a 1
+	their 1
+	how 1
+	you 1
+	thou 1
+	all 1
+	we 1
+knowledge
+	of 1
+broil
+thou
+	art 9
+	shalt 3
+	dost 3
+	not 3
+	hast 3
+	speak 3
+	didst 2
+	be 2
+	wouldst 2
+	have 2
+	couldst 2
+	mayst 2
+	canst 2
+	do 2
+	liest 2
+	been 1
+	hadst 1
+	holily 1
+	must 1
+	afeard 1
+	esteem 1
+	but 1
+	marshall 1
+	sure 1
+	seest 1
+	play 1
+	know 1
+	jocund 1
+	applaud 1
+	marvell 1
+	like 1
+	first 1
+	unknown 1
+	nought 1
+	other 1
+	anticipatest 1
+	talk 1
+	shag 1
+	thy 1
+	think 1
+	see 1
+	repeat 1
+	this 1
+	cream 1
+	that 1
+	lily 1
+	of 1
+	comest 1
+	hang 1
+	call 1
+	wast 1
+	shouldst 1
+	bloodier 1
+	losest 1
+	the 1
+	still 1
+	opposed 1
+didst
+	leave 1
+	make 1
+	thou 1
+	it 1
+leave
+	his 2
+	it 1
+	all 1
+	no 1
+	this 1
+	of 1
+	at 1
+it
+	is 18
+	was 7
+	not 6
+	did 4
+	hath 4
+	shall 3
+	were 3
+	will 3
+	stood 2
+	lies 2
+	makes 2
+	now 2
+	so 2
+	provokes 2
+	takes 2
+	had 2
+	come 2
+	on 2
+	be 2
+	she 2
+	to 2
+	done 1
+	given 1
+	slept 1
+	other 1
+	in 1
+	cried 1
+	that 1
+	must 1
+	no 1
+	mars 1
+	sets 1
+	persuades 1
+	fell 1
+	seem 1
+	further 1
+	should 1
+	known 1
+	find 1
+	out 1
+	their 1
+	for 1
+	spoils 1
+	by 1
+	ere 1
+	with 1
+	from 1
+	thought 1
+	would 1
+	resounds 1
+	felt 1
+	may 1
+	weeps 1
+	bleeds 1
+	many 1
+	cannot 1
+	a 1
+	shares 1
+	break 1
+	like 1
+	as 1
+	valiant 1
+	needs 1
+	after 1
+	nothing 1
+	coming 1
+doubtful
+	it 1
+	joy 1
+stood
+	rapt 1
+	and 1
+	by 1
+two
+	spent 1
+	truths 1
+	chamberlains 1
+	lodged 1
+	sons 1
+	murderers 1
+	delinquents 1
+	or 1
+	nights 1
+spent
+	swimmers 1
+swimmers
+do
+	you 9
+	not 7
+	i 4
+	for 3
+	contend 2
+	it 2
+	we 2
+	make 2
+	so 2
+	cling 1
+	swarm 1
+	go 1
+	sound 1
+	speak 1
+	but 1
+	all 1
+	more 1
+	mock 1
+	unbend 1
+	bleed 1
+	lie 1
+	repent 1
+	commend 1
+	fear 1
+	to 1
+	rouse 1
+	lack 1
+	forget 1
+	think 1
+	faithful 1
+	slope 1
+	before 1
+	now 1
+	they 1
+	worse 1
+	harm 1
+	good 1
+	the 1
+	breed 1
+	call 1
+	come 1
+	fight 1
+	bravely 1
+	better 1
+cling
+	together 1
+	thee 1
+together
+choke
+	their 1
+their
+	daggers 3
+	art 1
+	heels 1
+	attire 1
+	mould 1
+	audit 1
+	newest 1
+	fitness 1
+	drenched 1
+	very 1
+	candles 1
+	charge 1
+	possets 1
+	prayers 1
+	fear 1
+	guilt 1
+	hands 1
+	pillows 1
+	trade 1
+	race 1
+	stalls 1
+	bones 1
+	speeches 1
+	cruel 1
+	hearers 1
+	backs 1
+	preys 1
+	walk 1
+	hearts 1
+	crowns 1
+	illusion 1
+	gracious 1
+	warders 1
+	heads 1
+	foundations 1
+	lands 1
+	malady 1
+	necks 1
+	caps 1
+	peace 1
+	dire 1
+	comfort 1
+	dam 1
+	part 1
+	own 1
+	souls 1
+	instruments 1
+	sense 1
+	sleep 1
+	beds 1
+	deaf 1
+	secrets 1
+	dear 1
+	first 1
+	stead 1
+	unsure 1
+	army 1
+	staves 1
+	minds 1
+art
+	thou 3
+	the 2
+	so 1
+	promised 1
+	not 1
+	in 1
+	too 1
+merciless
+	macdonwald 1
+macdonwald
+worthy
+	thane 5
+	cawdor 2
+	friends 2
+	to 1
+	gentleman 1
+	macbeth 1
+	banquo 1
+	lord 1
+	fellows 1
+	uncle 1
+	macduff 1
+rebel
+for
+	the 8
+	a 7
+	it 4
+	your 4
+	you 4
+	me 4
+	his 4
+	him 3
+	ever 3
+	certain 3
+	their 3
+	thy 2
+	them 2
+	fleance 2
+	that 2
+	now 2
+	mine 2
+	all 2
+	thee 2
+	to 1
+	brave 1
+	help 1
+	an 1
+	in 1
+	preparation 1
+	breath 1
+	gall 1
+	those 1
+	fear 1
+	god 1
+	stealing 1
+	hell 1
+	ruin 1
+	ours 1
+	banquo 1
+	this 1
+	men 1
+	sundry 1
+	my 1
+	unkindness 1
+	mischance 1
+	shame 1
+	malcolm 1
+	donalbain 1
+	from 1
+	some 1
+	none 1
+	there 1
+	goodness 1
+	wealth 1
+	even 1
+	strangers 1
+	who 1
+	shaking 1
+	being 1
+	where 1
+	such 1
+	then 1
+	so 1
+multiplying
+	villanies 1
+villanies
+	of 1
+nature
+	seems 1
+	do 1
+	still 1
+	that 1
+	may 1
+	is 1
+swarm
+	upon 1
+him
+	from 2
+	on 2
+	the 2
+	not 2
+	that 2
+	surgeons 1
+	with 1
+	burial 1
+	dry 1
+	die 1
+	like 1
+	only 1
+	tending 1
+	at 1
+	highly 1
+	off 1
+	stand 1
+	for 1
+	father 1
+	closed 1
+	company 1
+	further 1
+	eminence 1
+	and 1
+	above 1
+	to 1
+	in 1
+	fly 1
+	well 1
+	through 1
+	as 1
+	bloody 1
+	do 1
+	full 1
+	now 1
+	too 1
+	does 1
+	pour 1
+	down 1
+	but 1
+from
+	the 13
+	our 5
+	his 4
+	my 4
+	this 3
+	her 3
+	whence 2
+	hence 2
+	your 2
+	thence 2
+	me 2
+	that 1
+	fife 1
+	him 1
+	all 1
+	them 1
+	court 1
+	broad 1
+	whom 1
+	what 1
+	gracious 1
+	scotland 1
+	over 1
+	dunsinane 1
+	day 1
+western
+	isles 1
+isles
+kerns
+	and 1
+	to 1
+gallowglasses
+	is 1
+supplied
+fortune
+	nothing 1
+damned
+	quarrel 1
+	fact 1
+	spot 1
+quarrel
+	smiling 1
+smiling
+	in 1
+show
+	me 3
+	the 2
+	us 1
+	an 1
+	his 1
+	of 1
+	like 1
+	thy 1
+	and 1
+d
+	in 8
+	the 6
+	with 5
+	to 4
+	by 4
+	them 3
+	for 3
+	me 3
+	my 3
+	at 3
+	like 2
+	him 2
+	his 2
+	and 2
+	it 2
+	sleep 2
+	you 2
+	too 2
+	be 2
+	out 2
+	steel 1
+	these 1
+	arms 1
+	not 1
+	as 1
+	corporal 1
+	robes 1
+	where 1
+	withal 1
+	hostess 1
+	up 1
+	chalice 1
+	yourself 1
+	some 1
+	murder 1
+	sleeve 1
+	stabs 1
+	wild 1
+	upon 1
+	of 1
+	yours 1
+	flight 1
+	rhinoceros 1
+	any 1
+	entrails 1
+	venom 1
+	salt 1
+	i 1
+	banquo 1
+	all 1
+	he 1
+	villain 1
+	our 1
+	deer 1
+	cause 1
+	senses 1
+	boy 1
+	bosom 1
+	full 1
+	toward 1
+	edge 1
+whore
+but
+	i 11
+	in 6
+	this 3
+	he 3
+	yet 3
+	macbeth 3
+	for 3
+	the 2
+	how 2
+	what 2
+	as 2
+	that 2
+	who 2
+	one 2
+	now 2
+	our 2
+	all 1
+	under 1
+	treasons 1
+	fantastical 1
+	with 1
+	signs 1
+	without 1
+	be 1
+	here 1
+	teach 1
+	only 1
+	screw 1
+	males 1
+	still 1
+	they 1
+	wherefore 1
+	it 1
+	died 1
+	toys 1
+	malcolm 1
+	shift 1
+	hush 1
+	we 1
+	of 1
+	to 1
+	sickly 1
+	wail 1
+	returns 1
+	let 1
+	hold 1
+	banquo 1
+	on 1
+	go 1
+	young 1
+	make 1
+	hit 1
+	say 1
+	speak 1
+	why 1
+	no 1
+	cruel 1
+	float 1
+	something 1
+	mine 1
+	there 1
+	fear 1
+	abound 1
+	god 1
+	at 1
+	strangely 1
+	not 1
+	remember 1
+	can 1
+	their 1
+	dare 1
+	deep 1
+	constrained 1
+	certain 1
+	a 1
+	know 1
+	find 1
+	swords 1
+	get 1
+	till 1
+	like 1
+too
+	cold 2
+	late 2
+	weak 1
+	full 1
+	strong 1
+	cruel 1
+	terrible 1
+	like 1
+	savage 1
+	nigh 1
+	nice 1
+	true 1
+	much 1
+weak
+	poor 1
+well
+	done 2
+	he 1
+	thy 1
+	contented 1
+	then 1
+	become 1
+	might 1
+	too 1
+	at 1
+	meet 1
+deserves
+	that 1
+	to 1
+name
+	of 5
+	hereafter 1
+	thee 1
+	blisters 1
+disdaining
+	fortune 1
+brandish
+steel
+which
+	is 6
+	i 5
+	should 3
+	the 3
+	would 3
+	was 3
+	you 3
+	he 2
+	shall 2
+	still 2
+	thou 2
+	now 2
+	we 2
+	must 2
+	smoked 1
+	ne 1
+	outwardly 1
+	grain 1
+	will 1
+	addition 1
+	do 1
+	honour 1
+	they 1
+	title 1
+	cries 1
+	rather 1
+	fate 1
+	o 1
+	else 1
+	informs 1
+	way 1
+	hath 1
+	gives 1
+	unwiped 1
+	steals 1
+	time 1
+	puts 1
+	my 1
+	held 1
+	bounteous 1
+	in 1
+	keeps 1
+	of 1
+	might 1
+	can 1
+	shows 1
+	often 1
+	have 1
+	weighs 1
+	advance 1
+	no 1
+smoked
+	with 1
+execution
+	done 1
+	takes 1
+valour
+	arm 1
+	of 1
+minion
+	carved 1
+carved
+	out 1
+out
+	to 2
+	the 2
+	his 1
+	mine 1
+	of 1
+	some 1
+	in 1
+	on 1
+	more 1
+	our 1
+passage
+	to 1
+till
+	he 4
+	birnam 3
+	the 2
+	famine 2
+	that 1
+	then 1
+	you 1
+	seven 1
+	supper 1
+	we 1
+	thou 1
+	destruction 1
+	from 1
+faced
+	the 1
+	loon 1
+slave
+ne
+er
+	the 2
+	shook 1
+	your 1
+	you 1
+	thou 1
+	pull 1
+	be 1
+	have 1
+shook
+	hands 1
+hands
+	are 2
+	and 1
+	uplifted 1
+	ne 1
+nor
+	bade 1
+	would 1
+	day 1
+	fear 1
+	your 1
+	must 1
+	keep 1
+	heaven 1
+	coign 1
+	time 1
+	place 1
+	heart 1
+	name 1
+	our 1
+	botches 1
+	steel 1
+	poison 1
+	lime 1
+	the 1
+	any 1
+	shake 1
+	flying 1
+	tarrying 1
+	more 1
+bade
+	farewell 1
+	me 1
+	them 1
+farewell
+	to 1
+unseam
+nave
+	to 1
+chaps
+fix
+head
+	upon 1
+	they 1
+our
+	duties 4
+	great 4
+	country 3
+	royal 2
+	nights 2
+	house 2
+	tongues 2
+	fears 2
+	power 2
+	battlements 1
+	captains 1
+	people 1
+	general 1
+	bosom 1
+	way 1
+	harm 1
+	partner 1
+	strange 1
+	free 1
+	estate 1
+	eldest 1
+	thane 1
+	gentle 1
+	honour 1
+	trouble 1
+	service 1
+	graces 1
+	poison 1
+	own 1
+	griefs 1
+	will 1
+	chamber 1
+	knocking 1
+	chimneys 1
+	fate 1
+	tears 1
+	strong 1
+	naked 1
+	separated 1
+	safest 1
+	old 1
+	new 1
+	chief 1
+	feast 1
+	bloody 1
+	time 1
+	pleasure 1
+	innocent 1
+	last 1
+	point 1
+	health 1
+	lives 1
+	desire 1
+	poor 1
+	meal 1
+	peace 1
+	honours 1
+	faces 1
+	hearts 1
+	mistrust 1
+	offices 1
+	watch 1
+	affair 1
+	hostess 1
+	friends 1
+	banquo 1
+	graves 1
+	monuments 1
+	stools 1
+	dear 1
+	special 1
+	art 1
+	tables 1
+	feasts 1
+	suffering 1
+	cauldron 1
+	mouths 1
+	masters 1
+	high 1
+	delights 1
+	actions 1
+	sad 1
+	down 1
+	slain 1
+	warranted 1
+	mother 1
+	grave 1
+	women 1
+	lack 1
+	leave 1
+	march 1
+	host 1
+	setting 1
+	just 1
+	banners 1
+	castle 1
+	yesterdays 1
+	back 1
+	first 1
+	order 1
+	trumpets 1
+	ear 1
+	hope 1
+	rarer 1
+	exiled 1
+battlements
+o
+	valiant 1
+	worthiest 1
+	horror 1
+	gentle 1
+	banquo 1
+	slave 1
+	proper 1
+	well 1
+	scotland 1
+	nation 1
+	my 1
+	hell 1
+valiant
+	cousin 1
+	banquo 1
+	fury 1
+cousin
+gentleman
+	on 1
+whence
+	the 1
+	comfort 1
+	camest 1
+	is 1
+	himself 1
+gins
+	his 1
+reflection
+shipwrecking
+	storms 1
+storms
+	and 1
+direful
+	thunders 1
+thunders
+	break 1
+break
+	this 1
+	it 1
+so
+	much 5
+	all 3
+	please 3
+	should 2
+	far 2
+	i 2
+	late 2
+	do 2
+	is 2
+	from 1
+	they 1
+	well 1
+	foul 1
+	wither 1
+	wild 1
+	fair 1
+	happy 1
+	my 1
+	humbly 1
+	valiant 1
+	meek 1
+	clear 1
+	soon 1
+	green 1
+	freely 1
+	sworn 1
+	convince 1
+	before 1
+	deeply 1
+	brainsickly 1
+	white 1
+	poorly 1
+	bold 1
+	were 1
+	under 1
+	predominant 1
+	gospell 1
+	of 1
+	incensed 1
+	weary 1
+	shall 1
+	that 1
+	exasperate 1
+	depart 1
+	runs 1
+	unsanctified 1
+	perchance 1
+	grafted 1
+	hoodwink 1
+	many 1
+	inclined 1
+	sick 1
+	great 1
+	thou 1
+spring
+	whence 1
+comfort
+	seem 1
+	yet 1
+	with 1
+seem
+	to 2
+	their 1
+	as 1
+	cold 1
+	thus 1
+discomfort
+	swells 1
+swells
+mark
+	antony 1
+	that 1
+no
+	more 18
+	less 5
+	man 3
+	sooner 2
+	further 2
+	other 2
+	harm 2
+	art 1
+	compunctious 1
+	jutty 1
+	spur 1
+	such 1
+	mercy 1
+	son 1
+	rubs 1
+	teeth 1
+	speculation 1
+	care 1
+	boasting 1
+	longer 1
+	place 1
+	bottom 1
+	relish 1
+	time 1
+	mind 1
+	children 1
+	truth 1
+	witness 1
+	stroke 1
+	words 1
+	woman 1
+	end 1
+sooner
+	justice 1
+	had 1
+justice
+	had 1
+had
+	i 5
+	been 4
+	he 4
+	a 3
+	done 2
+	with 1
+	chestnuts 1
+	stay 1
+	the 1
+	scarcely 1
+	seen 1
+	most 1
+	thought 1
+	lived 1
+	else 1
+	we 1
+	none 1
+	before 1
+	so 1
+	his 1
+arm
+compell
+these
+	are 2
+	skipping 1
+	weird 1
+	cases 1
+	hangman 1
+	deeds 1
+	ways 1
+	daggers 1
+	terrible 1
+	flattering 1
+	flaws 1
+	gentlemen 1
+	faces 1
+	evils 1
+	trains 1
+	murder 1
+	hands 1
+	english 1
+	juggling 1
+	i 1
+skipping
+	kerns 1
+trust
+	their 1
+	them 1
+heels
+norweyan
+	lord 1
+	banners 1
+	ranks 1
+surveying
+	vantage 1
+vantage
+furbish
+arms
+	and 1
+new
+	supplies 1
+	horrors 1
+	hatch 1
+	gorgon 1
+	father 1
+	morn 1
+	widows 1
+	orphans 1
+	sorrows 1
+	day 1
+	one 1
+supplies
+	of 1
+men
+	do 1
+	must 1
+	deny 1
+	and 1
+	else 1
+began
+	a 2
+	to 1
+fresh
+	assault 1
+assault
+dismay
+not
+	be 9
+	so 8
+	yet 6
+	to 4
+	the 4
+	my 3
+	i 3
+	know 3
+	for 3
+	speak 3
+	say 2
+	stand 2
+	our 2
+	a 2
+	born 2
+	yield 2
+	this 1
+	seen 1
+	like 1
+	within 1
+	pay 1
+	hope 1
+	unaccompanied 1
+	used 1
+	light 1
+	lose 1
+	without 1
+	play 1
+	thy 1
+	bear 1
+	he 1
+	cast 1
+	fail 1
+	put 1
+	heard 1
+	sleep 1
+	of 1
+	done 1
+	miss 1
+	resembled 1
+	hear 1
+	you 1
+	lost 1
+	equivocate 1
+	bid 1
+	consort 1
+	confessing 1
+	yesterday 1
+	drop 1
+	kill 1
+	eterne 1
+	give 1
+	often 1
+	well 1
+	muse 1
+	upon 1
+	reason 1
+	walk 1
+	straight 1
+	that 1
+	live 1
+	by 1
+	what 1
+	set 1
+	dead 1
+	found 1
+	touch 1
+	treacherous 1
+	cheque 1
+	offended 1
+	as 1
+	in 1
+	fill 1
+	fear 1
+	betray 1
+	mark 1
+	batter 1
+	latch 1
+	from 1
+	your 1
+	take 1
+	report 1
+	sweeten 1
+	have 1
+	look 1
+	loud 1
+	needed 1
+	minister 1
+	forced 1
+	how 1
+	if 1
+	pronounce 1
+	fight 1
+	wish 1
+	spend 1
+captains
+yes
+sparrows
+	eagles 1
+eagles
+hare
+	the 1
+lion
+if
+	thou 8
+	you 7
+	it 4
+	he 4
+	i 3
+	we 2
+	ill 1
+	good 1
+	chance 1
+	the 1
+	a 1
+	there 1
+	much 1
+	charnel 1
+	trembling 1
+	your 1
+	such 1
+	donalbain 1
+	thy 1
+	this 1
+sooth
+must
+	be 7
+	not 6
+	report 1
+	fall 1
+	do 1
+	hide 1
+	lie 1
+	seem 1
+	become 1
+	embrace 1
+	find 1
+	lave 1
+	leave 1
+	send 1
+	have 1
+	they 1
+	hang 1
+	still 1
+	also 1
+	minister 1
+	arbitrate 1
+	fight 1
+	go 1
+they
+	are 7
+	have 6
+	were 5
+	did 4
+	say 3
+	not 3
+	had 2
+	fight 2
+	meant 1
+	smack 1
+	blow 1
+	know 1
+	vanish 1
+	should 1
+	met 1
+	made 1
+	vanished 1
+	most 1
+	walk 1
+	live 1
+	must 1
+	pluck 1
+	stared 1
+	would 1
+	eat 1
+	pretend 1
+	put 1
+	hail 1
+	placed 1
+	think 1
+	set 1
+	encounter 1
+	rise 1
+	speak 1
+	may 1
+	ride 1
+	all 1
+	shall 1
+	presently 1
+	sicken 1
+	heard 1
+	coming 1
+	come 1
+were
+	done 2
+	a 2
+	the 2
+	out 2
+	i 2
+	such 1
+	poor 1
+	porter 1
+	carousing 1
+	blown 1
+	an 1
+	their 1
+	distracted 1
+	suborn 1
+	borne 1
+	perfect 1
+	best 1
+	bare 1
+	here 1
+	as 1
+	before 1
+	dead 1
+	fell 1
+	well 1
+	most 1
+	all 1
+	they 1
+	in 1
+	now 1
+	safe 1
+cannons
+	overcharged 1
+overcharged
+	with 1
+double
+	toil 3
+	cracks 1
+	trust 1
+	sure 1
+	sense 1
+cracks
+doubly
+	redoubled 1
+redoubled
+	strokes 1
+strokes
+	upon 1
+	must 1
+foe
+except
+	they 1
+meant
+	to 1
+bathe
+	in 1
+reeking
+	wounds 1
+wounds
+memorise
+	another 1
+another
+	part 2
+	golgotha 1
+	lord 1
+	yet 1
+golgotha
+cannot
+	be 5
+	tell 1
+	you 1
+	parallel 1
+	conceive 1
+	want 1
+	transpose 1
+	but 1
+	come 1
+	buckle 1
+	taint 1
+	once 1
+	fight 1
+	fly 1
+	strike 1
+tell
+	me 3
+	us 1
+	pale 1
+	so 1
+	you 1
+	thee 1
+am
+	thane 2
+	afraid 2
+	in 2
+	not 2
+	faint 1
+	fed 1
+	his 1
+	settled 1
+	one 1
+	reckless 1
+	cabin 1
+	a 1
+	bent 1
+	for 1
+	call 1
+	so 1
+	perfect 1
+	too 1
+	young 1
+	as 1
+	yet 1
+	truly 1
+	sure 1
+	sick 1
+	i 1
+faint
+gashes
+	cry 1
+	on 1
+cry
+	of 2
+	for 1
+	is 1
+help
+	and 1
+	me 1
+	of 1
+	thee 1
+thy
+	face 4
+	master 2
+	blade 2
+	soul 2
+	good 2
+	words 1
+	wounds 1
+	success 1
+	personal 1
+	praises 1
+	due 1
+	heart 1
+	nature 1
+	letters 1
+	love 1
+	undaunted 1
+	mistress 1
+	very 1
+	knocking 1
+	posterity 1
+	bloody 1
+	gory 1
+	bones 1
+	blood 1
+	sword 1
+	thought 1
+	crown 1
+	hair 1
+	wit 1
+	basis 1
+	wrongs 1
+	wholesome 1
+	throne 1
+	royal 1
+	hope 1
+	direction 1
+	here 1
+	fear 1
+	tongue 1
+	story 1
+	speech 1
+	name 1
+	keen 1
+	charm 1
+	kingdom 1
+words
+	become 1
+	upon 1
+	to 1
+	and 1
+become
+	a 2
+	thee 1
+thee
+	to 4
+	still 3
+	in 2
+	from 2
+	well 2
+	as 1
+	a 1
+	into 1
+	thane 1
+	full 1
+	hither 1
+	crown 1
+	that 1
+	not 1
+	yet 1
+	the 1
+	made 1
+	join 1
+	with 1
+	without 1
+	gone 1
+	and 1
+	black 1
+	back 1
+	out 1
+	compass 1
+smack
+	of 1
+honour
+	both 1
+	must 1
+	for 1
+	roof 1
+	i 1
+	named 1
+both
+	the 3
+	of 2
+	murderers 2
+	sides 2
+	against 1
+	grave 1
+	his 1
+	with 1
+	more 1
+go
+	with 3
+	to 3
+	get 2
+	about 2
+	pronounce 1
+	bid 1
+	carry 1
+	no 1
+	the 1
+	not 1
+	for 1
+	at 1
+	o 1
+	we 1
+	now 1
+	prick 1
+	off 1
+get
+	thee 3
+	him 1
+	kings 1
+	some 1
+	on 1
+	you 1
+surgeons
+exit
+	servant 2
+	attendant 2
+	sergeant 1
+	messenger 1
+	banquo 1
+	murderer 1
+	lady 1
+	doctor 1
+attended
+comes
+	here 4
+	the 2
+	my 1
+	from 1
+	toward 1
+	newer 1
+here
+	i 2
+	to 2
+	comes 2
+	as 1
+	in 1
+	you 1
+	he 1
+	lay 1
+	had 1
+	is 1
+	again 1
+	from 1
+	abjure 1
+	she 1
+	let 1
+	may 1
+thane
+	of 18
+	lives 1
+	is 1
+haste
+	looks 1
+looks
+	through 1
+eyes
+	are 2
+	upon 1
+should
+	be 7
+	i 5
+	not 4
+	have 3
+	he 2
+	attend 1
+	against 1
+	fail 1
+	compose 1
+	free 1
+	kiss 1
+	indeed 1
+	find 1
+	fleance 1
+	say 1
+	quickly 1
+	cut 1
+	forge 1
+	accompany 1
+	applaud 1
+	hardly 1
+	report 1
+look
+	on 4
+	to 3
+	not 2
+	like 2
+	so 2
+	what 1
+	into 1
+	up 1
+	but 1
+	angerly 1
+	after 1
+seems
+	to 1
+	rapt 1
+	dead 1
+	bruited 1
+speak
+	not 4
+	things 1
+	then 1
+	about 1
+	true 1
+	further 1
+	yourselves 1
+	to 1
+	too 1
+	him 1
+	my 1
+things
+	strange 2
+	well 2
+	at 2
+	that 1
+	here 1
+	forgotten 1
+	does 1
+	else 1
+	without 1
+	disjoint 1
+	of 1
+	bad 1
+	be 1
+	i 1
+	have 1
+	foul 1
+	were 1
+strange
+	and 2
+	intelligence 1
+	images 1
+	garments 1
+	matters 1
+	screams 1
+	invention 1
+	infirmity 1
+	things 1
+	virtue 1
+god
+	bless 2
+	be 2
+	save 1
+	i 1
+	help 1
+	above 1
+	it 1
+	forgive 1
+save
+	the 1
+camest
+	thou 1
+fife
+	had 1
+great
+	king 2
+	glamis 2
+	business 2
+	happiness 1
+	prediction 1
+	defence 1
+	news 1
+	love 1
+	office 1
+	quell 1
+	largess 1
+	nature 1
+	neptune 1
+	doom 1
+	hand 1
+	feast 1
+	bond 1
+	bidding 1
+	birnam 1
+	tyranny 1
+	assay 1
+	revenge 1
+	perturbation 1
+	dunsinane 1
+	clatter 1
+	a 1
+banners
+	flout 1
+	on 1
+flout
+	the 1
+sky
+fan
+	our 1
+people
+	cold 1
+	on 1
+cold
+	breath 1
+	for 1
+	stone 1
+norway
+	himself 1
+himself
+	is 1
+	on 1
+	does 1
+	best 1
+	could 1
+terrible
+	numbers 1
+	feat 1
+	dreams 1
+	for 1
+numbers
+	of 1
+assisted
+	by 1
+most
+	worthy 2
+	disloyal 1
+	breed 1
+	kind 1
+	need 1
+	sacrilegious 1
+	may 1
+	bloody 1
+	strange 1
+	like 1
+	foully 1
+	indissoluble 1
+	royal 1
+	admired 1
+	pious 1
+	diminutive 1
+	ill 1
+	sainted 1
+	miraculous 1
+	precious 1
+	fast 1
+	meet 1
+disloyal
+	traitor 1
+traitor
+cawdor
+	lives 2
+	shall 1
+	too 1
+	to 1
+dismal
+	conflict 1
+	and 1
+	treatise 1
+conflict
+bellona
+bridegroom
+lapp
+proof
+confronted
+	him 1
+self
+	and 1
+comparisons
+point
+	against 1
+	rebellious 1
+	twice 1
+	of 1
+against
+	the 6
+	point 1
+	those 1
+	his 1
+	either 1
+	my 1
+	him 1
+	all 1
+rebellious
+curbing
+	his 1
+lavish
+	spirit 1
+spirit
+	of 1
+conclude
+victory
+	fell 1
+fell
+	on 1
+	purpose 1
+	cruelty 1
+	swoop 1
+	slaughter 1
+	of 1
+us
+	to 2
+	with 2
+	for 2
+	not 2
+	truths 1
+	toward 1
+	speak 1
+	further 1
+	welcome 1
+	sometime 1
+	mad 1
+	of 1
+	meet 1
+	both 1
+	jointly 1
+	nightly 1
+	a 1
+	from 1
+	like 1
+	traitors 1
+	seek 1
+	rather 1
+	strangers 1
+	good 1
+	medicines 1
+	all 1
+	hear 1
+	know 1
+	be 1
+	in 1
+	even 1
+	crown 1
+happiness
+now
+	i 4
+	does 2
+	in 1
+	o 1
+	suits 1
+	hath 1
+	go 1
+	spurs 1
+	our 1
+	they 1
+	about 1
+	we 1
+	is 1
+	to 1
+	minutely 1
+	a 1
+	undone 1
+	near 1
+sweno
+norways
+craves
+	composition 1
+composition
+would
+	be 7
+	not 7
+	have 4
+	make 4
+	thou 2
+	we 1
+	they 1
+	spend 1
+	grant 1
+	murder 1
+	set 1
+	attend 1
+	well 1
+	die 1
+	he 1
+	wear 1
+	o 1
+	create 1
+	i 1
+	to 1
+	fain 1
+	applaud 1
+	scour 1
+	at 1
+	the 1
+deign
+	him 1
+burial
+	of 1
+disbursed
+	at 1
+at
+	the 8
+	once 7
+	a 3
+	my 2
+	your 2
+	night 2
+	me 2
+	any 2
+	saint 1
+	more 1
+	what 1
+	twelve 1
+	rest 1
+	quiet 1
+	and 1
+	most 1
+	first 1
+	home 1
+	odds 1
+	our 1
+	them 1
+	no 1
+	his 1
+	their 1
+	peace 1
+	it 1
+	one 1
+	heart 1
+	hand 1
+	least 1
+	wretched 1
+	scone 1
+saint
+	colme 1
+colme
+inch
+ten
+	thousand 4
+	i 1
+thousand
+	dollars 1
+	warlike 1
+	men 1
+dollars
+	to 1
+use
+	of 1
+	thy 1
+more
+	than 4
+	is 2
+	o 2
+	that 1
+	time 1
+	in 1
+	the 1
+	knocking 1
+	strange 1
+	shall 1
+	potent 1
+	sights 1
+	vices 1
+	suffer 1
+	sundry 1
+	damn 1
+	pernicious 1
+	anon 1
+	strongly 1
+	needs 1
+	reports 1
+	horses 1
+	and 1
+	hateful 1
+	fearful 1
+	i 1
+	believed 1
+	sorrow 1
+	to 1
+deceive
+bosom
+	interest 1
+	franchised 1
+	for 1
+	of 1
+interest
+pronounce
+	his 1
+	it 1
+	a 1
+present
+	death 1
+	grace 1
+	fears 1
+	horror 1
+	him 1
+death
+	of 3
+	and 2
+	i 1
+	itself 1
+	were 1
+	to 1
+former
+	title 1
+	knowings 1
+	tooth 1
+	speeches 1
+title
+	greet 1
+	is 1
+greet
+	macbeth 1
+	with 1
+ll
+	do 4
+	to 3
+	see 2
+	be 2
+	not 2
+	make 2
+	sit 2
+	spend 2
+	thither 1
+	give 1
+	go 1
+	gild 1
+	sweat 1
+	devil 1
+	bring 1
+	request 1
+	take 1
+	come 1
+	call 1
+	close 1
+	drink 1
+	hear 1
+	catch 1
+	soon 1
+	rue 1
+	send 1
+	answer 1
+	charm 1
+	buy 1
+	wail 1
+	together 1
+	fight 1
+	put 1
+	none 1
+	die 1
+	prove 1
+	have 1
+see
+	thee 4
+	it 2
+	my 1
+	not 1
+	before 1
+	you 1
+	things 1
+	there 1
+	no 1
+	thy 1
+	lives 1
+	the 1
+	us 1
+hath
+	been 8
+	made 4
+	a 3
+	it 2
+	not 2
+	lost 1
+	won 1
+	bubbles 1
+	happily 1
+	chanced 1
+	holp 1
+	borne 1
+	he 1
+	honour 1
+	quench 1
+	given 1
+	murder 1
+	left 1
+	broke 1
+	trifled 1
+	slain 1
+	bow 1
+	in 1
+	flown 1
+	rung 1
+	nature 1
+	so 1
+	mew 1
+	eaten 1
+	foisons 1
+	from 1
+	sought 1
+	heaven 1
+	cow 1
+	no 1
+noble
+	son 2
+	macbeth 1
+	partner 1
+	having 1
+	banquo 1
+	hostess 1
+	strength 1
+	sir 1
+	friends 1
+	passion 1
+	thanes 1
+iii
+	a 2
+	the 1
+	england 1
+	dunsinane 1
+hast
+	no 2
+	thou 1
+	it 1
+	harp 1
+	served 1
+been
+	studied 1
+	mine 1
+	in 1
+	unruly 1
+	forgotten 1
+	as 1
+	both 1
+	perfect 1
+	from 1
+	shed 1
+	perform 1
+	known 1
+	but 1
+	strangely 1
+	a 1
+sister
+killing
+	swine 1
+swine
+sailor
+wife
+	and 3
+	had 1
+	with 1
+	withal 1
+	kill 1
+chestnuts
+	in 1
+her
+	hands 2
+	lap 1
+	husband 1
+	chappy 1
+	skinny 1
+	pride 1
+	former 1
+	state 1
+	welcome 1
+	grandam 1
+	nine 1
+	son 1
+	young 1
+	nest 1
+	wounds 1
+	knees 1
+	feet 1
+	rise 1
+	bed 1
+	night 1
+	closet 1
+	say 1
+	very 1
+	command 1
+	eyes 1
+	continue 1
+	the 1
+	from 1
+	rest 1
+	of 1
+	disease 1
+	life 1
+lap
+munch
+give
+	me 10
+	thee 3
+	to 2
+	him 1
+	solely 1
+	us 1
+	the 1
+	way 1
+	a 1
+	sorrow 1
+	obedience 1
+	them 1
+me
+	to 7
+	your 3
+	the 3
+	my 3
+	here 2
+	from 2
+	of 2
+	with 2
+	this 2
+	you 1
+	more 1
+	earnest 1
+	king 1
+	enfold 1
+	in 1
+	beyond 1
+	clutch 1
+	bold 1
+	fire 1
+	speak 1
+	hence 1
+	up 1
+	pale 1
+	some 1
+	strange 1
+	i 1
+	his 1
+	see 1
+	know 1
+	many 1
+	where 1
+	twenty 1
+	hunger 1
+	have 1
+	no 1
+	thus 1
+	ever 1
+	now 1
+	mine 1
+	endure 1
+	as 1
+	still 1
+	find 1
+	bleed 1
+	so 1
+quoth
+	i 1
+aroint
+	thee 1
+rump
+fed
+	ronyon 1
+ronyon
+	cries 1
+cries
+husband
+aleppo
+	gone 1
+gone
+	to 2
+	before 1
+	from 1
+master
+	o 1
+	thanks 1
+	with 1
+	stirring 1
+	of 1
+tiger
+sieve
+	i 1
+thither
+	sail 1
+	he 1
+	macduff 1
+sail
+rat
+	without 1
+without
+	a 2
+	my 1
+	ambition 1
+	the 1
+	content 1
+	all 1
+	regard 1
+	than 1
+	it 1
+	our 1
+	there 1
+	leave 1
+tail
+wind
+rt
+	kind 1
+	mad 1
+kind
+	gentlemen 1
+	hostess 1
+	good 1
+myself
+	have 1
+	the 1
+	should 1
+	struck 1
+	i 1
+	to 1
+have
+	done 9
+	been 6
+	a 5
+	i 5
+	thee 3
+	no 3
+	you 3
+	seen 3
+	died 3
+	known 3
+	not 2
+	spoke 2
+	more 2
+	it 2
+	given 2
+	almost 2
+	lost 2
+	blood 2
+	met 2
+	all 1
+	we 1
+	overthrown 1
+	me 1
+	left 1
+	begun 1
+	inform 1
+	transported 1
+	observed 1
+	theirs 1
+	judgment 1
+	bought 1
+	that 1
+	made 1
+	pluck 1
+	mark 1
+	wrought 1
+	show 1
+	drugg 1
+	awaked 1
+	napkins 1
+	let 1
+	our 1
+	else 1
+	cause 1
+	so 1
+	scotch 1
+	sent 1
+	to 1
+	displaced 1
+	in 1
+	but 1
+	anger 1
+	patience 1
+	loved 1
+	willing 1
+	none 1
+	spoken 1
+	banish 1
+	coveted 1
+	heavily 1
+	words 1
+	said 1
+	two 1
+	thought 1
+	had 1
+	such 1
+	walked 1
+	pronounced 1
+	power 1
+	lived 1
+	and 1
+	cool 1
+	supp 1
+	lighted 1
+	tied 1
+	avoided 1
+	hairs 1
+other
+	senses 1
+	devil 1
+	three 1
+	gold 1
+	graces 1
+	actual 1
+	but 1
+	thanes 1
+very
+	ports 1
+	gladly 1
+	frankly 1
+	daggers 1
+	stones 1
+	throat 1
+	source 1
+	painting 1
+	firstlings 1
+	guise 1
+	echo 1
+ports
+	they 1
+blow
+	the 1
+quarters
+	that 1
+know
+	not 4
+	it 2
+	him 2
+	i 1
+	you 1
+	my 1
+	myself 1
+	this 1
+	banquo 1
+	your 1
+	me 1
+	his 1
+	one 1
+	no 1
+	ourselves 1
+	believe 1
+	itself 1
+shipman
+card
+drain
+	him 1
+dry
+	as 1
+hay
+sleep
+	no 4
+	shall 1
+	that 1
+	to 1
+	in 1
+	who 1
+neither
+	night 1
+	beg 1
+	to 1
+night
+	nor 1
+	of 1
+	has 1
+	strangles 1
+	we 1
+	to 1
+	i 1
+	is 1
+day
+	i 2
+	of 1
+	begin 1
+	a 1
+	she 1
+	to 1
+	almost 1
+	as 1
+hang
+	upon 1
+	them 1
+	up 1
+	about 1
+	loose 1
+	those 1
+	out 1
+	alive 1
+pent
+house
+	lid 1
+lid
+live
+	a 2
+	you 1
+	or 1
+	elves 1
+	the 1
+	to 1
+forbid
+	me 1
+weary
+	se 1
+	with 1
+se
+nnights
+	nine 1
+nine
+	times 1
+	farrow 1
+times
+	nine 1
+	past 1
+	have 1
+dwindle
+peak
+	and 1
+pine
+	for 1
+though
+	the 4
+	thou 2
+	his 1
+	he 1
+	i 1
+	our 1
+	you 1
+	bladed 1
+	castles 1
+	palaces 1
+	in 1
+	all 1
+	birnam 1
+bark
+	cannot 1
+yet
+	i 9
+	it 2
+	do 2
+	he 2
+	my 2
+	are 1
+	your 1
+	much 1
+	enkindle 1
+	is 1
+	return 1
+	come 1
+	let 1
+	wouldst 1
+	you 1
+	at 1
+	could 1
+	brew 1
+	lighted 1
+	dark 1
+	glimmers 1
+	but 1
+	the 1
+	know 1
+	grace 1
+	seem 1
+	too 1
+	they 1
+	all 1
+	here 1
+	who 1
+	again 1
+tempest
+tost
+pilot
+thumb
+wreck
+homeward
+	he 1
+did
+	you 5
+	so 3
+	say 2
+	come 1
+	bear 1
+	line 1
+	report 1
+	then 1
+	not 1
+	laugh 1
+	wake 1
+	command 1
+	appoint 1
+	shake 1
+	kill 1
+	this 1
+	banquo 1
+	bid 1
+	strike 1
+	for 1
+	the 1
+	it 1
+	grieve 1
+	he 1
+	his 1
+	hear 1
+	find 1
+	oppose 1
+	leave 1
+	heaven 1
+	stand 1
+drum
+	and 4
+	within 1
+doth
+	come 1
+	unfix 1
+	seem 1
+	know 1
+	guide 1
+	hiss 1
+weird
+	sisters 5
+	women 1
+sisters
+	saluted 1
+hand
+	in 1
+	will 1
+	of 1
+	hath 1
+	accursed 1
+posters
+	of 1
+sea
+	and 1
+	shark 1
+land
+thus
+	do 1
+	thou 1
+	to 1
+	with 1
+	cried 1
+	is 1
+	did 1
+	amazedly 1
+about
+	the 2
+	it 1
+	them 1
+	you 1
+	their 1
+	his 1
+	him 1
+thrice
+	to 2
+	again 1
+	the 1
+	and 1
+thine
+	own 3
+	and 2
+	or 1
+	ear 1
+	already 1
+mine
+	eyes 5
+	own 5
+	armour 2
+	host 1
+	succeeding 1
+	eternal 1
+	is 1
+	eye 1
+	ear 1
+make
+	us 5
+	our 3
+	me 3
+	up 2
+	my 1
+	thee 1
+	joyful 1
+	thick 1
+	their 1
+	both 1
+	honour 1
+	so 1
+	good 1
+	society 1
+	them 1
+	love 1
+	strong 1
+	it 1
+	such 1
+	amends 1
+	haste 1
+	the 1
+	assurance 1
+	him 1
+	we 1
+	discovery 1
+	all 1
+up
+	the 5
+	his 2
+	nine 1
+	clear 1
+	to 1
+	my 1
+	in 1
+	them 1
+	that 1
+	a 1
+	your 1
+peace
+	between 1
+	when 1
+charm
+	of 1
+	is 1
+	the 1
+wound
+	up 1
+	it 1
+seen
+	me 1
+	him 1
+	to 1
+how
+	now 4
+	goes 3
+	you 2
+	say 2
+	will 2
+	wilt 2
+	does 2
+	far 1
+	of 1
+	our 1
+	tender 1
+	is 1
+	easy 1
+	cross 1
+	much 1
+	did 1
+	monstrous 1
+	it 1
+	thou 1
+	he 1
+	came 1
+	she 1
+	to 1
+far
+	is 1
+	before 1
+	you 1
+	that 1
+t
+	please 3
+	you 2
+	be 2
+	call 1
+	so 1
+	again 1
+	with 1
+	night 1
+	known 1
+	far 1
+	must 1
+	your 1
+	that 1
+	came 1
+	their 1
+	off 1
+	before 1
+call
+	upon 2
+	thee 1
+	us 1
+	timely 1
+	our 1
+	it 1
+are
+	you 6
+	not 4
+	these 3
+	they 3
+	of 2
+	the 2
+	made 2
+	open 2
+	on 1
+	so 1
+	ye 1
+	sent 1
+	told 1
+	less 1
+	register 1
+	to 1
+	your 1
+	all 1
+	two 1
+	but 1
+	here 1
+	stol 1
+	with 1
+	bestow 1
+	men 1
+	clept 1
+	both 1
+	resolved 1
+	assailable 1
+	within 1
+	i 1
+	welcome 1
+	even 1
+	marrowless 1
+	yet 1
+	traitors 1
+	fools 1
+	liars 1
+	my 1
+	bright 1
+	portable 1
+	a 1
+	coming 1
+	abroad 1
+	counsellors 1
+	near 1
+	absent 1
+	hired 1
+wither
+wild
+	in 2
+	and 1
+attire
+inhabitants
+	o 1
+earth
+	hath 1
+	entomb 1
+	hide 1
+you
+	may 8
+	to 8
+	do 7
+	have 7
+	are 5
+	shall 5
+	can 4
+	were 4
+	would 4
+	see 4
+	should 3
+	not 3
+	speak 2
+	dress 2
+	say 2
+	so 2
+	must 2
+	know 2
+	make 2
+	look 2
+	yet 2
+	aught 1
+	seem 1
+	start 1
+	greet 1
+	imperfect 1
+	owe 1
+	stop 1
+	unto 1
+	whose 1
+	spirits 1
+	murdering 1
+	wait 1
+	left 1
+	break 1
+	durst 1
+	and 1
+	they 1
+	mean 1
+	bring 1
+	unattended 1
+	went 1
+	his 1
+	this 1
+	ride 1
+	return 1
+	consider 1
+	thought 1
+	made 1
+	find 1
+	command 1
+	where 1
+	with 1
+	anon 1
+	straight 1
+	keep 1
+	note 1
+	a 1
+	said 1
+	send 1
+	lack 1
+	dare 1
+	gone 1
+	all 1
+	tell 1
+	put 1
+	secret 1
+	profess 1
+	come 1
+	untie 1
+	show 1
+	perform 1
+	the 1
+	word 1
+	live 1
+	known 1
+	nearly 1
+	will 1
+	thus 1
+	egg 1
+	wife 1
+	what 1
+	silent 1
+	alone 1
+	heard 1
+	nor 1
+	mark 1
+	mar 1
+	well 1
+aught
+may
+	be 4
+	you 3
+	question 1
+	crown 1
+	pour 1
+	read 1
+	become 1
+	claim 1
+	rush 1
+	they 1
+	not 1
+	i 1
+	say 1
+	again 1
+	soon 1
+	tell 1
+	kindly 1
+	deserve 1
+	recoil 1
+	so 1
+	to 1
+question
+	them 1
+	this 1
+	enrages 1
+understand
+	me 1
+each
+	other 2
+	new 2
+	at 1
+	to 1
+	corporal 1
+	day 1
+	way 1
+	several 1
+	minute 1
+	drop 1
+	one 1
+once
+	her 1
+	the 1
+	thought 1
+	seen 1
+	start 1
+	and 1
+chappy
+	finger 1
+finger
+	laying 1
+	of 1
+laying
+skinny
+	lips 1
+lips
+women
+	promised 1
+	fight 1
+	within 1
+your
+	highness 8
+	pains 4
+	hand 4
+	own 3
+	noble 3
+	royal 3
+	children 2
+	eye 2
+	majesty 2
+	wife 2
+	nightgown 2
+	thoughts 2
+	enemy 2
+	charms 2
+	husband 2
+	beards 1
+	favours 1
+	hate 1
+	leisure 1
+	favour 1
+	throne 1
+	love 1
+	approach 1
+	fires 1
+	tidings 1
+	sightless 1
+	face 1
+	tongue 1
+	trouble 1
+	hermits 1
+	guest 1
+	servants 1
+	leave 1
+	courage 1
+	offices 1
+	kind 1
+	colour 1
+	constancy 1
+	goose 1
+	sight 1
+	graves 1
+	blood 1
+	presence 1
+	good 1
+	horses 1
+	patience 1
+	nature 1
+	bosoms 1
+	assistance 1
+	spirits 1
+	companions 1
+	rugged 1
+	guests 1
+	remembrance 1
+	fear 1
+	cheeks 1
+	going 1
+	vessels 1
+	spells 1
+	art 1
+	antic 1
+	grace 1
+	discomfort 1
+	father 1
+	saying 1
+	state 1
+	little 1
+	person 1
+	pardon 1
+	dishonours 1
+	wives 1
+	daughters 1
+	matrons 1
+	maids 1
+	pleasures 1
+	will 1
+	mere 1
+	speech 1
+	ears 1
+	castle 1
+	hat 1
+	brows 1
+	sword 1
+	report 1
+	hands 1
+	gracious 1
+	patient 1
+	wrath 1
+	leafy 1
+	right 1
+	son 1
+	cause 1
+	several 1
+beards
+	forbid 1
+interpret
+	further 1
+glamis
+	thou 1
+	hath 1
+shalt
+	be 3
+	thou 2
+	get 1
+	not 1
+hereafter
+sir
+why
+	do 7
+	should 2
+	then 2
+	hath 1
+	have 1
+	did 1
+	sinks 1
+	in 1
+	are 1
+start
+	me 1
+fear
+	not 3
+	and 2
+	of 2
+	thy 1
+	to 1
+	that 1
+	aright 1
+	it 1
+	the 1
+	who 1
+sound
+	and 2
+	so 1
+truth
+	from 1
+	and 1
+	than 1
+	in 1
+ye
+	fantastical 1
+	show 1
+	go 1
+fantastical
+indeed
+	have 1
+outwardly
+	ye 1
+partner
+	of 1
+grace
+	and 2
+	is 1
+	us 1
+	must 1
+	of 1
+prediction
+having
+	and 1
+	weigh 1
+	would 1
+	no 1
+royal
+	master 2
+	father 2
+	hope 1
+	sir 1
+	lord 1
+	company 1
+	preparation 1
+hope
+	your 1
+	drunk 1
+	ends 1
+	the 1
+rapt
+	withal 1
+	in 1
+withal
+into
+	the 7
+	his 2
+	which 1
+	my 1
+	hell 1
+seeds
+	of 1
+time
+	and 3
+	to 2
+	nor 1
+	with 1
+	i 1
+	does 1
+	alone 1
+	will 1
+	you 1
+	broke 1
+	of 1
+	approaches 1
+	has 1
+	for 1
+	is 1
+grain
+	will 1
+grow
+	and 1
+then
+	you 2
+	the 2
+	to 1
+	done 1
+	enter 1
+	adhere 1
+	speak 1
+	prophet 1
+	be 1
+	stand 1
+	comes 1
+	i 1
+	live 1
+	vanish 1
+	shall 1
+	fly 1
+	is 1
+	yield 1
+	he 1
+beg
+	nor 1
+	not 1
+favours
+	nor 1
+hate
+	him 1
+lesser
+	than 1
+	hate 1
+than
+	on 2
+	such 2
+	the 2
+	macbeth 1
+	to 1
+	horrible 1
+	more 1
+	all 1
+	mortal 1
+	wishest 1
+	would 1
+	both 1
+	what 1
+	bloody 1
+	our 1
+	so 1
+	is 1
+	by 1
+	he 1
+	pity 1
+	it 1
+	ever 1
+	summer 1
+	life 1
+	any 1
+	terms 1
+greater
+	honour 1
+	than 1
+happy
+	prologues 1
+	throne 1
+much
+	happier 1
+	more 1
+	drink 1
+	he 1
+	is 1
+	you 1
+	further 1
+	a 1
+	blood 1
+	as 1
+	charged 1
+happier
+kings
+none
+	of 2
+	but 1
+	can 1
+	serve 1
+stay
+	upon 1
+	there 1
+	longer 1
+	his 1
+imperfect
+	speakers 1
+speakers
+sinel
+lives
+	in 2
+	yet 1
+prosperous
+	gentleman 1
+stands
+	not 1
+	macbeth 1
+	accursed 1
+	scotland 1
+prospect
+	of 1
+belief
+	witness 1
+owe
+	this 1
+intelligence
+blasted
+	heath 1
+stop
+	our 1
+	up 1
+way
+	to 3
+	it 1
+	that 1
+	they 1
+	comes 1
+	and 1
+	are 1
+	of 1
+	the 1
+such
+	a 6
+	things 3
+	an 3
+	prophetic 1
+	i 1
+	thing 1
+	bloody 1
+	faces 1
+	sights 1
+	artificial 1
+	grace 1
+	as 1
+	welcome 1
+	sanctity 1
+prophetic
+	greeting 1
+greeting
+charge
+	you 1
+	with 1
+vanish
+bubbles
+water
+	has 1
+	clears 1
+	of 1
+has
+	been 2
+	almost 1
+	awaked 1
+	done 1
+	borne 1
+	thirty 1
+	kill 1
+	a 1
+	not 1
+	no 1
+	light 1
+	spoke 1
+	known 1
+	mated 1
+	paid 1
+them
+	all 2
+	for 2
+	down 1
+	than 1
+	further 1
+	drunk 1
+	hath 1
+	before 1
+	speak 1
+	the 1
+	kings 1
+	they 1
+	nature 1
+	but 1
+	fight 1
+	with 1
+	now 1
+	fly 1
+	lie 1
+	up 1
+	dareful 1
+	backward 1
+	to 1
+whither
+	are 1
+	should 1
+	indeed 1
+corporal
+	melted 1
+	agent 1
+melted
+breath
+	into 1
+	gives 1
+eaten
+	on 1
+insane
+	root 1
+root
+	and 1
+	of 1
+takes
+	the 1
+	him 1
+	your 1
+	from 1
+reason
+	prisoner 1
+prisoner
+children
+	shall 2
+	and 1
+	only 1
+	too 1
+went
+	it 1
+	to 1
+	further 1
+	into 1
+selfsame
+	tune 1
+	day 1
+tune
+	and 1
+	goes 1
+happily
+	received 1
+received
+news
+	of 1
+	more 1
+success
+reads
+personal
+	venture 1
+venture
+	in 1
+rebels
+fight
+	till 1
+	the 1
+	and 1
+	with 1
+wonders
+	and 1
+praises
+	do 1
+	in 1
+contend
+	about 1
+silenced
+	with 1
+viewing
+	o 1
+rest
+	o 1
+	is 1
+	to 1
+	your 1
+	them 1
+finds
+	thee 1
+	the 1
+stout
+	norweyan 1
+ranks
+nothing
+	is 2
+	in 2
+	but 2
+	afeard 1
+	serious 1
+afeard
+	of 1
+thyself
+	didst 1
+	and 1
+	a 1
+images
+	of 1
+thick
+	as 1
+	my 1
+	night 1
+	and 1
+	coming 1
+came
+	post 1
+	missives 1
+	they 1
+	by 1
+	hither 1
+	she 1
+post
+	with 1
+every
+	one 5
+	day 2
+	thing 2
+	point 1
+	eye 1
+	noise 1
+	man 1
+	minute 1
+	sin 1
+	soldier 1
+one
+	that 4
+	of 4
+	did 2
+	cried 2
+	halfworld 1
+	red 1
+	down 1
+	shall 1
+	thing 1
+	to 1
+	be 1
+	fell 1
+bear
+	the 2
+	welcome 1
+	my 1
+	their 1
+	a 1
+kingdom
+defence
+pour
+	my 1
+	in 1
+	the 1
+	we 1
+down
+	before 2
+	at 1
+	what 1
+	a 1
+before
+	him 3
+	us 3
+	the 3
+	this 2
+	to 1
+	macbeth 1
+	me 1
+	thy 1
+	young 1
+	my 1
+	we 1
+sent
+	forth 1
+	to 1
+	he 1
+thanks
+	for 2
+	to 2
+	and 1
+only
+	to 1
+	i 1
+	look 1
+	for 1
+	it 1
+	in 1
+	lived 1
+herald
+	thee 1
+sight
+pay
+	thee 1
+	his 1
+earnest
+	of 2
+addition
+devil
+	speak 1
+	more 1
+	to 1
+	damn 1
+	himself 1
+true
+	fear 1
+	event 1
+dress
+	me 1
+borrow
+robes
+	sit 1
+was
+	it 4
+	the 3
+	a 3
+	to 3
+	not 3
+	by 2
+	he 2
+	combined 1
+	wrought 1
+	heavy 1
+	smiling 1
+	going 1
+	feverous 1
+	said 1
+	your 1
+	never 1
+	pitied 1
+	dead 1
+	for 1
+	madness 1
+	his 1
+	my 1
+	once 1
+	forsworn 1
+	mine 1
+	this 1
+	setting 1
+	reported 1
+	that 1
+	from 1
+under
+	heavy 1
+	my 1
+	him 1
+	fortune 1
+	his 1
+	a 1
+	cold 1
+heavy
+	judgment 1
+	on 1
+	summons 1
+	hand 1
+judgment
+	bears 1
+	here 1
+bears
+	that 1
+	a 1
+life
+	to 1
+	o 1
+	is 1
+	were 1
+lose
+	the 1
+	none 1
+whether
+	he 1
+	they 1
+	it 1
+combined
+those
+	that 7
+	of 3
+	in 1
+	honours 1
+	sleepy 1
+	men 1
+	thoughts 1
+	eyes 1
+	precious 1
+	strong 1
+	which 1
+	he 1
+	linen 1
+	you 1
+	clamorous 1
+line
+	the 1
+	of 1
+	stretch 1
+hidden
+	help 1
+labour
+	we 1
+country
+	near 2
+	sinks 1
+	round 1
+treasons
+	capital 1
+capital
+confess
+proved
+overthrown
+	him 1
+aside
+	to 3
+	so 1
+greatest
+	is 1
+	note 1
+behind
+pains
+gave
+	the 1
+	thee 1
+promised
+	no 1
+	thee 1
+less
+	to 2
+	deserved 2
+	than 1
+	material 1
+	in 1
+	have 1
+trusted
+	home 1
+	with 1
+home
+	before 1
+	our 1
+might
+	have 2
+	yet 1
+	be 1
+	appal 1
+enkindle
+	you 1
+unto
+	the 1
+	our 1
+	a 1
+crown
+	me 1
+	to 1
+	does 1
+	my 1
+besides
+	the 1
+	her 1
+tis
+	not 3
+	time 3
+	most 2
+	he 2
+	strange 1
+	done 1
+	to 1
+	later 1
+	the 1
+	one 1
+	my 1
+	day 1
+	unnatural 1
+	said 1
+	much 1
+	safer 1
+	banquo 1
+	better 1
+	a 1
+	given 1
+	no 1
+	true 1
+	two 1
+	hard 1
+	call 1
+	spoken 1
+	her 1
+	truly 1
+	his 1
+	thought 1
+oftentimes
+win
+	us 2
+	me 1
+harm
+	macbeth 1
+instruments
+	of 1
+darkness
+	tell 1
+	does 1
+truths
+	are 1
+honest
+	men 2
+	trifles 1
+trifles
+betray
+deepest
+	consequence 1
+consequence
+cousins
+	are 1
+word
+	with 1
+	more 1
+	of 1
+pray
+	you 9
+	for 1
+	the 1
+	god 1
+told
+	by 1
+prologues
+	to 1
+swelling
+	act 1
+imperial
+	theme 1
+	charge 1
+theme
+thank
+	you 2
+	as 1
+	us 1
+supernatural
+	soliciting 1
+soliciting
+ill
+given
+	me 2
+	suck 1
+	to 1
+	with 1
+	his 1
+	him 1
+commencing
+	in 1
+yield
+	to 1
+	thee 1
+suggestion
+whose
+	horrid 1
+	murder 1
+	places 1
+	care 1
+	howl 1
+	being 1
+	heavy 1
+	execution 1
+	loves 1
+	absence 1
+	sole 1
+	hearts 1
+	arms 1
+	voices 1
+horrid
+	image 1
+	deed 1
+	hell 1
+image
+	doth 1
+unfix
+	my 1
+	his 1
+hair
+seated
+	heart 1
+heart
+	and 2
+	knock 1
+	doth 1
+	so 1
+	to 1
+	speaks 1
+	alive 1
+	shall 1
+	is 1
+	in 1
+	i 1
+	would 1
+knock
+	at 1
+ribs
+fears
+	a 1
+	and 1
+	in 1
+	do 1
+horrible
+	imaginings 1
+	shadow 1
+	sight 1
+imaginings
+thought
+	good 1
+	to 1
+	had 1
+	how 1
+	and 1
+	honest 1
+	the 1
+murder
+	yet 1
+	sleep 1
+	hath 1
+	and 1
+	as 1
+	is 1
+shakes
+	so 1
+single
+	state 1
+	business 1
+	breast 1
+function
+smother
+surmise
+chance
+	will 1
+	may 1
+	of 1
+stir
+horrors
+	come 1
+garments
+cleave
+	not 1
+	to 1
+mould
+aid
+	of 1
+	doth 1
+hour
+	runs 1
+	to 1
+	before 1
+	or 1
+	at 1
+	upon 1
+runs
+	through 1
+	against 1
+roughest
+	day 1
+leisure
+favour
+	ever 1
+dull
+	brain 1
+brain
+	was 1
+wrought
+	with 1
+	ere 1
+forgotten
+register
+turn
+leaf
+	to 1
+read
+	them 1
+	strange 1
+	it 1
+let
+	us 7
+	me 7
+	not 3
+	the 3
+	them 3
+	your 2
+	every 2
+	this 2
+	that 1
+	in 1
+	it 1
+	grief 1
+	our 1
+	fall 1
+toward
+	the 1
+	your 1
+	my 1
+	birnam 1
+	dunsinane 1
+think
+	upon 1
+	not 1
+	what 1
+	on 1
+	of 1
+	you 1
+	our 1
+	withal 1
+chanced
+interim
+	having 1
+weigh
+free
+	hearts 1
+	have 1
+	from 1
+	honours 1
+hearts
+	each 1
+	are 1
+gladly
+enough
+	for 2
+friends
+	of 1
+	that 1
+	do 1
+	we 1
+	abroad 1
+iv
+	forres 1
+	outside 1
+	the 1
+	country 1
+palace
+	gate 2
+flourish
+commission
+	yet 1
+return
+	to 2
+	your 1
+	at 1
+liege
+back
+	again 1
+spoke
+	together 1
+	what 1
+saw
+	him 2
+	you 1
+	the 1
+die
+	with 1
+frankly
+	he 1
+implored
+	your 1
+highness
+	sit 1
+	is 1
+pardon
+	and 1
+forth
+	men 1
+	great 1
+	paper 1
+	the 1
+deep
+	repentance 1
+	desires 1
+	and 1
+	damnation 1
+repentance
+became
+	him 1
+	the 1
+leaving
+	it 1
+died
+	an 1
+	every 1
+	hereafter 1
+studied
+	in 1
+throw
+	away 1
+	her 1
+	physic 1
+	down 1
+	my 1
+away
+	the 2
+	and 2
+dearest
+	thing 1
+	partner 1
+	love 1
+	chuck 1
+	coz 1
+thing
+	he 1
+	most 1
+	unbecoming 1
+	of 1
+	beside 1
+owed
+twere
+	a 1
+	well 1
+	best 1
+	to 1
+careless
+	trifle 1
+trifle
+find
+	the 3
+	him 2
+	heaven 1
+	it 1
+	my 1
+	her 1
+mind
+	to 1
+	that 1
+	she 1
+	i 1
+	diseased 1
+construction
+	in 1
+face
+	must 1
+	of 1
+	hence 1
+whom
+	we 4
+	i 2
+	the 1
+	this 1
+	thou 1
+built
+absolute
+	trust 1
+	fear 1
+worthiest
+	cousin 1
+sin
+	of 1
+ingratitude
+	even 1
+even
+	now 4
+	like 1
+	to 1
+	till 1
+	there 1
+	so 1
+	with 1
+swiftest
+	wing 1
+wing
+	of 1
+	to 1
+recompense
+	is 1
+slow
+overtake
+	thee 1
+hadst
+	less 1
+deserved
+proportion
+	both 1
+payment
+left
+	you 2
+	to 1
+	the 1
+	this 1
+due
+	than 1
+	of 1
+	to 1
+	decision 1
+service
+	and 1
+loyalty
+	i 1
+doing
+	it 1
+	every 1
+pays
+	itself 1
+itself
+	for 1
+	professes 1
+part
+	of 3
+receive
+	our 1
+	it 1
+	free 1
+	what 1
+	at 1
+duties
+	did 1
+throne
+	and 1
+servants
+	ever 1
+	with 1
+safe
+	toward 1
+	in 1
+	arrived 1
+love
+	and 2
+	that 1
+	him 1
+	the 1
+	known 1
+	of 1
+welcome
+	hither 2
+	in 1
+	pay 1
+	and 1
+hither
+	to 1
+begun
+	to 1
+	make 1
+plant
+	thee 1
+	yourselves 1
+full
+	of 4
+	so 1
+	o 1
+	with 1
+growing
+known
+	to 2
+	who 1
+	her 1
+	what 1
+enfold
+	thee 1
+hold
+	thee 2
+	our 1
+	a 1
+	what 1
+	rumour 1
+	fast 1
+harvest
+	is 1
+own
+	lips 1
+	act 1
+	esteem 1
+	chamber 1
+	life 1
+	degrees 1
+	good 1
+	ends 1
+	safeties 1
+	interdiction 1
+	detraction 1
+	demerits 1
+	sword 1
+plenteous
+	joys 1
+joys
+wanton
+	in 1
+fulness
+seek
+	to 2
+	out 1
+hide
+	themselves 1
+	your 1
+	what 1
+	thee 1
+themselves
+	air 1
+	and 1
+	by 1
+drops
+	of 1
+sorrow
+	is 1
+	seems 1
+	words 1
+kinsmen
+thanes
+	fly 1
+	do 1
+	and 1
+places
+	are 1
+nearest
+	way 1
+establish
+	our 1
+estate
+	upon 1
+	o 1
+eldest
+prince
+	of 2
+cumberland
+unaccompanied
+	invest 1
+invest
+	him 1
+signs
+	of 1
+nobleness
+stars
+shine
+	through 1
+deservers
+hence
+	to 3
+	nor 1
+inverness
+bind
+	us 1
+further
+	to 1
+	in 1
+used
+	for 1
+	their 1
+harbinger
+	and 1
+joyful
+	trouble 1
+hearing
+	of 1
+	should 1
+approach
+	the 1
+	thou 1
+	you 1
+humbly
+	take 1
+take
+	my 5
+	a 2
+	upon 2
+	thee 1
+	the 1
+	to 1
+	any 1
+	no 1
+	their 1
+	forth 1
+	thy 1
+step
+fall
+	down 1
+	upon 1
+	on 1
+	of 1
+	thy 1
+else
+	o 1
+	should 1
+	worth 1
+	desired 1
+	that 1
+	been 1
+	climb 1
+	remains 1
+	my 1
+	i 1
+erleap
+lies
+	like 2
+	i 1
+fires
+light
+	see 1
+	should 1
+	thickens 1
+	there 1
+	by 1
+black
+	and 1
+	hecate 1
+	agents 1
+	spirits 1
+	macbeth 1
+	scruples 1
+desires
+eye
+	of 3
+	wink 1
+	fears 1
+	and 1
+	in 1
+wink
+	at 1
+commendations
+	i 1
+banquet
+	to 1
+	prepared 1
+after
+	her 2
+	him 1
+	these 1
+	life 1
+	me 1
+care
+	is 1
+	i 1
+	not 1
+bid
+	us 1
+	god 1
+	thy 1
+	me 1
+	my 1
+	thee 1
+	the 1
+peerless
+	kinsman 1
+kinsman
+	and 1
+v
+	inverness 1
+	a 1
+	dunsinane 1
+castle
+	hath 1
+	of 1
+	is 1
+reading
+	a 1
+letter
+met
+	me 1
+	them 1
+	with 1
+learned
+	by 1
+perfectest
+	report 1
+mortal
+	knowledge 1
+	thoughts 1
+	murders 1
+	custom 1
+	sword 1
+	consequences 1
+burned
+	in 1
+desire
+	is 1
+	his 1
+	aloud 1
+made
+	themselves 2
+	his 2
+	good 2
+	you 1
+	the 1
+	them 1
+	me 1
+	a 1
+	it 1
+vanished
+whiles
+	i 3
+wonder
+	of 1
+missives
+	from 1
+hailed
+	me 1
+saluted
+	me 1
+referred
+coming
+	on 1
+	thither 1
+	fancies 1
+deliver
+greatness
+	is 1
+	dedicate 1
+mightst
+	not 1
+dues
+	of 1
+rejoicing
+being
+	taught 1
+	unprepared 1
+	too 1
+	i 1
+	thrusts 1
+	gone 1
+	compared 1
+	there 1
+	of 1
+ignorant
+	of 1
+	present 1
+lay
+	it 1
+	duncan 1
+	thou 1
+	on 1
+milk
+	of 2
+	for 1
+human
+	kindness 1
+	statute 1
+kindness
+catch
+	the 1
+	it 1
+wouldst
+	thou 2
+	be 1
+	highly 1
+	not 1
+	wrongly 1
+ambition
+illness
+	should 1
+attend
+	his 2
+	it 1
+	those 1
+	the 1
+highly
+holily
+	in 1
+play
+	the 3
+	false 1
+false
+	face 1
+	heart 1
+	creation 1
+	man 1
+	speaking 1
+	thanes 1
+wrongly
+	win 1
+ldst
+	have 1
+	never 1
+rather
+	thou 1
+	shall 1
+	than 1
+	challenge 1
+	hear 1
+dost
+	fear 1
+	glare 1
+	for 1
+wishest
+	should 1
+undone
+hie
+	thee 1
+	you 1
+spirits
+	in 1
+	shine 1
+	that 1
+ear
+chastise
+	with 1
+tongue
+	nor 1
+	of 1
+	for 1
+	that 1
+impedes
+	thee 1
+golden
+	round 1
+	opinions 1
+	blood 1
+	stamp 1
+round
+	about 1
+fate
+	and 1
+	into 1
+metaphysical
+	aid 1
+tidings
+mad
+	to 1
+inform
+preparation
+please
+	you 3
+	your 2
+	heaven 1
+fellows
+	had 1
+	that 1
+speed
+	of 1
+almost
+	dead 1
+	supp 1
+	slipp 1
+	a 1
+	at 1
+	afraid 1
+	forgot 1
+	itself 1
+dead
+	for 1
+	man 1
+	butcher 1
+scarcely
+	more 1
+	have 1
+message
+	ere 1
+tending
+brings
+	great 1
+raven
+	himself 1
+hoarse
+croaks
+	the 1
+fatal
+	entrance 1
+	vision 1
+	bellman 1
+	end 1
+entrance
+	of 1
+tend
+	on 1
+thoughts
+	that 1
+	which 1
+	with 1
+	cannot 1
+	speculative 1
+unsex
+	me 1
+fill
+	up 3
+	me 1
+	full 1
+toe
+	top 1
+	of 1
+top
+	of 1
+	macbeth 1
+direst
+	cruelty 1
+cruelty
+blood
+	those 1
+	on 1
+	hath 1
+	is 1
+	will 1
+	in 1
+	still 1
+	and 1
+	of 1
+access
+	and 1
+remorse
+compunctious
+	visitings 1
+visitings
+	of 1
+shake
+	us 2
+	my 1
+	off 1
+	with 1
+purpose
+	never 1
+	cool 1
+keep
+	the 2
+	peace 1
+	us 1
+	ourself 1
+	alone 1
+	seat 1
+	a 1
+	it 1
+	eyes 1
+	her 1
+between
+	thee 1
+effect
+	and 1
+woman
+	born 4
+	with 1
+breasts
+gall
+	of 1
+murdering
+	ministers 1
+ministers
+wherever
+	in 1
+sightless
+	substances 1
+	couriers 1
+substances
+wait
+	on 2
+	upon 1
+mischief
+pall
+	thee 1
+dunnest
+	smoke 1
+smoke
+	of 1
+hell
+	can 1
+	is 1
+keen
+	knife 1
+	sword 1
+knife
+	see 1
+	myself 1
+makes
+	him 2
+	us 2
+	wing 1
+heaven
+	peep 1
+	or 1
+	preserve 1
+	on 1
+	given 1
+	look 1
+	rest 1
+	forgive 1
+	knows 1
+peep
+	through 1
+blanket
+	of 1
+dark
+	hour 2
+	night 1
+letters
+	have 1
+transported
+	me 1
+beyond
+	my 1
+feel
+	now 1
+	it 1
+	his 1
+future
+	in 1
+instant
+goes
+	the 3
+	hence 1
+	down 1
+	fleance 1
+	manly 1
+morrow
+	see 1
+purposes
+never
+	at 1
+	shake 1
+	tremble 1
+	call 1
+	vanquish 1
+	be 1
+	till 1
+	is 1
+	fear 1
+	was 1
+	finds 1
+	sag 1
+book
+	where 1
+matters
+beguile
+	the 1
+innocent
+	flower 1
+	sleep 1
+	self 1
+	of 1
+	lamb 1
+flower
+	and 1
+serpent
+	under 1
+	lies 1
+provided
+	for 1
+put
+	on 4
+	upon 1
+	the 1
+	a 1
+	rancours 1
+	that 1
+	in 1
+	up 1
+	myself 1
+	it 1
+	mine 1
+	we 1
+business
+	into 1
+	to 1
+	which 1
+	in 1
+	from 1
+	must 1
+dispatch
+nights
+	and 1
+	has 1
+	watched 1
+days
+	to 1
+	and 1
+	again 1
+	are 1
+solely
+	sovereign 1
+sovereign
+	sway 1
+	flower 1
+sway
+	and 1
+	by 1
+masterdom
+clear
+	in 1
+alter
+	favour 1
+ever
+	is 1
+	knit 1
+	yet 1
+	scotland 1
+vi
+	before 1
+	forres 1
+	dunsinane 1
+hautboys
+	and 2
+torches
+pleasant
+	seat 1
+seat
+nimbly
+	and 1
+sweetly
+	recommends 1
+recommends
+	itself 1
+gentle
+	senses 1
+	lady 1
+	my 1
+	weal 1
+	cousin 1
+	heavens 1
+senses
+	to 1
+	would 1
+guest
+	of 1
+	to 1
+summer
+temple
+haunting
+	martlet 1
+martlet
+does
+	the 2
+	he 2
+	approve 1
+	unmake 1
+	murder 1
+	drink 1
+	easy 1
+	call 1
+	receive 1
+	usually 1
+	sear 1
+	fly 1
+	so 1
+	approach 1
+	blaspheme 1
+	my 1
+	not 1
+	now 1
+	condemn 1
+	your 1
+	appear 1
+approve
+loved
+	mansionry 1
+	him 1
+mansionry
+smells
+	wooingly 1
+wooingly
+	here 1
+jutty
+frieze
+buttress
+coign
+	of 1
+bird
+pendent
+	bed 1
+bed
+	and 1
+procreant
+	cradle 1
+cradle
+breed
+	and 1
+	unnatural 1
+haunt
+	me 1
+observed
+delicate
+hostess
+	keeps 1
+follows
+	us 1
+sometime
+	is 1
+trouble
+	to 1
+still
+	keep 2
+	we 1
+	to 1
+	have 1
+	it 1
+	hath 1
+	look 1
+	in 1
+	hast 1
+herein
+	i 1
+teach
+	you 1
+ild
+	us 1
+twice
+	done 1
+poor
+	country 4
+	and 1
+	cat 1
+	malice 1
+	wren 1
+	bird 1
+	birds 1
+	monkey 1
+	prattler 1
+	innocent 1
+	state 1
+	heart 1
+	player 1
+honours
+	deep 1
+	in 1
+broad
+	wherewith 1
+	and 1
+	words 1
+wherewith
+majesty
+	loads 1
+	went 1
+loads
+	our 1
+late
+	dignities 1
+dignities
+	heap 1
+heap
+hermits
+coursed
+	him 1
+purveyor
+rides
+	well 1
+sharp
+	as 1
+spur
+holp
+	him 1
+theirs
+compt
+audit
+	at 1
+pleasure
+	of 1
+conduct
+	me 1
+host
+	and 1
+continue
+	our 1
+	in 1
+graces
+	towards 1
+	weigh 1
+towards
+	him 1
+	his 1
+	birnam 1
+	which 1
+vii
+	macbeth 1
+	another 1
+sewer
+divers
+dishes
+	and 1
+pass
+	over 1
+over
+	the 1
+stage
+quickly
+	have 1
+	let 1
+assassination
+could
+	not 6
+	trammel 1
+	refrain 1
+	they 1
+	answer 1
+	be 1
+	play 1
+trammel
+	up 1
+surcease
+	success 1
+end
+bank
+	and 1
+shoal
+	of 1
+ld
+	jump 1
+	hear 1
+	weep 1
+jump
+	the 1
+cases
+instructions
+taught
+plague
+	the 1
+inventor
+handed
+	justice 1
+commends
+	the 1
+ingredients
+	of 2
+poison
+chalice
+subject
+	of 1
+strong
+	both 1
+	for 1
+	sorrow 1
+	themselves 1
+	knots 1
+deed
+	in 1
+	that 1
+	of 1
+	without 1
+	go 1
+	i 1
+shut
+	the 1
+	up 1
+door
+borne
+	his 1
+	in 1
+	beetle 1
+	all 1
+faculties
+	so 1
+meek
+office
+	deftly 1
+virtues
+plead
+	like 1
+angels
+	are 1
+trumpet
+	calls 1
+tongued
+damnation
+	of 1
+taking
+off
+	the 2
+	this 1
+	her 1
+pity
+	for 1
+naked
+	new 1
+	frailties 1
+born
+	of 4
+	babe 1
+babe
+	that 1
+striding
+	the 1
+blast
+cherubim
+horsed
+couriers
+	of 1
+tears
+	shall 1
+	are 1
+drown
+	the 2
+prick
+	the 1
+	thy 1
+sides
+	of 1
+	are 1
+	do 1
+intent
+vaulting
+	ambition 1
+erleaps
+	itself 1
+falls
+	on 1
+supp
+chamber
+	and 1
+ask
+	you 1
+proceed
+	no 1
+bought
+opinions
+	from 1
+sorts
+	of 1
+worn
+	now 1
+gloss
+cast
+	aside 1
+soon
+	be 1
+	return 1
+drunk
+	hath 1
+wherein
+	you 1
+yourself
+slept
+	since 1
+since
+	he 1
+	too 1
+	that 1
+	my 1
+	his 1
+wakes
+	it 1
+green
+	and 1
+	one 1
+pale
+	hecate 1
+freely
+account
+	thy 1
+same
+	in 1
+esteem
+	him 1
+st
+	thou 3
+	the 1
+	leisure 1
+	me 1
+	good 1
+	of 1
+	that 1
+	at 1
+	man 1
+	with 1
+	upon 1
+	false 1
+	thyself 1
+	slain 1
+ornament
+	of 1
+coward
+	in 1
+letting
+dare
+	not 6
+	do 1
+	look 1
+	me 1
+	abide 1
+cat
+	i 1
+	hath 1
+adage
+prithee
+dares
+	do 1
+	receive 1
+beast
+	was 1
+enterprise
+	to 1
+durst
+	do 1
+adhere
+fitness
+	now 1
+unmake
+	you 1
+suck
+tender
+	eye 1
+milks
+	me 1
+while
+	it 1
+	then 1
+	night 1
+	you 1
+	in 1
+pluck
+	out 1
+	from 1
+nipple
+	from 1
+boneless
+	gums 1
+gums
+dash
+brains
+	out 1
+	were 1
+sworn
+	as 1
+fail
+	not 1
+screw
+	your 1
+courage
+	to 2
+sticking
+	on 1
+asleep
+whereto
+	the 1
+hard
+	journey 1
+	use 1
+	to 1
+journey
+soundly
+	invite 1
+invite
+	him 1
+	to 1
+chamberlains
+wine
+	and 1
+	of 1
+wassail
+	so 1
+convince
+memory
+	a 1
+warder
+	of 1
+fume
+receipt
+	of 1
+limbeck
+	only 1
+swinish
+	sleep 1
+drenched
+	natures 1
+natures
+	lie 1
+lie
+	as 1
+	there 1
+	so 1
+	last 1
+	on 1
+	thou 1
+perform
+	upon 1
+	what 1
+	your 1
+	in 1
+unguarded
+	duncan 1
+spongy
+	officers 1
+guilt
+quell
+bring
+	you 2
+	me 2
+	forth 1
+	these 1
+	them 1
+	thou 1
+	it 1
+undaunted
+	mettle 1
+mettle
+	should 1
+compose
+males
+sleepy
+	two 1
+	grooms 1
+daggers
+	ready 1
+	from 1
+	in 1
+griefs
+	and 1
+clamour
+	roar 1
+roar
+settled
+bend
+	up 1
+agent
+	to 1
+feat
+mock
+	the 1
+	their 1
+fairest
+	show 1
+court
+	of 2
+bearing
+	a 1
+torch
+	before 1
+moon
+	is 1
+heard
+	the 2
+	them 1
+	a 1
+	i 1
+	her 1
+	no 1
+clock
+she
+	has 4
+	should 2
+	goes 1
+	strike 1
+	lived 1
+	last 1
+	comes 1
+	by 1
+	does 1
+	rubs 1
+	speaks 1
+	now 1
+	go 1
+	the 1
+	is 1
+twelve
+later
+sword
+	of 1
+	with 1
+	impress 1
+husbandry
+	in 1
+candles
+	are 1
+summons
+	lies 1
+	thee 1
+lead
+	upon 1
+	our 1
+merciful
+	powers 1
+	heaven 1
+powers
+	above 1
+restrain
+	in 1
+cursed
+	thoughts 1
+	head 1
+gives
+	way 1
+	the 1
+	out 1
+repose
+	the 1
+unusual
+	pleasure 1
+largess
+	to 1
+offices
+	and 1
+diamond
+	he 1
+greets
+	your 1
+measureless
+	content 1
+content
+unprepared
+defect
+dreamt
+	last 1
+last
+	night 2
+	conference 1
+	the 1
+	with 1
+	walked 1
+	syllable 1
+some
+	say 2
+	truth 1
+	words 1
+	water 1
+	of 1
+	streaks 1
+	wine 1
+	attempt 1
+	holy 1
+	i 1
+	danger 1
+	desolate 1
+	single 1
+	woe 1
+	sweet 1
+	must 1
+entreat
+	an 1
+serve
+	with 1
+spend
+	it 1
+	for 1
+	a 1
+grant
+	the 1
+	him 1
+consent
+seeking
+	to 1
+augment
+	it 1
+franchised
+	and 1
+allegiance
+	clear 1
+counsell
+mistress
+	of 1
+drink
+	is 1
+	especially 1
+	gave 1
+	a 1
+	to 1
+	and 1
+ready
+strike
+	upon 1
+	out 1
+	heaven 1
+	at 1
+	beside 1
+bell
+	rings 2
+	invites 1
+dagger
+	which 2
+	of 1
+handle
+	toward 1
+clutch
+	thee 1
+vision
+sensible
+feeling
+	as 1
+creation
+proceeding
+	from 1
+heat
+	of 1
+oppressed
+	brain 1
+form
+	as 1
+palpable
+draw
+	him 1
+	me 1
+marshall
+going
+instrument
+	i 1
+fools
+	o 1
+worth
+	all 1
+	more 1
+	no 1
+blade
+	and 1
+	on 1
+dudgeon
+	gouts 1
+gouts
+	of 1
+informs
+halfworld
+wicked
+	dreams 1
+	this 1
+dreams
+	abuse 1
+abuse
+curtain
+witchcraft
+	celebrates 1
+celebrates
+offerings
+sentinel
+wolf
+howl
+watch
+	upon 1
+stealthy
+	pace 1
+pace
+	from 1
+tarquin
+ravishing
+	strides 1
+strides
+design
+moves
+	like 1
+	your 1
+ghost
+	of 5
+sure
+	of 2
+	and 1
+firm
+	nerves 1
+	and 1
+hear
+	it 4
+	a 3
+	not 1
+	what 1
+	horses 1
+	the 1
+	his 1
+	thee 1
+	something 1
+steps
+walk
+	like 1
+	too 1
+stones
+	prate 1
+	have 1
+prate
+	of 1
+whereabout
+horror
+	from 1
+suits
+	with 1
+threat
+deeds
+	too 1
+	must 1
+rings
+invites
+	me 1
+knell
+	is 1
+bold
+	to 1
+	one 1
+quench
+fire
+	burn 3
+hark
+owl
+	that 1
+	scream 1
+	hawk 1
+shriek
+bellman
+stern
+doors
+	are 1
+open
+surfeited
+	grooms 1
+grooms
+	with 1
+	withal 1
+snores
+drugg
+possets
+ho
+alack
+afraid
+	to 3
+	they 1
+	of 1
+awaked
+	him 1
+attempt
+	and 1
+	of 1
+confounds
+	us 1
+laid
+	their 1
+	upon 1
+miss
+	were 1
+em
+	to 1
+resembled
+father
+	as 1
+	to 1
+	is 1
+	a 1
+noise
+	is 2
+	appals 1
+scream
+	and 1
+crickets
+	cry 1
+descended
+ay
+sorry
+	sight 2
+looking
+	on 1
+foolish
+	thought 1
+laugh
+	to 2
+	in 1
+	a 1
+cried
+wake
+	each 1
+	duncan 1
+	northumberland 1
+prayers
+	with 1
+address
+lodged
+	together 1
+	and 1
+bless
+	us 2
+	you 1
+amen
+hangman
+listening
+	their 1
+consider
+	it 1
+deeply
+wherefore
+	could 1
+	did 1
+	was 1
+need
+	of 1
+	i 1
+	we 1
+blessing
+	upon 1
+stuck
+	in 1
+throat
+	on 1
+	is 1
+ways
+	than 1
+methought
+	i 1
+voice
+	cry 1
+	is 1
+knits
+	up 1
+ravell
+sleeve
+	of 1
+sore
+	labour 1
+	night 1
+bath
+balm
+	of 1
+hurt
+	minds 1
+minds
+course
+chief
+	nourisher 1
+	guest 1
+nourisher
+	in 1
+feast
+	is 1
+mean
+	you 1
+therefore
+	cawdor 1
+unbend
+	your 1
+strength
+	of 1
+brainsickly
+	of 1
+wash
+	this 2
+	your 1
+witness
+	from 1
+	to 1
+carry
+	them 1
+smear
+infirm
+	of 1
+sleeping
+	and 1
+	got 1
+pictures
+childhood
+painted
+	devil 1
+	on 1
+bleed
+gild
+	the 1
+faces
+	of 1
+	were 1
+	vizards 1
+knocking
+	within 10
+	indeed 1
+	has 1
+	at 1
+appals
+	me 1
+ha
+neptune
+ocean
+	wash 1
+clean
+	from 1
+multitudinous
+	seas 1
+seas
+	in 1
+incarnadine
+making
+	the 1
+red
+	thy 1
+re
+colour
+shame
+	itself 1
+wear
+	a 1
+	our 1
+	the 1
+	thou 1
+	it 1
+white
+south
+	entry 1
+entry
+retire
+	we 1
+little
+	is 2
+	water 1
+	spirit 1
+	ones 1
+clears
+	us 1
+easy
+	is 1
+	mayst 1
+constancy
+unattended
+nightgown
+lest
+	occasion 1
+	our 1
+occasion
+	call 1
+watchers
+poorly
+	in 1
+best
+	knows 2
+	not 1
+	half 1
+	time 1
+	o 1
+	at 1
+	of 1
+couldst
+gate
+turning
+	the 1
+key
+beelzebub
+farmer
+hanged
+	that 1
+expectation
+	of 1
+plenty
+napkins
+	enow 1
+enow
+	about 1
+	to 1
+sweat
+	for 1
+faith
+	sir 1
+equivocator
+	with 1
+swear
+	in 1
+	and 1
+scales
+	against 1
+either
+	scale 1
+	thou 1
+scale
+	of 1
+committed
+	treason 1
+treason
+	enough 1
+	has 1
+sake
+equivocate
+	to 1
+tailor
+	come 1
+stealing
+	out 1
+french
+	hose 1
+hose
+roast
+	your 1
+goose
+	look 1
+quiet
+professions
+	that 1
+primrose
+everlasting
+	bonfire 1
+bonfire
+remember
+	the 1
+	well 1
+	now 1
+	such 1
+opens
+	the 1
+carousing
+	till 1
+cock
+provoker
+	of 1
+especially
+	provoke 1
+provoke
+marry
+nose
+	of 1
+painting
+	of 1
+urine
+lechery
+provokes
+	the 1
+unprovokes
+performance
+said
+	to 1
+	they 1
+mars
+	him 1
+sets
+persuades
+	him 1
+disheartens
+	him 1
+stand
+	to 3
+	in 1
+	with 1
+	here 1
+	not 1
+	aye 1
+	close 1
+	my 1
+conclusion
+equivocates
+	him 1
+giving
+	him 1
+leaves
+	him 1
+believe
+	drink 1
+	i 1
+requited
+	him 1
+took
+	off 1
+legs
+	sometime 1
+shift
+	to 1
+	away 1
+stirring
+command
+	me 1
+	upon 1
+	us 1
+timely
+	on 1
+	inn 1
+slipp
+delight
+	in 1
+physics
+	pain 1
+pain
+limited
+	service 1
+appoint
+	so 1
+unruly
+chimneys
+	were 1
+blown
+	down 2
+lamentings
+	heard 1
+screams
+	of 1
+prophesying
+	with 1
+accents
+	terrible 1
+dire
+	combustion 1
+	distresses 1
+combustion
+	and 1
+confused
+	events 1
+events
+hatch
+woeful
+	time 1
+obscure
+	bird 1
+livelong
+	night 1
+feverous
+	and 1
+twas
+	a 1
+rough
+	night 1
+remembrance
+	cannot 1
+	apply 1
+	the 1
+parallel
+fellow
+	to 1
+	and 1
+conceive
+	nor 1
+matter
+confusion
+	now 1
+masterpiece
+sacrilegious
+	murder 1
+broke
+	ope 1
+	their 1
+	the 1
+	my 1
+ope
+anointed
+	temple 1
+stole
+	thence 1
+thence
+	to 1
+	it 1
+	the 1
+building
+destroy
+	your 1
+gorgon
+yourselves
+	apart 1
+awake
+ring
+	the 3
+downy
+	sleep 1
+counterfeit
+doom
+graves
+	rise 1
+	must 1
+rise
+	up 1
+	again 1
+	never 1
+	from 1
+sprites
+countenance
+	this 1
+hideous
+	trumpet 1
+parley
+sleepers
+	of 1
+repetition
+woe
+alas
+cruel
+	any 1
+	parricide 1
+	are 1
+	ministers 1
+any
+	where 1
+	chance 1
+	shape 1
+	heart 1
+	market 1
+	one 1
+	is 1
+dear
+	duff 1
+	wife 1
+	friend 1
+	causes 1
+duff
+contradict
+	thyself 1
+lived
+	a 1
+	long 1
+	but 1
+blessed
+	time 1
+serious
+	in 1
+mortality
+toys
+renown
+	and 1
+drawn
+	dagger 1
+mere
+	lees 1
+	own 1
+	despair 1
+lees
+vault
+	to 1
+brag
+	of 1
+amiss
+fountain
+	of 1
+stopp
+source
+	of 1
+badged
+	with 1
+unwiped
+	we 1
+found
+	here 1
+pillows
+	will 1
+stared
+distracted
+repent
+	me 1
+fury
+kill
+	them 1
+	their 1
+	a 1
+wise
+amazed
+	my 1
+temperate
+	and 1
+furious
+loyal
+	and 1
+neutral
+moment
+	on 1
+expedition
+	my 1
+violent
+	love 1
+	sea 1
+	sorrow 1
+	hands 1
+outrun
+	the 1
+pauser
+silver
+	skin 1
+skin
+	laced 1
+laced
+	with 1
+gash
+stabs
+	look 1
+breach
+	in 1
+ruin
+wasteful
+	entrance 1
+steep
+colours
+	of 1
+trade
+	and 1
+unmannerly
+	breech 1
+breech
+gore
+refrain
+tongues
+claim
+	this 1
+argument
+	for 1
+ours
+spoken
+	here 1
+hid
+	in 1
+auger
+hole
+rush
+seize
+	us 1
+	upon 1
+brew
+foot
+	of 1
+motion
+carried
+	out 1
+	to 1
+frailties
+	hid 1
+suffer
+	in 1
+	and 1
+exposure
+piece
+	of 1
+work
+	in 1
+scruples
+	shake 1
+undivulged
+	pretence 1
+pretence
+	i 1
+treasonous
+	malice 1
+malice
+	domestic 1
+briefly
+	put 1
+manly
+	readiness 1
+readiness
+hall
+	together 1
+	in 1
+contented
+consort
+	with 1
+unfelt
+	sorrow 1
+ireland
+separated
+	fortune 1
+safer
+	to 1
+smiles
+	upon 1
+nearer
+	bloody 1
+murderous
+	shaft 1
+shaft
+	that 1
+shot
+lighted
+	fools 1
+safest
+	way 1
+avoid
+	the 1
+aim
+horse
+	the 1
+dainty
+	of 1
+warrant
+	in 1
+theft
+steals
+	itself 1
+mercy
+	left 1
+outside
+	macbeth 1
+threescore
+	and 1
+volume
+	of 1
+hours
+	dreadful 1
+dreadful
+	and 1
+	note 1
+trifled
+	former 1
+knowings
+ah
+seest
+heavens
+troubled
+	with 2
+threaten
+	his 1
+strangles
+	the 1
+travelling
+	lamp 1
+lamp
+predominance
+entomb
+living
+	light 1
+kiss
+	it 1
+	the 1
+unnatural
+	deeds 1
+	troubles 1
+tuesday
+	last 1
+falcon
+towering
+	in 1
+pride
+	of 1
+mousing
+	owl 1
+hawk
+horses
+	swift 1
+	go 1
+certain
+	friends 1
+	issue 1
+beauteous
+	and 1
+swift
+	and 1
+	blessing 1
+minions
+	of 1
+race
+stalls
+flung
+	out 1
+contending
+obedience
+	where 1
+war
+	with 1
+mankind
+eat
+	each 1
+	our 1
+	them 1
+amazement
+	of 1
+world
+	were 1
+slain
+	kings 1
+	and 1
+pretend
+suborn
+stol
+n
+	away 1
+	birthdom 1
+	into 1
+fled
+	to 2
+	the 1
+puts
+	upon 1
+suspicion
+	of 1
+thriftless
+	ambition 1
+wilt
+	thou 2
+	ravin 1
+ravin
+	up 1
+means
+	that 1
+	of 1
+sovereignty
+	will 1
+already
+	named 1
+	are 1
+	at 1
+named
+scone
+invested
+body
+colmekill
+sacred
+	storehouse 1
+storehouse
+	of 1
+predecessors
+guardian
+	of 1
+bones
+	are 1
+	my 1
+adieu
+sit
+	down 2
+	easier 1
+	i 1
+	still 1
+easier
+	than 1
+benison
+	go 1
+bad
+	begun 1
+foes
+dst
+	most 1
+	rather 1
+foully
+	for 1
+posterity
+many
+	kings 2
+	more 1
+	ways 1
+	of 1
+	worthy 1
+	unrough 1
+	sons 1
+speeches
+	shine 1
+	have 1
+verities
+	on 1
+oracles
+	as 1
+hush
+sennet
+	sounded 1
+sounded
+queen
+	that 1
+ladies
+gap
+	in 1
+unbecoming
+solemn
+	supper 1
+supper
+	sir 1
+request
+	your 1
+presence
+	at 1
+indissoluble
+	tie 1
+tie
+knit
+ride
+	you 1
+afternoon
+desired
+	your 1
+advice
+grave
+	and 1
+council
+twixt
+	this 1
+better
+	be 1
+	thee 1
+	health 1
+	macbeth 1
+	soldier 1
+	upon 1
+	part 1
+borrower
+	of 1
+twain
+bestow
+confessing
+parricide
+filling
+	their 1
+hearers
+invention
+therewithal
+	we 1
+cause
+	of 2
+	he 1
+craving
+	us 1
+jointly
+wish
+	your 1
+	the 1
+	them 1
+commend
+	you 1
+	your 1
+backs
+seven
+	at 1
+society
+sweeter
+	welcome 1
+ourself
+	will 1
+alone
+attendant
+	they 1
+sirrah
+safely
+	thus 1
+stick
+	deep 1
+royalty
+	of 1
+	he 1
+reigns
+	that 1
+dauntless
+	temper 1
+temper
+	of 1
+wisdom
+	that 1
+	can 1
+	or 1
+	plucks 1
+guide
+	his 1
+safety
+genius
+	is 1
+rebuked
+antony
+caesar
+chid
+	the 1
+prophet
+placed
+	a 1
+	macbeth 1
+fruitless
+	crown 1
+barren
+	sceptre 1
+sceptre
+	in 1
+gripe
+wrench
+unlineal
+	hand 1
+succeeding
+	royalty 1
+issue
+	of 2
+	have 1
+	ever 1
+	strokes 1
+filed
+	my 1
+gracious
+	duncan 2
+	england 2
+	father 1
+	pleasure 1
+	my 1
+rancours
+	in 1
+vessel
+	of 1
+eternal
+	jewel 1
+	curse 1
+jewel
+common
+	enemy 1
+	eye 1
+enemy
+	of 1
+	off 1
+seed
+	of 1
+list
+champion
+	me 1
+utterance
+yesterday
+	we 1
+past
+	which 1
+held
+	you 1
+conference
+probation
+	with 1
+cross
+half
+	a 1
+	of 1
+soul
+	and 1
+	is 1
+notion
+	crazed 1
+crazed
+patience
+	so 1
+predominant
+	in 1
+gospell
+bow
+beggar
+yours
+	for 1
+catalogue
+	ye 1
+hounds
+	and 1
+greyhounds
+mongrels
+spaniels
+curs
+shoughs
+rugs
+	and 1
+demi
+wolves
+clept
+dogs
+valued
+	file 1
+file
+distinguishes
+	the 1
+subtle
+housekeeper
+hunter
+according
+	to 2
+gift
+	which 1
+	of 1
+bounteous
+	nature 1
+closed
+whereby
+	he 1
+particular
+	addition 1
+bill
+writes
+	them 1
+alike
+station
+	in 1
+	where 1
+worst
+	rank 1
+	means 1
+	will 1
+rank
+	of 1
+manhood
+bosoms
+	empty 1
+grapples
+	you 1
+health
+	but 1
+	on 1
+	to 1
+sickly
+	in 1
+	weal 1
+perfect
+	spy 1
+vile
+	blows 1
+blows
+	and 1
+buffets
+	of 1
+incensed
+	that 1
+reckless
+	what 1
+spite
+	the 1
+	of 1
+disasters
+tugg
+mend
+	it 1
+rid
+	on 1
+distance
+minute
+	of 1
+	teems 1
+thrusts
+barefaced
+	power 1
+power
+	is 2
+	to 2
+	sweep 1
+	of 1
+	a 1
+	upon 1
+sweep
+	him 1
+avouch
+	it 1
+loves
+	i 1
+	for 1
+	us 1
+drop
+	profound 1
+	of 1
+wail
+	his 1
+struck
+	down 1
+	for 1
+assistance
+	do 1
+masking
+	the 1
+sundry
+	weighty 1
+	ways 1
+	blessings 1
+weighty
+	reasons 1
+reasons
+advise
+	you 1
+	him 1
+acquaint
+	you 1
+spy
+	o 1
+something
+	from 1
+	wicked 1
+always
+	thought 1
+require
+	a 1
+	her 1
+clearness
+rubs
+	nor 1
+	her 1
+botches
+	in 1
+keeps
+	him 1
+	me 1
+	her 1
+	still 1
+company
+absence
+	is 1
+material
+	to 1
+embrace
+	the 1
+resolve
+	yourselves 1
+apart
+resolved
+straight
+abide
+	within 1
+	no 1
+concluded
+flight
+	was 1
+madam
+returns
+	again 1
+few
+	words 1
+nought
+got
+	without 1
+destruction
+	dwell 1
+	sicken 1
+dwell
+	in 1
+joy
+	o 1
+sorriest
+	fancies 1
+fancies
+	your 1
+companions
+	making 1
+using
+	those 1
+remedy
+regard
+	him 1
+snake
+close
+	and 1
+	contriver 1
+herself
+whilst
+	our 1
+remains
+	in 1
+	to 1
+danger
+	of 1
+	does 1
+tooth
+	of 1
+frame
+	of 1
+disjoint
+worlds
+	suffer 1
+meal
+	in 1
+affliction
+	of 1
+nightly
+gain
+	our 1
+	the 1
+torture
+	of 1
+restless
+	ecstasy 1
+ecstasy
+fitful
+	fever 1
+fever
+	he 1
+sleeps
+	well 1
+domestic
+foreign
+	levy 1
+levy
+touch
+	him 1
+sleek
+	o 1
+rugged
+	looks 1
+	russian 1
+bright
+	and 1
+	still 1
+jovial
+	among 1
+among
+	your 1
+guests
+	to 1
+apply
+	to 1
+eminence
+unsafe
+	the 1
+lave
+	our 1
+flattering
+	streams 1
+streams
+vizards
+	to 1
+disguising
+	what 1
+scorpions
+	is 1
+copy
+eterne
+assailable
+jocund
+bat
+	hath 1
+	and 1
+flown
+cloister
+shard
+beetle
+	with 1
+drowsy
+	hums 1
+hums
+rung
+	night 1
+yawning
+	peal 1
+peal
+note
+	of 1
+	him 1
+chuck
+applaud
+	the 1
+	thee 1
+	again 1
+seeling
+	night 1
+scarf
+	up 1
+pitiful
+	day 1
+	to 1
+invisible
+	hand 1
+cancel
+	and 1
+tear
+	to 1
+pieces
+	that 1
+bond
+	of 1
+thickens
+crow
+rooky
+	wood 1
+wood
+	to 1
+	remove 1
+	is 1
+	of 1
+	began 1
+	be 1
+begin
+	to 1
+droop
+	and 1
+drowse
+agents
+	to 1
+preys
+	do 1
+rouse
+	and 1
+marvell
+park
+	near 1
+join
+	with 1
+needs
+	not 1
+	she 1
+mistrust
+delivers
+direction
+	just 1
+just
+	censures 1
+west
+	yet 1
+glimmers
+	with 1
+streaks
+	of 1
+spurs
+	the 1
+lated
+	traveller 1
+traveller
+	apace 1
+apace
+inn
+approaches
+mile
+	may 1
+usually
+treachery
+fly
+	to 1
+	the 1
+	all 1
+	from 1
+mayst
+	revenge 1
+	find 1
+	thou 1
+revenge
+dies
+escapes
+wast
+	not 1
+	born 1
+affair
+prepared
+degrees
+hearty
+	welcome 1
+mingle
+	with 2
+humble
+	host 1
+speaks
+	they 1
+appears
+	at 1
+encounter
+	thee 1
+midst
+large
+	in 1
+	expense 1
+mirth
+measure
+table
+	round 1
+approaching
+	the 1
+cut
+	off 1
+	short 1
+throats
+nonpareil
+scaped
+fit
+	to 2
+	again 1
+	is 1
+whole
+	as 1
+	table 1
+	space 1
+	body 1
+marble
+founded
+	as 1
+rock
+casing
+	air 1
+cabin
+cribb
+confined
+bound
+	in 1
+	root 1
+	brow 1
+saucy
+	doubts 1
+	and 1
+doubts
+	and 1
+ditch
+	he 1
+bides
+twenty
+	trenched 1
+	mortal 1
+	at 1
+trenched
+	gashes 1
+least
+	a 1
+	we 1
+grown
+	serpent 1
+worm
+	that 1
+venom
+	breed 1
+	sleeping 1
+teeth
+	for 1
+ourselves
+cheer
+	we 1
+	you 1
+	me 1
+sold
+often
+	vouch 1
+	thus 1
+	laudable 1
+vouch
+feed
+	were 1
+sauce
+	to 1
+meat
+	is 1
+ceremony
+bare
+	without 1
+sweet
+	remembrancer 1
+	bodements 1
+	milk 1
+	oblivious 1
+remembrancer
+digestion
+	wait 1
+appetite
+enters
+sits
+	in 2
+roof
+graced
+	person 1
+person
+	of 1
+challenge
+	for 1
+unkindness
+mischance
+lays
+	blame 1
+blame
+	upon 1
+promise
+	to 1
+reserved
+canst
+	not 1
+	nod 1
+	thou 1
+gory
+	locks 1
+locks
+	at 1
+youth
+momentary
+offend
+	him 1
+extend
+	his 1
+passion
+appal
+	the 1
+proper
+	stuff 1
+stuff
+led
+	you 1
+	on 1
+flaws
+	and 1
+starts
+impostors
+	to 1
+story
+	at 1
+	quickly 1
+winter
+authorized
+	by 1
+grandam
+stool
+behold
+	such 1
+lo
+	you 1
+nod
+charnel
+houses
+	and 1
+send
+	out 2
+	to 1
+	my 1
+bury
+	back 1
+monuments
+maws
+	of 1
+kites
+vanishes
+quite
+	unmann 1
+unmann
+folly
+fie
+shed
+	ere 1
+olden
+	time 1
+statute
+	purged 1
+purged
+	the 1
+weal
+murders
+	have 1
+	on 1
+	sticking 1
+crowns
+push
+	us 1
+stools
+lack
+	you 1
+	the 1
+	is 1
+forget
+muse
+	at 1
+infirmity
+thirst
+pledge
+avaunt
+quit
+	my 1
+marrowless
+speculation
+	in 1
+glare
+	with 1
+peers
+custom
+spoils
+	the 1
+russian
+	bear 1
+rhinoceros
+hyrcan
+	tiger 1
+shape
+	but 1
+nerves
+tremble
+alive
+	again 1
+trembling
+	i 1
+inhabit
+	then 1
+protest
+	me 1
+	their 1
+baby
+	of 1
+girl
+shadow
+unreal
+	mockery 1
+mockery
+displaced
+	the 1
+admired
+	disorder 1
+disorder
+overcome
+	us 1
+cloud
+special
+	wonder 1
+disposition
+	that 1
+sights
+natural
+	ruby 1
+	touch 1
+ruby
+	of 1
+cheeks
+	of 1
+blanched
+	with 1
+grows
+	worse 1
+	with 1
+worse
+	and 1
+	to 1
+enrages
+	him 1
+order
+	of 1
+move
+	and 1
+	only 1
+trees
+	to 1
+	blown 1
+augurs
+	and 1
+understood
+	relations 1
+relations
+	have 1
+magot
+pies
+	and 1
+choughs
+	and 1
+rooks
+	brought 1
+brought
+	forth 1
+	off 1
+secret
+	murders 1
+odds
+	with 1
+morning
+denies
+	his 1
+bidding
+fee
+betimes
+	i 1
+	remove 1
+bent
+	to 1
+causes
+	shall 1
+stepp
+wade
+	no 1
+returning
+	were 1
+tedious
+	as 1
+acted
+	ere 1
+scann
+season
+	of 1
+initiate
+	fear 1
+wants
+	hard 1
+	the 1
+angerly
+beldams
+	as 1
+overbold
+traffic
+	with 1
+riddles
+	and 1
+affairs
+	of 1
+charms
+	and 1
+contriver
+	of 1
+harms
+glory
+	of 1
+wayward
+	son 1
+spiteful
+	and 1
+wrathful
+others
+	do 1
+	that 1
+ends
+	here 1
+amends
+	now 1
+pit
+	of 1
+acheron
+destiny
+vessels
+	and 1
+spells
+	provide 1
+provide
+beside
+	us 1
+noon
+corner
+	of 1
+hangs
+	a 1
+vaporous
+	drop 1
+profound
+ground
+	before 1
+distill
+magic
+	sleights 1
+sleights
+raise
+	such 1
+artificial
+	sprites 1
+illusion
+spurn
+	fate 1
+scorn
+	death 1
+hopes
+	relate 1
+bove
+	wisdom 1
+security
+mortals
+chiefest
+	enemy 1
+music
+	and 2
+song
+	within 1
+c
+foggy
+	cloud 1
+stays
+	for 1
+hit
+	your 1
+strangely
+	borne 1
+pitied
+	of 1
+right
+want
+	the 1
+monstrous
+fact
+grieve
+	macbeth 1
+	his 1
+pious
+	rage 1
+	edward 1
+rage
+	the 1
+delinquents
+	tear 1
+slaves
+	of 1
+thralls
+	of 1
+nobly
+	done 1
+wisely
+	too 1
+twould
+	have 1
+anger
+deny
+	me 1
+tyrant
+	holds 1
+	bloody 1
+	has 1
+disgrace
+	and 1
+bestows
+	himself 1
+holds
+	the 1
+birth
+edward
+	with 1
+malevolence
+	of 1
+high
+	respect 1
+	or 1
+	dunsinane 1
+respect
+holy
+	king 1
+	angel 1
+	prayers 1
+warlike
+	siward 1
+	men 1
+	shield 1
+above
+ratify
+	the 1
+tables
+	meat 1
+feasts
+	and 1
+banquets
+	bloody 1
+knives
+faithful
+	homage 1
+homage
+	and 1
+exasperate
+	the 1
+prepares
+	for 1
+cloudy
+	messenger 1
+turns
+	me 1
+rue
+	the 1
+clogs
+	me 1
+answer
+	me 2
+caution
+angel
+	whom 1
+unfold
+suffering
+	country 1
+accursed
+	in 1
+	be 1
+cavern
+middle
+boiling
+	cauldron 1
+cauldron
+	bubble 3
+	go 1
+	boil 1
+	sing 1
+brinded
+	cat 1
+mew
+hedge
+pig
+	whined 1
+whined
+harpier
+	cries 1
+entrails
+	throw 1
+toad
+stone
+thirty
+swelter
+boil
+	and 2
+	thou 1
+charmed
+	pot 1
+	life 1
+pot
+toil
+	and 3
+burn
+	and 2
+	in 1
+bubble
+fillet
+	of 1
+fenny
+	snake 1
+bake
+newt
+	and 1
+frog
+wool
+	of 1
+dog
+adder
+fork
+	and 1
+blind
+sting
+lizard
+leg
+	and 1
+owlet
+powerful
+	trouble 1
+broth
+	boil 1
+dragon
+mummy
+maw
+	and 1
+gulf
+salt
+shark
+hemlock
+	digg 1
+digg
+liver
+	of 1
+blaspheming
+	jew 1
+jew
+goat
+slips
+	of 1
+yew
+eclipse
+turk
+	and 1
+tartar
+strangled
+	babe 1
+drab
+gruel
+	thick 1
+slab
+add
+	thereto 1
+	the 1
+thereto
+	a 1
+chaudron
+cool
+	it 1
+baboon
+share
+	i 1
+gains
+sing
+elves
+	and 1
+fairies
+	in 1
+enchanting
+	all 1
+retires
+pricking
+	of 1
+thumbs
+whoever
+	knocks 1
+knocks
+midnight
+	hags 1
+hags
+conjure
+	you 1
+profess
+howe
+untie
+	the 1
+winds
+	and 1
+churches
+yesty
+	waves 1
+waves
+confound
+	and 1
+swallow
+	navigation 1
+navigation
+	up 1
+bladed
+	corn 1
+corn
+	be 1
+castles
+	topple 1
+topple
+	on 1
+warders
+heads
+	to 1
+palaces
+	and 1
+pyramids
+	do 1
+slope
+foundations
+treasure
+germens
+	tumble 1
+tumble
+	all 1
+sicken
+demand
+mouths
+masters
+sow
+farrow
+grease
+	that 1
+sweaten
+gibbet
+	throw 1
+flame
+low
+deftly
+	show 1
+armed
+	head 1
+unknown
+	power 1
+	to 1
+knows
+	thy 1
+	nothing 1
+	it 1
+	what 1
+	if 1
+speech
+	be 1
+beware
+	macduff 1
+	the 1
+dismiss
+	me 1
+descends
+whate
+harp
+aright
+commanded
+potent
+	than 1
+child
+	crowned 1
+	of 1
+ears
+	despise 1
+resolute
+assurance
+	double 1
+hearted
+	fear 1
+crowned
+tree
+	in 1
+	shalt 1
+rises
+	like 1
+wears
+	upon 1
+brow
+	the 1
+listen
+mettled
+proud
+chafes
+frets
+	his 1
+conspirers
+	are 1
+vanquish
+until
+birnam
+	wood 6
+	rise 1
+	forest 1
+dunsinane
+	hill 1
+	he 1
+	away 1
+hill
+impress
+	the 1
+	as 1
+forest
+	come 1
+bodements
+rebellion
+lease
+	of 1
+throbs
+	to 1
+reign
+	in 1
+satisfied
+curse
+	fall 1
+sinks
+	that 1
+	beneath 1
+shadows
+depart
+eight
+	kings 1
+glass
+	in 1
+following
+	her 1
+sear
+	mine 1
+balls
+	and 1
+gold
+fourth
+stretch
+	out 1
+crack
+	of 1
+seventh
+eighth
+	appears 1
+shows
+	me 1
+fold
+	balls 1
+	it 1
+treble
+	scepters 1
+scepters
+	carry 1
+bolter
+points
+	at 1
+amazedly
+delights
+antic
+	round 1
+kindly
+	say 1
+dance
+	and 1
+pernicious
+	hour 1
+	root 1
+aye
+	accursed 1
+calendar
+infected
+	be 1
+	minds 1
+whereon
+	they 1
+damn
+	thee 1
+galloping
+	of 1
+anticipatest
+	my 1
+dread
+	exploits 1
+exploits
+flighty
+	purpose 1
+ertook
+unless
+	the 1
+firstlings
+	of 2
+acts
+surprise
+edge
+	o 1
+babes
+unfortunate
+	souls 1
+souls
+trace
+	him 1
+boasting
+	like 1
+fool
+madness
+actions
+	do 1
+traitors
+	that 1
+mansion
+	and 1
+titles
+	in 1
+wren
+diminutive
+	of 1
+birds
+	do 1
+	they 1
+ones
+	in 1
+nest
+coz
+school
+	yourself 1
+judicious
+fits
+	o 1
+rumour
+float
+	upon 1
+long
+	but 1
+	that 1
+	enough 1
+cease
+climb
+	upward 1
+upward
+pretty
+	cousin 1
+	ones 1
+	chickens 1
+fatherless
+longer
+mother
+worms
+	and 1
+flies
+net
+	nor 1
+lime
+pitfall
+	nor 1
+gin
+	to 1
+saying
+nay
+buy
+	me 1
+market
+sell
+	again 1
+wit
+	enough 1
+swears
+	and 1
+liars
+	and 2
+swearers
+	are 1
+	enow 1
+beat
+	them 1
+monkey
+weep
+	for 1
+	our 1
+sign
+prattler
+talk
+	of 1
+dame
+doubt
+	some 1
+	nor 1
+	it 1
+	the 1
+nearly
+homely
+	man 1
+fright
+	you 1
+methinks
+savage
+nigh
+	your 1
+preserve
+	you 1
+earthly
+	world 1
+laudable
+accounted
+	dangerous 1
+dangerous
+	folly 1
+womanly
+	defence 1
+unsanctified
+liest
+shag
+villain
+	that 1
+egg
+stabbing
+	him 1
+fry
+	of 1
+run
+	away 1
+crying
+desolate
+	shade 1
+shade
+sad
+	bosoms 1
+empty
+fast
+	the 1
+	sleep 1
+	asleep 1
+bestride
+	our 1
+birthdom
+morn
+widows
+	howl 1
+orphans
+	cry 1
+sorrows
+resounds
+felt
+	with 1
+yell
+syllable
+	of 2
+dolour
+redress
+perchance
+	even 1
+sole
+	name 1
+blisters
+	our 1
+deserve
+	of 1
+offer
+	up 1
+lamb
+appease
+	an 1
+angry
+	god 1
+treacherous
+virtuous
+	nature 1
+recoil
+	and 1
+crave
+transpose
+brightest
+	fell 1
+brows
+	of 1
+rawness
+	left 1
+precious
+	motives 1
+	to 1
+motives
+knots
+	of 1
+jealousies
+	be 1
+dishonours
+safeties
+rightly
+	just 1
+whatever
+	i 1
+tyranny
+basis
+	sure 1
+goodness
+	dare 1
+cheque
+	thee 1
+wrongs
+affeer
+fare
+	thee 2
+	you 1
+space
+	that 1
+grasp
+rich
+	east 1
+east
+	to 1
+boot
+offended
+beneath
+	the 1
+yoke
+weeps
+bleeds
+added
+	to 1
+uplifted
+	in 1
+goodly
+	thousands 1
+thousands
+tread
+	upon 1
+vices
+	than 1
+succeed
+particulars
+	of 1
+vice
+	so 1
+grafted
+pure
+	as 1
+snow
+compared
+confineless
+	harms 1
+legions
+evils
+	to 1
+	thou 1
+luxurious
+avaricious
+deceitful
+sudden
+malicious
+smacking
+	of 1
+bottom
+voluptuousness
+wives
+daughters
+matrons
+	and 1
+maids
+cistern
+	of 1
+lust
+continent
+	impediments 1
+impediments
+	would 1
+erbear
+oppose
+	my 1
+boundless
+	intemperance 1
+intemperance
+untimely
+	emptying 1
+	ripp 1
+emptying
+	of 1
+convey
+	your 1
+pleasures
+	in 1
+spacious
+	plenty 1
+hoodwink
+willing
+	dames 1
+dames
+	enough 1
+vulture
+	in 1
+devour
+	so 1
+dedicate
+	themselves 1
+finding
+	it 1
+inclined
+composed
+	affection 1
+affection
+	such 1
+stanchless
+	avarice 1
+avarice
+	that 1
+nobles
+	for 1
+lands
+jewels
+	and 1
+hunger
+	more 1
+forge
+quarrels
+	unjust 1
+unjust
+	against 1
+destroying
+	them 1
+wealth
+sticks
+	deeper 1
+deeper
+seeming
+	lust 1
+foisons
+	to 1
+portable
+becoming
+	graces 1
+verity
+temperance
+stableness
+bounty
+perseverance
+lowliness
+devotion
+fortitude
+relish
+	of 1
+abound
+division
+	of 1
+several
+	crime 1
+	loves 1
+crime
+acting
+	it 1
+concord
+	into 1
+uproar
+	the 1
+universal
+	peace 1
+unity
+	on 1
+govern
+nation
+	miserable 1
+miserable
+untitled
+	tyrant 1
+scepter
+wholesome
+	days 1
+truest
+	issue 1
+interdiction
+	stands 1
+blaspheme
+	his 1
+sainted
+	king 1
+bore
+	thee 1
+oftener
+	upon 1
+knees
+	than 1
+feet
+repeat
+banish
+breast
+integrity
+wiped
+	the 1
+reconciled
+	my 1
+devilish
+	macbeth 1
+trains
+	hath 1
+sought
+	to 1
+modest
+	wisdom 1
+plucks
+	me 1
+credulous
+	haste 1
+deal
+	between 1
+unspeak
+	mine 1
+detraction
+abjure
+taints
+	and 1
+blames
+	i 1
+strangers
+	to 1
+forsworn
+coveted
+	what 1
+speaking
+truly
+	owed 1
+setting
+	forth 1
+	down 1
+warranted
+	quarrel 1
+silent
+unwelcome
+	things 1
+reconcile
+crew
+	of 1
+wretched
+	souls 1
+	kerns 1
+cure
+	this 1
+	her 1
+malady
+	convinces 1
+convinces
+assay
+	of 1
+sanctity
+	hath 1
+presently
+	amend 1
+amend
+disease
+	he 1
+	is 1
+evil
+miraculous
+	work 1
+remain
+	in 1
+solicits
+	heaven 1
+visited
+	people 1
+swoln
+	and 1
+ulcerous
+despair
+	of 1
+	thy 1
+surgery
+cures
+hanging
+	a 1
+stamp
+	about 1
+necks
+healing
+	benediction 1
+benediction
+virtue
+heavenly
+	gift 1
+prophecy
+blessings
+	hang 1
+countryman
+remove
+	from 1
+	to 1
+smile
+	at 1
+sighs
+	and 1
+groans
+	and 1
+shrieks
+	that 1
+rend
+	the 1
+modern
+	ecstasy 1
+scarce
+	ask 1
+expire
+	before 1
+flowers
+	in 1
+caps
+dying
+	or 1
+relation
+nice
+grief
+	that 1
+age
+	doth 1
+hiss
+	the 1
+speaker
+teems
+	a 1
+batter
+niggard
+	of 1
+transport
+	the 1
+heavily
+	borne 1
+ran
+	a 1
+create
+	soldiers 1
+doff
+	their 1
+distresses
+lent
+	us 1
+older
+	and 1
+christendom
+	gives 1
+latch
+	them 1
+concern
+	they 1
+shares
+	some 1
+main
+	part 1
+	hope 1
+pertains
+	to 1
+despise
+	my 1
+possess
+	them 1
+heaviest
+	sound 1
+hum
+guess
+	at 1
+surprised
+savagely
+	slaughter 1
+slaughter
+	on 1
+relate
+	the 1
+manner
+quarry
+	of 1
+deer
+pull
+	your 1
+	in 1
+hat
+	upon 1
+whispers
+	the 1
+fraught
+	heart 1
+bids
+	it 1
+comforted
+medicines
+	of 1
+deadly
+	grief 1
+kite
+chickens
+	and 1
+dam
+swoop
+dispute
+	it 1
+also
+	feel 1
+sinful
+	macduff 1
+naught
+	that 1
+demerits
+whetstone
+	of 1
+convert
+	to 1
+blunt
+	not 1
+enrage
+	it 1
+braggart
+	with 1
+short
+	all 1
+intermission
+front
+	to 1
+fiend
+	of 1
+length
+	set 1
+scape
+forgive
+	him 1
+	us 1
+ripe
+	for 1
+shaking
+ante
+room
+	in 2
+physic
+	and 1
+	to 1
+waiting
+watched
+	with 1
+perceive
+walked
+	in 1
+field
+gown
+	upon 1
+unlock
+	her 1
+closet
+paper
+write
+	upon 1
+afterwards
+	seal 1
+seal
+	it 1
+perturbation
+	in 1
+benefit
+	of 1
+effects
+	of 1
+watching
+slumbery
+	agitation 1
+agitation
+walking
+	and 1
+	shadow 1
+actual
+	performances 1
+performances
+confirm
+	my 1
+taper
+guise
+observe
+	her 1
+continually
+sense
+	is 1
+accustomed
+	action 1
+action
+	with 1
+washing
+	her 1
+quarter
+	of 1
+spot
+satisfy
+	my 1
+strongly
+	fortifies 1
+murky
+mar
+	all 1
+starting
+smell
+	of 1
+perfumes
+	of 1
+arabia
+	will 1
+sweeten
+	this 1
+oh
+sigh
+	is 1
+sorely
+	charged 1
+charged
+dignity
+	of 1
+practise
+beds
+buried
+directly
+whisperings
+	are 1
+abroad
+troubles
+	of 1
+deaf
+	pillows 1
+discharge
+	their 1
+secrets
+divine
+	than 1
+physician
+annoyance
+mated
+uncle
+	siward 1
+revenges
+	burn 1
+grim
+	alarm 1
+alarm
+excite
+	the 1
+mortified
+	man 1
+brother
+gentry
+unrough
+	youths 1
+youths
+	that 1
+fortifies
+buckle
+	his 1
+distemper
+belt
+	of 1
+rule
+minutely
+	revolts 1
+revolts
+	upbraid 1
+upbraid
+	his 1
+commands
+	move 1
+loose
+	about 1
+giant
+robe
+dwarfish
+	thief 1
+thief
+pester
+condemn
+march
+	we 1
+	towards 1
+medicine
+	of 1
+purge
+	it 1
+dew
+	the 1
+weeds
+marching
+reports
+taint
+	with 1
+consequences
+	have 1
+pronounced
+	me 1
+e
+epicures
+sag
+	with 1
+cream
+loon
+geese
+lily
+patch
+linen
+	cheeks 1
+counsellors
+	to 1
+whey
+force
+sick
+	at 1
+disseat
+	me 1
+yellow
+	leaf 1
+accompany
+	old 1
+troops
+	of 1
+stead
+curses
+loud
+	but 1
+mouth
+fain
+	deny 1
+reported
+flesh
+	be 1
+hack
+armour
+	on 1
+needed
+	yet 1
+skirr
+	the 1
+patient
+minister
+	to 2
+diseased
+rooted
+	sorrow 1
+raze
+	out 1
+written
+	troubles 1
+oblivious
+	antidote 1
+antidote
+cleanse
+	the 1
+perilous
+	stuff 1
+weighs
+	upon 1
+therein
+	the 1
+staff
+pristine
+	health 1
+echo
+rhubarb
+cyme
+purgative
+	drug 1
+drug
+scour
+	these 1
+bane
+profit
+	again 1
+hardly
+	draw 1
+chambers
+	will 1
+hew
+	him 1
+bough
+thereby
+	shall 1
+discovery
+err
+	in 1
+learn
+	no 1
+confident
+	tyrant 1
+endure
+	your 1
+advantage
+	to 1
+constrained
+	things 1
+absent
+	too 1
+censures
+event
+industrious
+	soldiership 1
+soldiership
+decision
+	make 1
+speculative
+	their 1
+unsure
+	hopes 1
+arbitrate
+advance
+	the 1
+outward
+	walls 1
+walls
+siege
+	to 1
+famine
+	and 1
+	cling 1
+ague
+	eat 1
+forced
+	with 1
+dareful
+beard
+	to 1
+backward
+	home 1
+forgot
+	the 1
+taste
+	of 1
+treatise
+	rouse 1
+direness
+familiar
+	to 1
+slaughterous
+	thoughts 1
+creeps
+	in 1
+petty
+	pace 1
+recorded
+	time 1
+yesterdays
+	have 1
+dusty
+	death 1
+brief
+	candle 1
+candle
+player
+struts
+	and 1
+tale
+idiot
+signifying
+	nothing 1
+comest
+	to 1
+liar
+	and 1
+wrath
+moving
+	grove 1
+grove
+next
+	tree 1
+resolution
+equivocation
+	of 1
+avouches
+	does 1
+appear
+flying
+	hence 1
+tarrying
+	here 1
+aweary
+	of 1
+wrack
+harness
+	on 1
+boughs
+leafy
+	screens 1
+screens
+	throw 1
+beaten
+trumpets
+	speak 1
+clamorous
+	harbingers 1
+harbingers
+	of 1
+alarums
+tied
+	me 1
+stake
+lt
+	be 1
+hotter
+	name 1
+hateful
+	to 1
+fearful
+abhorred
+	tyrant 1
+prove
+	the 1
+swords
+	i 1
+weapons
+	laugh 1
+stroke
+	of 1
+ghosts
+	will 1
+hired
+	to 1
+staves
+unbatter
+sheathe
+	again 1
+undeeded
+shouldst
+	be 1
+clatter
+bruited
+gently
+	render 1
+render
+bravely
+	in 1
+professes
+	yours 1
+viii
+	another 1
+roman
+	fool 1
+hound
+avoided
+	thee 1
+bloodier
+	villain 1
+terms
+	can 1
+losest
+	labour 1
+intrenchant
+	air 1
+vulnerable
+	crests 1
+crests
+served
+womb
+ripp
+tells
+	me 1
+cow
+juggling
+	fiends 1
+fiends
+	no 1
+believed
+palter
+	with 1
+gaze
+	o 1
+rarer
+	monsters 1
+monsters
+	are 1
+pole
+underwrit
+baited
+	with 1
+rabble
+opposed
+try
+	the 1
+shield
+fighting
+retreat
+arrived
+cheaply
+	bought 1
+missing
+paid
+	a 1
+	his 1
+debt
+prowess
+	confirm 1
+unshrinking
+	station 1
+measured
+	by 1
+hurts
+	before 1
+hairs
+fairer
+	death 1
+knoll
+parted
+	well 1
+score
+newer
+	comfort 1
+usurper
+compass
+pearl
+salutation
+	in 1
+voices
+	i 1
+aloud
+	with 1
+expense
+	of 1
+reckon
+	with 1
+henceforth
+	be 1
+earls
+planted
+	newly 1
+newly
+	with 1
+calling
+	home 1
+exiled
+	friends 1
+snares
+	of 1
+watchful
+	tyranny 1
+producing
+	forth 1
+butcher
+	and 1
+needful
+	else 1
