@@ -1,3 +1,5 @@
+package ssengine;
+
 public interface IDictionaryData {
    // Reads a txt file and appends the results to the dictionary
    void readBook(String file);

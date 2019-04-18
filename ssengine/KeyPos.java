@@ -1,3 +1,5 @@
+package ssengine;
+
 public class KeyPos {
    // Used to store a key and its position on a keyboard
    private int x;

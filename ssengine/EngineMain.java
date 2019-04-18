@@ -1,3 +1,5 @@
+package ssengine;
+
 import javafx.application.Application;
 import javafx.stage.Stage;
 import javafx.stage.FileChooser;
@@ -30,7 +32,7 @@ public class EngineMain extends Application {
          Parent root = FXMLLoader.load(getClass().getResource("mainapp.fxml"));
          Scene mainScene = new Scene(root,640,480);
          dictionaryData = new DictionaryData("dictionary.txt","mostcommonwords.txt");
-         //((DictionaryData)dd).printData();
+         //((DictionaryData)dictionaryData).printData();
          keyDistance = new KeyDistance("keyboard.txt");
          dictionary = new Dictionary(dictionaryData,keyDistance);
          mainProcessor = new SearchProcessor(dictionary);

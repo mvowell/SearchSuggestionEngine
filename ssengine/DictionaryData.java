@@ -1,3 +1,5 @@
+package ssengine;
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
@@ -10,6 +12,7 @@ public class DictionaryData implements IDictionaryData {
    public DictionaryData(String file, String fileAvoid){
       entries = new ArrayList<DictionaryEntry>();
       avoidWords = new ArrayList<>();
+      // List of removed words currently disabled, uncomment below to enable
       /*try (BufferedReader reader = new BufferedReader(new FileReader(fileAvoid))){
          String line = reader.readLine();
          while(line != null){

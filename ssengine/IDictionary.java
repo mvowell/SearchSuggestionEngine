@@ -1,3 +1,5 @@
+package ssengine;
+
 public interface IDictionary {
    // Check if a word exists in the dictionary
    boolean isWord(String word);

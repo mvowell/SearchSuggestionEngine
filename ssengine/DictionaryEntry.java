@@ -1,3 +1,5 @@
+package ssengine;
+
 import java.util.ArrayList;
 
 // This basically stores all of the dictionary data statically, DData class manages this

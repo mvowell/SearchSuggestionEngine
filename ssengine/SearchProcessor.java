@@ -1,3 +1,5 @@
+package ssengine;
+
 import java.util.ArrayList;
 
 public class SearchProcessor implements ISearchProcessor {
