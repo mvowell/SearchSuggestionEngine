@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
 import java.io.*;
+import javax.swing.JOptionPane;
 
 public class DictionaryData implements IDictionaryData {
    private ArrayList<DictionaryEntry> entries;
@@ -13,15 +14,17 @@ public class DictionaryData implements IDictionaryData {
       entries = new ArrayList<DictionaryEntry>();
       avoidWords = new ArrayList<>();
       // List of removed words currently disabled, uncomment below to enable
-      /*try (BufferedReader reader = new BufferedReader(new FileReader(fileAvoid))){
+      try (BufferedReader reader = new BufferedReader(new FileReader(fileAvoid))){
          String line = reader.readLine();
          while(line != null){
             avoidWords.add(line.trim().toLowerCase().replaceAll("[^\\p{Alpha}]",""));
             line = reader.readLine();
          }
       } catch(IOException e){
-         System.out.println("Could not load blacklist!");
-      }*/
+         JOptionPane.showMessageDialog(null,"Error: Could not load blacklist file " + file + "\n" +
+         "Please add a " + file + " file to the same folder as SearchSuggestionEngine.jar\nNow exiting");
+         System.exit(0);
+      }
       readBook(file);
    }
 
@@ -56,7 +59,8 @@ public class DictionaryData implements IDictionaryData {
             line = reader.readLine();
          }
       } catch (IOException e){
-         e.printStackTrace();
+         JOptionPane.showMessageDialog(null,"Error: Could not load book file " + file + "\n" +
+         "Please add a " + file + " file to the same folder as SearchSuggestionEngine.jar\nNow exiting");
          System.exit(0);
       }
    }

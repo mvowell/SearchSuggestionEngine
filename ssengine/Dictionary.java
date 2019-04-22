@@ -8,7 +8,7 @@ public class Dictionary implements IDictionary {
    // KeyDist obj to use
    private IKeyDistance kdist;
    // How many words to respond with
-   final int MAXRESPONSE = 100;
+   final int MAXRESPONSE = 5;
    
    public Dictionary(IDictionaryData ddata, IKeyDistance kdist){
       this.ddata = ddata;

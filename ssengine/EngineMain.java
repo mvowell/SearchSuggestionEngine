@@ -28,10 +28,17 @@ public class EngineMain extends Application {
    @Override
    public void start(Stage stage){
       try {
+         /*Thread loadingThread = new Thread(){
+            public void run(){
+               while(true)
+               JOptionPane.showMessageDialog(null,"Loading, please wait for the application to load!\n(This may take some time)");
+            }
+         };
+         loadingThread.start();*/
          this.stage = stage;
          Parent root = FXMLLoader.load(getClass().getResource("mainapp.fxml"));
          Scene mainScene = new Scene(root,640,480);
-         dictionaryData = new DictionaryData("dictionary.txt","mostcommonwords.txt");
+         dictionaryData = new DictionaryData("dictionary.txt","ignorewords.txt");
          //((DictionaryData)dictionaryData).printData();
          keyDistance = new KeyDistance("keyboard.txt");
          dictionary = new Dictionary(dictionaryData,keyDistance);
@@ -45,7 +52,9 @@ public class EngineMain extends Application {
          searchButton.setOnAction(e -> handleSearchButtonPress());
          loadFileButton.setOnAction(e -> handleLoadFile());
          searchBar.setOnKeyTyped(e -> handleTextInput(e.getText()));
-         root.setOnKeyPressed(e -> handleKeyPress(e.getCode()));
+         searchBar.setOnKeyPressed(e -> { if(e.getEventType().equals(KeyEvent.KEY_PRESSED)) handleKeyPress(e.getCode()); });
+         //root.setOnKeyTyped(e -> handleKeyPress(e.getCode()));
+         //searchBar.setOnKeyPressed(e -> handleKeyPress(e.getCode()));
          searchSuggestionList.setOnMouseClicked(
             e -> handleListSelection(
                (String)(searchSuggestionList.getSelectionModel().getSelectedItem())));
@@ -54,6 +63,7 @@ public class EngineMain extends Application {
          stage.setScene(mainScene);
          stage.setTitle("Search Suggestion Engine");
          stage.show();
+         //loadingThread.stop();
       } catch(IOException e){
          e.printStackTrace();
       }
@@ -67,7 +77,31 @@ public class EngineMain extends Application {
    
    public void handleKeyPress(KeyCode key){
       // Called in order to handle arrow keys
+      //if(key.)
       //System.out.println(key);
+      if(key.toString().equals(KeyCode.ENTER.toString())){
+         int currentSelection = searchSuggestionList.getSelectionModel().getSelectedIndex();
+         if(currentSelection == -1){
+            handleSearchButtonPress();
+         } else {
+            handleListSelection((String)searchSuggestionList.getSelectionModel().getSelectedItem());
+            searchSuggestionList.getSelectionModel().selectIndices(-1);
+         }
+      } else if(key.toString().equals(KeyCode.UP.toString())){
+         int currentSelection = searchSuggestionList.getSelectionModel().getSelectedIndex();
+         //System.out.println(currentSelection);
+         if(currentSelection > -1){
+            currentSelection--;
+            searchSuggestionList.getSelectionModel().selectIndices(currentSelection);
+         }
+      } else if(key.toString().equals(KeyCode.DOWN.toString())){
+         int currentSelection = searchSuggestionList.getSelectionModel().getSelectedIndex();
+         //System.out.println(currentSelection);
+         if(currentSelection < searchSuggestionList.getItems().size() - 1){
+            currentSelection++;
+            searchSuggestionList.getSelectionModel().selectIndices(currentSelection);
+         }
+      }
    }
    
    public void handleLoadFile(){

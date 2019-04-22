@@ -5,7 +5,7 @@ import java.util.ArrayList;
 public class SearchProcessor implements ISearchProcessor {
    private IDictionary dict;
    // Remove entries below a certain popularity
-   private int POPCUTOFF = 1000;
+   private int POPCUTOFF = 10;
    public SearchProcessor(IDictionary dict){
       this.dict = dict;
    }

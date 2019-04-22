@@ -2,6 +2,7 @@ package ssengine;
 
 import java.io.*;
 import java.util.ArrayList;
+import javax.swing.JOptionPane;
 
 public class KeyDistance implements IKeyDistance {
    // List of keys
@@ -22,8 +23,9 @@ public class KeyDistance implements IKeyDistance {
             linenum++;
          }
       } catch(Exception e){
-         System.out.println("Error: could not open keyboard file: " + file);
-         e.printStackTrace();
+         JOptionPane.showMessageDialog(null,"Error: Could not load keyboard file " + file + "\n" +
+         "Please add a " + file + " file to the same folder as SearchSuggestionEngine.jar\nNow exiting");
+         System.exit(0);
       }
    }
    
